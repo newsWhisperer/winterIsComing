@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1310894211155198
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1278360285439204
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1220133097700557
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.11890588604804987
+'Ernte',de,Herbst,#9e3215,#d64118,3,0.1189058860480498
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1093919491628556
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0935160107037757
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0842415251832458
@@ -28,5 +28,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0118512283247213
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.010036982365411
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0036323347122441
-'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0019638404291993
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0017328031586788
+'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0016692643648194049
