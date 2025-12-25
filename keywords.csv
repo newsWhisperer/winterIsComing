@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2318717386187191
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1849897722408553
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.175786755117612
-'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1393955466693061
+'Hochwasser',de,Winter,#4287f5,#022f78,3,0.13571086194163745
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1331866381881666
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1310894211155198
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1273637515455708
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0587056188664342
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0425358981759956
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0351765798891571
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.019071876640182416
+'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0190718766401824
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0100735440760131
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.010036982365411
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0030874845054074
