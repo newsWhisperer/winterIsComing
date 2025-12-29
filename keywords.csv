@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2020830828259112
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.1952793477590611
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1744650686774542
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.16108321678842724
-'Frühblüher',de,Winter,#5287e5,#638ed4,2,0.1442504204592332
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1610832167884272
+'Frühblüher',de,Winter,#5287e5,#638ed4,2,0.1460129473903482
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1357108619416374
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1310894211155198
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1273637515455708
