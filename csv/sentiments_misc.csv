@@ -1,615 +1,712 @@
 ,phrase,label,sentiment,subjectivity,language,count
-“,“,MISC,0.7755102040816325,1.3333333333333333,de,217.6000000000009
+“,“,MISC,0.3809523809523811,0.9809523809523811,de,260.80000000000103
 "Link
 ","Link
-",MISC,,,de,160.00000000000054
-Wetter“,Wetter“,MISC,,,de,63.59999999999993
+",MISC,,,de,175.30000000000064
+Wetter“,Wetter“,MISC,,,de,77.10000000000001
 Weihnachten,Weihnachten,MISC,-0.5999999999999999,5.5,de,45.09999999999996
 Gewitter im Kopf,Gewitter im Kopf,MISC,,,de,21.699999999999996
-deutschen,deutschen,MISC,,,de,18.2
+deutschen,deutschen,MISC,,,de,19.999999999999996
 DWD-Prognose,DWD-Prognose,MISC,,,de,17.200000000000003
+Winterwetter“,Winterwetter“,MISC,,,de,17.200000000000003
+Zeit,Zeit,MISC,,,de,14.600000000000003
+Wettervorhersage“,Wettervorhersage“,MISC,,,de,14.500000000000004
 Wintersport“,Wintersport“,MISC,,,de,12.700000000000003
-Zeit,Zeit,MISC,,,de,11.900000000000002
-Wettervorhersage“,Wettervorhersage“,MISC,,,de,11.800000000000002
+Verkehr“,Verkehr“,MISC,,,de,11.900000000000002
+Hamburger,Hamburger,MISC,,,de,11.800000000000002
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,11.800000000000002
 deutsche,deutsche,MISC,,,de,11.800000000000002
-Erster Schnee,Erster Schnee,MISC,,,de,10.900000000000002
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,10.000000000000002
-stern+,stern+,MISC,,,de,10.000000000000002
-Hamburger,Hamburger,MISC,,,de,10.000000000000002
-stern+statt,stern+statt,MISC,,,de,10.000000000000002
-Winterwetter“,Winterwetter“,MISC,,,de,9.100000000000001
+stern+statt,stern+statt,MISC,,,de,11.800000000000002
+stern+,stern+,MISC,,,de,11.800000000000002
+Deutscher,Deutscher,MISC,,,de,10.100000000000001
+Erster Schnee,Erster Schnee,MISC,,,de,10.000000000000002
+Schnee und Eis,Schnee und Eis,MISC,,,de,10.000000000000002
+Glatteis“,Glatteis“,MISC,,,de,9.100000000000001
 Deutsche,Deutsche,MISC,,,de,8.3
-Deutscher,Deutscher,MISC,,,de,8.3
+Gewitter im Kopf“,Gewitter im Kopf“,MISC,,,de,8.200000000000001
 Berliner,Berliner,MISC,,,de,8.200000000000001
+Eis und Schnee,Eis und Schnee,MISC,,,de,8.200000000000001
+Deutschen,Deutschen,MISC,,,de,7.400000000000001
+Sachsen,Sachsen,MISC,-0.02629708599857856,0.0,de,7.300000000000001
 Youtube-Star Jan Zimmermann,Youtube-Star Jan Zimmermann,MISC,,,de,7.300000000000001
-Sachsen,Sachsen,MISC,-0.026811594202898578,0.0,de,7.300000000000001
-Gewitter im Kopf“,Gewitter im Kopf“,MISC,,,de,7.300000000000001
-Verkehr“,Verkehr“,MISC,,,de,6.500000000000001
-Schnee und Eis,Schnee und Eis,MISC,,,de,6.4
-Deutschen,Deutschen,MISC,,,de,5.6000000000000005
 Tages,Tages,MISC,,,de,5.6000000000000005
-Götz-George-Preis,Götz-George-Preis,MISC,,,de,5.5
-Weiße Weihnachten,Weiße Weihnachten,MISC,0.0,0.0,de,5.5
-Eis und Schnee,Eis und Schnee,MISC,,,de,5.5
 Rivian,Rivian,MISC,,,de,5.5
+Götz-George-Preis,Götz-George-Preis,MISC,,,de,5.5
+Der Winter,Der Winter,MISC,,,de,5.5
+Weiße Weihnachten,Weiße Weihnachten,MISC,0.0,0.0,de,5.5
 Wetterprognose“,Wetterprognose“,MISC,,,de,4.7
-d…,d…,MISC,0.0,0.4347826086956522,de,4.6
-Leise rieselt der Schnee,Leise rieselt der Schnee,MISC,,,de,4.6
 indonesischen,indonesischen,MISC,,,de,4.6
-…,…,MISC,0.040669856459330155,0.047846889952153124,de,4.6
-Internet,Internet,MISC,,,de,4.6
-französische,französische,MISC,,,de,4.6
-Zahl der Toten,Zahl der Toten,MISC,,,de,4.6
-Instagram,Instagram,MISC,0.5,0.35714285714285715,de,4.6
+d…,d…,MISC,0.0,0.36363636363636365,de,4.6
+WM,WM,MISC,,,de,4.6
+Der Schnee,Der Schnee,MISC,,,de,4.6
+sozialen,sozialen,MISC,,,de,4.6
+…,…,MISC,0.033464566929133875,0.0393700787401575,de,4.6
+hessischen,hessischen,MISC,,,de,4.6
+T…,T…,MISC,,,de,4.6
+Wintereinbruch“,Wintereinbruch“,MISC,,,de,4.6
+Leise rieselt der Schnee,Leise rieselt der Schnee,MISC,,,de,4.6
 Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,4.6
 Deutschem,Deutschem,MISC,,,de,4.6
+französische,französische,MISC,,,de,4.6
+Ahr,Ahr,MISC,-0.2333333333333333,1.6666666666666665,de,4.6
+Internet,Internet,MISC,,,de,4.6
+G…,G…,MISC,,,de,4.6
 Das neue Jahr,Das neue Jahr,MISC,,,de,4.6
-sozialen,sozialen,MISC,,,de,4.6
-hessischen,hessischen,MISC,,,de,4.6
-spanischen,spanischen,MISC,,,de,3.6999999999999997
-norwegischen,norwegischen,MISC,,,de,3.6999999999999997
-Hochwassers,Hochwassers,MISC,,,de,3.6999999999999997
-indischen,indischen,MISC,,,de,3.6999999999999997
-Waffenruhe,Waffenruhe,MISC,,,de,3.6999999999999997
-Freyburg-Unstrut,Freyburg-Unstrut,MISC,,,de,3.6999999999999997
-"Wind, Regen","Wind, Regen",MISC,,,de,3.6999999999999997
-Heizsaison,Heizsaison,MISC,,,de,3.6999999999999997
-Der Winter,Der Winter,MISC,,,de,3.6999999999999997
-Das Wetter,Das Wetter,MISC,,,de,3.6999999999999997
-T…,T…,MISC,,,de,3.6999999999999997
-Der Schnee,Der Schnee,MISC,,,de,3.6999999999999997
-G…,G…,MISC,,,de,3.6999999999999997
-Winter: Schnee,Winter: Schnee,MISC,,,de,3.6999999999999997
-Google,Google,MISC,,,de,3.6999999999999997
-Kommunen,Kommunen,MISC,,,de,3.6999999999999997
-spanische,spanische,MISC,,,de,3.6999999999999997
+Instagram,Instagram,MISC,0.5,0.35714285714285715,de,4.6
+Zahl der Toten,Zahl der Toten,MISC,,,de,4.6
+ukrainische,ukrainische,MISC,,,de,4.4
+deutscher,deutscher,MISC,,,de,3.9
+Wetterbericht“,Wetterbericht“,MISC,,,de,3.8
 Top-Kartoffelernte,Top-Kartoffelernte,MISC,,,de,3.6999999999999997
-Euro,Euro,MISC,,,de,3.6999999999999997
-e…,e…,MISC,,,de,3.6999999999999997
-ungemütliches,ungemütliches,MISC,,,de,3.6999999999999997
-Dieses Jahr,Dieses Jahr,MISC,,,de,3.6999999999999997
-TTS Player,TTS Player,MISC,,,de,3.6999999999999997
-Destiny 2,Destiny 2,MISC,,,de,3.6999999999999997
+indischen,indischen,MISC,,,de,3.6999999999999997
 sächsischen,sächsischen,MISC,,,de,3.6999999999999997
+Kommunen,Kommunen,MISC,,,de,3.6999999999999997
+Winter: Schnee,Winter: Schnee,MISC,,,de,3.6999999999999997
+norwegischen,norwegischen,MISC,,,de,3.6999999999999997
+S…,S…,MISC,0.85,0.0,de,3.6999999999999997
 Steam,Steam,MISC,1.4,0.0,de,3.6999999999999997
+Euro,Euro,MISC,,,de,3.6999999999999997
+Waffenruhe,Waffenruhe,MISC,,,de,3.6999999999999997
+TTS Player,TTS Player,MISC,,,de,3.6999999999999997
+Hochwassers,Hochwassers,MISC,,,de,3.6999999999999997
+Destiny 2,Destiny 2,MISC,,,de,3.6999999999999997
+spanischen,spanischen,MISC,,,de,3.6999999999999997
+’s,’s,MISC,1.65,1.5,de,3.6999999999999997
+Dieses Jahr,Dieses Jahr,MISC,,,de,3.6999999999999997
+e…,e…,MISC,,,de,3.6999999999999997
+Google,Google,MISC,,,de,3.6999999999999997
+spanische,spanische,MISC,,,de,3.6999999999999997
+Freyburg-Unstrut,Freyburg-Unstrut,MISC,,,de,3.6999999999999997
+Kalter Winter,Kalter Winter,MISC,,,de,3.6999999999999997
+ungemütliches,ungemütliches,MISC,,,de,3.6999999999999997
+Heizsaison,Heizsaison,MISC,,,de,3.6999999999999997
+"Wind, Regen","Wind, Regen",MISC,,,de,3.6999999999999997
+Das Wetter,Das Wetter,MISC,,,de,3.6999999999999997
 russischen,russischen,MISC,,,de,3.5000000000000004
-ukrainische,ukrainische,MISC,,,de,3.5000000000000004
 britische,britische,MISC,,,de,3.0
-Wetterbericht“,Wetterbericht“,MISC,,,de,2.9
 Münchner,Münchner,MISC,,,de,2.9
-Bloodlines 2,Bloodlines 2,MISC,,,de,2.8
-Glatte Straßen,Glatte Straßen,MISC,,,de,2.8
-A66,A66,MISC,,,de,2.8
-S…,S…,MISC,0.85,0.0,de,2.8
-Freistaat,Freistaat,MISC,-0.06422018348623852,0.0,de,2.8
-YouTuber Jan Zimmermann,YouTuber Jan Zimmermann,MISC,,,de,2.8
-YouTuber,YouTuber,MISC,,,de,2.8
-brasilianischen,brasilianischen,MISC,,,de,2.8
-WM,WM,MISC,,,de,2.8
-MSI,MSI,MISC,,,de,2.8
-Weinlese“,Weinlese“,MISC,,,de,2.8
-Weltcup,Weltcup,MISC,,,de,2.8
-ePaper,ePaper,MISC,,,de,2.8
-Einsatz bei Schnee und Eis,Einsatz bei Schnee und Eis,MISC,,,de,2.8
-Wetterausblick“,Wetterausblick“,MISC,,,de,2.8
-T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,2.8
-Wetteraussichten“,Wetteraussichten“,MISC,,,de,2.8
-Probefahrt,Probefahrt,MISC,,,de,2.8
-Woch…,Woch…,MISC,,,de,2.8
-sozialer,sozialer,MISC,,,de,2.8
-Tourette-Syndrom,Tourette-Syndrom,MISC,,,de,2.8
-Momente,Momente,MISC,,,de,2.8
-Winter is coming,Winter is coming,MISC,,,de,2.8
-Olympischen Spiele,Olympischen Spiele,MISC,,,de,2.8
-Kronen,Kronen,MISC,,,de,2.8
-Glatteis“,Glatteis“,MISC,,,de,2.8
-österreichischen,österreichischen,MISC,,,de,2.8
+Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,2.9
 Schneefall“,Schneefall“,MISC,,,de,2.8
-Herbststurm“,Herbststurm“,MISC,,,de,2.8
-Baum des Jahres,Baum des Jahres,MISC,,,de,2.8
+Schnee“,Schnee“,MISC,0.0,1.0,de,2.8
+T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,2.8
+Minusgrade und Schnee,Minusgrade und Schnee,MISC,,,de,2.8
 Premier League,Premier League,MISC,,,de,2.8
-Vierschanzentournee,Vierschanzentournee,MISC,,,de,2.8
-europäischen,europäischen,MISC,,,de,2.8
-Schweizer,Schweizer,MISC,,,de,2.8
-Sc…,Sc…,MISC,,,de,2.8
+Leipziger,Leipziger,MISC,,,de,2.8
+A66,A66,MISC,,,de,2.8
+Kronen,Kronen,MISC,,,de,2.8
+Baum des Jahres,Baum des Jahres,MISC,,,de,2.8
+Momente,Momente,MISC,,,de,2.8
+Glatteis-Gefahr,Glatteis-Gefahr,MISC,0.0,0.0,de,2.8
+minus 7 Grad,minus 7 Grad,MISC,,,de,2.8
+Herbststurm“,Herbststurm“,MISC,,,de,2.8
+Bloodlines 2,Bloodlines 2,MISC,,,de,2.8
+Weinlese“,Weinlese“,MISC,,,de,2.8
+N…,N…,MISC,,,de,2.8
+MV,MV,MISC,-0.12727272727272726,0.0,de,2.8
+Wetteraussichten“,Wetteraussichten“,MISC,,,de,2.8
+niedersächsischen,niedersächsischen,MISC,,,de,2.8
+brasilianischen,brasilianischen,MISC,,,de,2.8
+Tourette-Syndrom,Tourette-Syndrom,MISC,,,de,2.8
+Amazon,Amazon,MISC,,,de,2.8
+Wetterausblick“,Wetterausblick“,MISC,,,de,2.8
+Winter-Barfußschuhe,Winter-Barfußschuhe,MISC,,,de,2.8
 Olympischen Spielen,Olympischen Spielen,MISC,,,de,2.8
-’s,’s,MISC,2.0,1.0,de,2.8
+YouTuber,YouTuber,MISC,,,de,2.8
+Weltcup,Weltcup,MISC,,,de,2.8
+YouTuber Jan Zimmermann,YouTuber Jan Zimmermann,MISC,,,de,2.8
+europäischen,europäischen,MISC,,,de,2.8
+MSI,MSI,MISC,,,de,2.8
+Vierschanzentournee,Vierschanzentournee,MISC,,,de,2.8
+Sc…,Sc…,MISC,,,de,2.8
+Probefahrt,Probefahrt,MISC,,,de,2.8
+österreichischen,österreichischen,MISC,,,de,2.8
+Einsatz bei Schnee und Eis,Einsatz bei Schnee und Eis,MISC,,,de,2.8
+Glatte Straßen,Glatte Straßen,MISC,,,de,2.8
+Winter is coming,Winter is coming,MISC,,,de,2.8
+Woch…,Woch…,MISC,,,de,2.8
 Ski-Weltcup,Ski-Weltcup,MISC,,,de,2.8
-Wintereinbruch“,Wintereinbruch“,MISC,,,de,2.8
+Freistaat,Freistaat,MISC,-0.05511811023622046,0.0,de,2.8
+Olympischen Spiele,Olympischen Spiele,MISC,,,de,2.8
+ePaper,ePaper,MISC,,,de,2.8
+sozialer,sozialer,MISC,,,de,2.8
+Schweizer,Schweizer,MISC,,,de,2.8
 Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2.4000000000000012
 russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,2.300000000000001
 Russische,Russische,MISC,,,de,2.1
 Ukrainer,Ukrainer,MISC,,,de,2.1
-deutscher,deutscher,MISC,,,de,2.1
-Kräftiger Wind,Kräftiger Wind,MISC,,,de,2.0
-hessische,hessische,MISC,,,de,2.0
-Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,2.0
 thüringischen,thüringischen,MISC,,,de,2.0
-Weltcupsieg,Weltcupsieg,MISC,,,de,1.9
-Indoor-Campingplätze,Indoor-Campingplätze,MISC,,,de,1.9
-russische Armee,russische Armee,MISC,,,de,1.9
-goldenen Generation,goldenen Generation,MISC,,,de,1.9
-Herbst-Steuerschätzung“,Herbst-Steuerschätzung“,MISC,,,de,1.9
-Reformen,Reformen,MISC,0.7,0.0,de,1.9
-Biker,Biker,MISC,,,de,1.9
-Schwerin,Schwerin,MISC,,,de,1.9
-Die Spende,Die Spende,MISC,,,de,1.9
-Hochtouren,Hochtouren,MISC,,,de,1.9
-LinkedIn-Post,LinkedIn-Post,MISC,,,de,1.9
-YouTube,YouTube,MISC,,,de,1.9
-D…,D…,MISC,-0.7,0.0,de,1.9
-Most important,Most important,MISC,,,de,1.9
-Weihnachtssongs,Weihnachtssongs,MISC,,,de,1.9
-demokratische Aufbruch ins Stocken,demokratische Aufbruch ins Stocken,MISC,,,de,1.9
-CO2-Laser,CO2-Laser,MISC,,,de,1.9
-Der Anbruch,Der Anbruch,MISC,,,de,1.9
-P3,P3,MISC,,,de,1.9
-Schnee“,Schnee“,MISC,0.0,1.0,de,1.9
-D1 Pro-Serie,D1 Pro-Serie,MISC,,,de,1.9
-xTool,xTool,MISC,,,de,1.9
-Das Jahr,Das Jahr,MISC,,,de,1.9
-Hardcore-Surfer,Hardcore-Surfer,MISC,,,de,1.9
-Steirerball 2026,Steirerball 2026,MISC,,,de,1.9
-Lippenherpes-Virus,Lippenherpes-Virus,MISC,,,de,1.9
-Verschneite Wälder,Verschneite Wälder,MISC,,,de,1.9
-iPhone Air,iPhone Air,MISC,,,de,1.9
-Wochenstart“,Wochenstart“,MISC,,,de,1.9
-The Chinese Room,The Chinese Room,MISC,,,de,1.9
-F…,F…,MISC,0.0,0.0,de,1.9
+a…,a…,MISC,,,de,2.0
+Distanzunterricht,Distanzunterricht,MISC,,,de,2.0
+hessische,hessische,MISC,,,de,2.0
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,2.0
+Gr…,Gr…,MISC,,,de,1.9
 Herbst,Herbst,MISC,0.0,0.0,de,1.9
-Deutsch,Deutsch,MISC,,,de,1.9
-mexikanischen,mexikanischen,MISC,,,de,1.9
-thailändischen,thailändischen,MISC,,,de,1.9
-Feine Schwaden,Feine Schwaden,MISC,,,de,1.9
-The Information,The Information,MISC,,,de,1.9
-Wiener,Wiener,MISC,,,de,1.9
-Jahr für Jahr auf weiße Weihnachten…,Jahr für Jahr auf weiße Weihnachten…,MISC,,,de,1.9
-Ratgeber,Ratgeber,MISC,,,de,1.9
-italienische,italienische,MISC,,,de,1.9
-Hause,Hause,MISC,,,de,1.9
-Kanuslalom-WM,Kanuslalom-WM,MISC,,,de,1.9
-Biathlon-Weltcup,Biathlon-Weltcup,MISC,,,de,1.9
-Woc…,Woc…,MISC,,,de,1.9
-Wetter-Vorhersage,Wetter-Vorhersage,MISC,-0.24137931034482757,0.0,de,1.9
-Wintersportgebiete“,Wintersportgebiete“,MISC,,,de,1.9
-Winter-Trainingslager,Winter-Trainingslager,MISC,,,de,1.9
-Nature Writing,Nature Writing,MISC,,,de,1.9
-Minusgrade und Schnee,Minusgrade und Schnee,MISC,,,de,1.9
-Deutsche Weininstitut,Deutsche Weininstitut,MISC,,,de,1.9
-Kabinett,Kabinett,MISC,,,de,1.9
-Das winterliche Wetter,Das winterliche Wetter,MISC,,,de,1.9
-Frühstart in den Schnee,Frühstart in den Schnee,MISC,,,de,1.9
-Schoc…,Schoc…,MISC,,,de,1.9
-Saarland“,Saarland“,MISC,,,de,1.9
-Prognose“,Prognose“,MISC,,,de,1.9
-winterliches,winterliches,MISC,,,de,1.9
-Eiswein-Ernte,Eiswein-Ernte,MISC,,,de,1.9
-Bild-Zeitung,Bild-Zeitung,MISC,,,de,1.9
-Youtube,Youtube,MISC,0.0,0.0,de,1.9
-Social-Media-Star,Social-Media-Star,MISC,,,de,1.9
-olympischen Feuers ins,olympischen Feuers ins,MISC,,,de,1.9
-Unterschiede,Unterschiede,MISC,,,de,1.9
-olympischen Winter,olympischen Winter,MISC,,,de,1.9
-Südkoreanische,Südkoreanische,MISC,,,de,1.9
-Wetterbilanz“,Wetterbilanz“,MISC,,,de,1.9
-Rodel-Legende,Rodel-Legende,MISC,,,de,1.9
-Wetter-Bilanz“,Wetter-Bilanz“,MISC,,,de,1.9
-Tag und Nacht,Tag und Nacht,MISC,,,de,1.9
-Alle Jahre wieder,Alle Jahre wieder,MISC,,,de,1.9
-Schulden-Politik,Schulden-Politik,MISC,,,de,1.9
-Themenbezug,Themenbezug,MISC,,,de,1.9
-mi…,mi…,MISC,,,de,1.9
+Entwurzelte Bäume,Entwurzelte Bäume,MISC,,,de,1.9
 Härtetest,Härtetest,MISC,,,de,1.9
-Tesla-Rivale Rivian,Tesla-Rivale Rivian,MISC,,,de,1.9
-Elektronik-Architektur,Elektronik-Architektur,MISC,,,de,1.9
-Ein Sturmtief,Ein Sturmtief,MISC,,,de,1.9
+Jahr 2010,Jahr 2010,MISC,,,de,1.9
+Schwerin,Schwerin,MISC,,,de,1.9
+H…,H…,MISC,,,de,1.9
+The Information,The Information,MISC,,,de,1.9
+Tag und Nacht,Tag und Nacht,MISC,,,de,1.9
+F…,F…,MISC,0.0,0.0,de,1.9
+iPhone Air,iPhone Air,MISC,,,de,1.9
+D…,D…,MISC,-0.7,0.0,de,1.9
+Winter-Märchen,Winter-Märchen,MISC,,,de,1.9
+YouTube,YouTube,MISC,,,de,1.9
+Tages-Skipässe,Tages-Skipässe,MISC,,,de,1.9
+Wir haben freundliches,Wir haben freundliches,MISC,,,de,1.9
+polnischer,polnischer,MISC,,,de,1.9
+ostfriesische,ostfriesische,MISC,,,de,1.9
+Torjäger Kane,Torjäger Kane,MISC,,,de,1.9
+Die Spende,Die Spende,MISC,,,de,1.9
+Milder Wochenstart,Milder Wochenstart,MISC,,,de,1.9
+we celebrate our wins together,we celebrate our wins together,MISC,,,de,1.9
+das alte Jahr,das alte Jahr,MISC,,,de,1.9
+Champions League,Champions League,MISC,,,de,1.9
+Biker,Biker,MISC,,,de,1.9
+Most important,Most important,MISC,,,de,1.9
+DFB-Pokal-Sieg,DFB-Pokal-Sieg,MISC,,,de,1.9
+Frost und Schnee,Frost und Schnee,MISC,,,de,1.9
+LinkedIn-Post,LinkedIn-Post,MISC,,,de,1.9
+Reformen,Reformen,MISC,0.7,0.0,de,1.9
+neuen Jahr,neuen Jahr,MISC,,,de,1.9
+Wochenstart“,Wochenstart“,MISC,,,de,1.9
+Schulden-Politik,Schulden-Politik,MISC,,,de,1.9
 V…,V…,MISC,,,de,1.9
-s…,s…,MISC,0.0,0.0,de,1.9
+Tesla-Rivale Rivian,Tesla-Rivale Rivian,MISC,,,de,1.9
+Der Preis,Der Preis,MISC,,,de,1.9
+Elektronik-Architektur,Elektronik-Architektur,MISC,,,de,1.9
+Wetterbilanz“,Wetterbilanz“,MISC,,,de,1.9
+Ratgeber,Ratgeber,MISC,,,de,1.9
 Winter-Monaten,Winter-Monaten,MISC,,,de,1.9
 Abo verspr…,Abo verspr…,MISC,,,de,1.9
-Jasmin,Jasmin,MISC,,,de,1.9
-Sturm und Regen,Sturm und Regen,MISC,,,de,1.9
-Winterdienst“,Winterdienst“,MISC,,,de,1.9
+Wiener,Wiener,MISC,,,de,1.9
 Eis“,Eis“,MISC,,,de,1.9
-Nordseeküste,Nordseeküste,MISC,0.0,0.0,de,1.9
-Wetter in Nordrhein-Westfalen“,Wetter in Nordrhein-Westfalen“,MISC,,,de,1.9
-italienischen,italienischen,MISC,,,de,1.9
+olympischen Feuers ins,olympischen Feuers ins,MISC,,,de,1.9
+Re…,Re…,MISC,,,de,1.9
 amerikanischen,amerikanischen,MISC,,,de,1.9
 De…,De…,MISC,,,de,1.9
+Saarland“,Saarland“,MISC,,,de,1.9
+Social-Media-Star,Social-Media-Star,MISC,,,de,1.9
 Regenzeit,Regenzeit,MISC,,,de,1.9
 Sumatra,Sumatra,MISC,0.0,0.0,de,1.9
 Erdrutschen u…,Erdrutschen u…,MISC,,,de,1.9
-we celebrate our wins together,we celebrate our wins together,MISC,,,de,1.9
+Youtube,Youtube,MISC,0.0,0.0,de,1.9
+Bild-Zeitung,Bild-Zeitung,MISC,,,de,1.9
+Wetter-Bilanz“,Wetter-Bilanz“,MISC,,,de,1.9
+olympischen Winter,olympischen Winter,MISC,,,de,1.9
+winterliches,winterliches,MISC,,,de,1.9
+Jahr für Jahr auf weiße Weihnachten…,Jahr für Jahr auf weiße Weihnachten…,MISC,,,de,1.9
+Schoc…,Schoc…,MISC,,,de,1.9
 Jahr 2025,Jahr 2025,MISC,,,de,1.9
-Milder Wochenstart,Milder Wochenstart,MISC,,,de,1.9
-Champions League,Champions League,MISC,,,de,1.9
-TCL,TCL,MISC,,,de,1.9
-Smart-TVs,Smart-TVs,MISC,,,de,1.9
-Google TV,Google TV,MISC,,,de,1.9
-N…,N…,MISC,,,de,1.9
-GTC 2025,GTC 2025,MISC,,,de,1.9
-steirischen,steirischen,MISC,,,de,1.9
-Apfelernte“,Apfelernte“,MISC,,,de,1.9
-Nussschokolade,Nussschokolade,MISC,,,de,1.9
-DFB-Pokal-Sieg,DFB-Pokal-Sieg,MISC,,,de,1.9
-Video,Video,MISC,,,de,1.9
-ersten Tagen des Jahres,ersten Tagen des Jahres,MISC,,,de,1.9
-Das Jahr fängt,Das Jahr fängt,MISC,,,de,1.9
-Wasserkuppe ins neue Jahr,Wasserkuppe ins neue Jahr,MISC,,,de,1.9
-steirische,steirische,MISC,,,de,1.9
-Im Winter,Im Winter,MISC,,,de,1.9
-Nutella,Nutella,MISC,1.4,0.0,de,1.9
-ostfriesische,ostfriesische,MISC,,,de,1.9
-Tages-Skipässe,Tages-Skipässe,MISC,,,de,1.9
-polnischer,polnischer,MISC,,,de,1.9
-Entwurzelte Bäume,Entwurzelte Bäume,MISC,,,de,1.9
-das alte Jahr,das alte Jahr,MISC,,,de,1.9
-Vorjahres,Vorjahres,MISC,0.0,1.0,de,1.9
-Winter-Märchen,Winter-Märchen,MISC,,,de,1.9
-Frost und Schnee,Frost und Schnee,MISC,,,de,1.9
-ICE 2,ICE 2,MISC,,,de,1.9
-Lightning,Lightning,MISC,,,de,1.9
-neuen Jahr,neuen Jahr,MISC,,,de,1.9
+Deutsch…,Deutsch…,MISC,,,de,1.9
+Deutsche Weininstitut,Deutsche Weininstitut,MISC,,,de,1.9
+Kanuslalom-WM,Kanuslalom-WM,MISC,,,de,1.9
+Biathlon-Weltcup,Biathlon-Weltcup,MISC,,,de,1.9
+Das winterliche Wetter,Das winterliche Wetter,MISC,,,de,1.9
+Woc…,Woc…,MISC,,,de,1.9
+Wetter-Vorhersage,Wetter-Vorhersage,MISC,-0.24137931034482757,0.0,de,1.9
+Nature Writing,Nature Writing,MISC,,,de,1.9
+Winter-Trainingslager,Winter-Trainingslager,MISC,,,de,1.9
+Rodel-Legende,Rodel-Legende,MISC,,,de,1.9
+Nordseeküste,Nordseeküste,MISC,0.0,0.0,de,1.9
+Unterschiede,Unterschiede,MISC,,,de,1.9
+Sturm und Regen,Sturm und Regen,MISC,,,de,1.9
+Indoor-Campingplätze,Indoor-Campingplätze,MISC,,,de,1.9
+Weihnachtssongs,Weihnachtssongs,MISC,,,de,1.9
+Jasmin,Jasmin,MISC,,,de,1.9
+Winterdienst“,Winterdienst“,MISC,,,de,1.9
+Verschneite Wälder,Verschneite Wälder,MISC,,,de,1.9
+Feine Schwaden,Feine Schwaden,MISC,,,de,1.9
+italienischen,italienischen,MISC,,,de,1.9
+Der Anbruch,Der Anbruch,MISC,,,de,1.9
+Steirerball 2026,Steirerball 2026,MISC,,,de,1.9
+mexikanischen,mexikanischen,MISC,,,de,1.9
+s…,s…,MISC,0.0,0.0,de,1.9
+Südkoreanische,Südkoreanische,MISC,,,de,1.9
+Das Jahr,Das Jahr,MISC,,,de,1.9
+demokratische Aufbruch ins Stocken,demokratische Aufbruch ins Stocken,MISC,,,de,1.9
+Lippenherpes-Virus,Lippenherpes-Virus,MISC,,,de,1.9
+The Chinese Room,The Chinese Room,MISC,,,de,1.9
+goldenen Generation,goldenen Generation,MISC,,,de,1.9
+Weltcupsieg,Weltcupsieg,MISC,,,de,1.9
+Wetter in Nordrhein-Westfalen“,Wetter in Nordrhein-Westfalen“,MISC,,,de,1.9
+mi…,mi…,MISC,,,de,1.9
+Wintersportgebiete“,Wintersportgebiete“,MISC,,,de,1.9
+Deutsch,Deutsch,MISC,,,de,1.9
+Alle Jahre wieder,Alle Jahre wieder,MISC,,,de,1.9
+Themenbezug,Themenbezug,MISC,,,de,1.9
+Kabinett,Kabinett,MISC,,,de,1.9
+Frühstart in den Schnee,Frühstart in den Schnee,MISC,,,de,1.9
+Eiswein-Ernte,Eiswein-Ernte,MISC,,,de,1.9
+italienische,italienische,MISC,,,de,1.9
+Hause,Hause,MISC,,,de,1.9
+Ein Sturmtief,Ein Sturmtief,MISC,,,de,1.9
+Prognose“,Prognose“,MISC,,,de,1.9
+MV“,MV“,MISC,,,de,1.9
+Hochtouren,Hochtouren,MISC,0.0,0.0,de,1.9
+Glatteis,Glatteis,MISC,0.005591054313099027,0.0,de,1.9
 Obsternte,Obsternte,MISC,,,de,1.9
-H2S,H2S,MISC,,,de,1.9
-H2D,H2D,MISC,,,de,1.9
-P…,P…,MISC,,,de,1.9
-englischen,englischen,MISC,,,de,1.9
-Winter-Test,Winter-Test,MISC,,,de,1.9
+Glatteis-Gefahr“,Glatteis-Gefahr“,MISC,,,de,1.9
+oberösterreichischen,oberösterreichischen,MISC,,,de,1.9
+Herbst-Steuerschätzung“,Herbst-Steuerschätzung“,MISC,,,de,1.9
 W…,W…,MISC,0.0,0.0,de,1.9
-Wir haben freundliches,Wir haben freundliches,MISC,,,de,1.9
+russische Armee,russische Armee,MISC,,,de,1.9
+Vorjahres,Vorjahres,MISC,0.0,1.0,de,1.9
+Wildtieren,Wildtieren,MISC,,,de,1.9
+Winter-Test,Winter-Test,MISC,,,de,1.9
+Video,Video,MISC,,,de,1.9
+Stromnetz,Stromnetz,MISC,,,de,1.9
+bayerischen,bayerischen,MISC,,,de,1.9
+Winter-Sonntag,Winter-Sonntag,MISC,,,de,1.9
+Der römische Traum“,Der römische Traum“,MISC,,,de,1.9
+steirische,steirische,MISC,,,de,1.9
+Hardcore-Surfer,Hardcore-Surfer,MISC,,,de,1.9
+Winterspielen,Winterspielen,MISC,,,de,1.9
+Der erste Schnee,Der erste Schnee,MISC,,,de,1.9
+Schnee und Eis“,Schnee und Eis“,MISC,,,de,1.9
+Der Mann,Der Mann,MISC,,,de,1.9
+Schnee und Eisglätte,Schnee und Eisglätte,MISC,,,de,1.9
+WOW-Hotel,WOW-Hotel,MISC,,,de,1.9
+ICE 2,ICE 2,MISC,,,de,1.9
 argentinische,argentinische,MISC,,,de,1.9
-Kurzes Intermezzo,Kurzes Intermezzo,MISC,,,de,1.9
-niedersächsischen,niedersächsischen,MISC,,,de,1.9
-Der Preis,Der Preis,MISC,,,de,1.9
+Wasserkuppe ins neue Jahr,Wasserkuppe ins neue Jahr,MISC,,,de,1.9
+Das Jahr fängt,Das Jahr fängt,MISC,,,de,1.9
+TCL,TCL,MISC,,,de,1.9
+thailändischen,thailändischen,MISC,,,de,1.9
+Nutella,Nutella,MISC,1.4,0.0,de,1.9
+Apfelernte“,Apfelernte“,MISC,,,de,1.9
+Smart-TVs,Smart-TVs,MISC,,,de,1.9
+Spiele,Spiele,MISC,,,de,1.9
+Im Winter,Im Winter,MISC,,,de,1.9
 Der Newsblog,Der Newsblog,MISC,,,de,1.9
+H2D,H2D,MISC,,,de,1.9
 Welt.de,Welt.de,MISC,,,de,1.9
+steirischen,steirischen,MISC,,,de,1.9
+Nussschokolade,Nussschokolade,MISC,,,de,1.9
 Das Winterwetter hält Deutschland,Das Winterwetter hält Deutschland,MISC,,,de,1.9
+H2S,H2S,MISC,,,de,1.9
 Christmas Garden,Christmas Garden,MISC,-0.35,0.5,de,1.9
 Ernst,Ernst,MISC,,,de,1.9
-Stromnetz,Stromnetz,MISC,,,de,1.9
-Der Mann,Der Mann,MISC,,,de,1.9
-Winterspielen,Winterspielen,MISC,,,de,1.9
-Jahr 2010,Jahr 2010,MISC,,,de,1.9
+GTC 2025,GTC 2025,MISC,,,de,1.9
 Wintereinbruchs,Wintereinbruchs,MISC,,,de,1.9
-Der römische Traum“,Der römische Traum“,MISC,,,de,1.9
-Torjäger Kane,Torjäger Kane,MISC,,,de,1.9
-minus 7 Grad,minus 7 Grad,MISC,,,de,1.9
-Glatteis-Gefahr,Glatteis-Gefahr,MISC,0.0,0.0,de,1.9
-bayerischen,bayerischen,MISC,,,de,1.9
-Der erste Schnee,Der erste Schnee,MISC,,,de,1.9
+englischen,englischen,MISC,,,de,1.9
+ersten Tagen des Jahres,ersten Tagen des Jahres,MISC,,,de,1.9
+P3,P3,MISC,,,de,1.9
+CO2-Laser,CO2-Laser,MISC,,,de,1.9
+D1 Pro-Serie,D1 Pro-Serie,MISC,,,de,1.9
+P…,P…,MISC,,,de,1.9
+Google TV,Google TV,MISC,,,de,1.9
+Lightning,Lightning,MISC,,,de,1.9
+xTool,xTool,MISC,,,de,1.9
 ukrainischen,ukrainischen,MISC,,,de,1.5000000000000004
 russische,russische,MISC,,,de,1.4000000000000004
 Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,1.3000000000000003
 Schilf-Glasflügelzikade,Schilf-Glasflügelzikade,MISC,,,de,1.3000000000000003
-französischen,französischen,MISC,,,de,1.2000000000000002
 Tatort“,Tatort“,MISC,,,de,1.2000000000000002
-Die Nibelungen,Die Nibelungen,MISC,,,de,1.2000000000000002
 Krisenvorsorge,Krisenvorsorge,MISC,,,de,1.2000000000000002
-Distanzunterricht,Distanzunterricht,MISC,,,de,1.1
-Casting-Update,Casting-Update,MISC,,,de,1.1
-Sci-Fi-Star,Sci-Fi-Star,MISC,,,de,1.1
+Die Nibelungen,Die Nibelungen,MISC,,,de,1.2000000000000002
+französischen,französischen,MISC,,,de,1.2000000000000002
 z…,z…,MISC,,,de,1.1
-"Eiswelt""-Ausstellung","Eiswelt""-Ausstellung",MISC,,,de,1.1
-Kriegswinter,Kriegswinter,MISC,,,de,1.1
-Tatort,Tatort,MISC,,,de,1.1
-Artenschutz“,Artenschutz“,MISC,,,de,1.1
-Naturschutz“,Naturschutz“,MISC,,,de,1.1
-Schulen“,Schulen“,MISC,,,de,1.1
-Heimatschutzregiment,Heimatschutzregiment,MISC,,,de,1.1
-a…,a…,MISC,,,de,1.1
-Krieg in der Ukraine“,Krieg in der Ukraine“,MISC,,,de,1.1
 nic…,nic…,MISC,,,de,1.1
-Tag,Tag,MISC,0.7368421052631579,0.0,de,1.1
-Fans lieben,Fans lieben,MISC,,,de,1.1
-UPDATE startest du jeden Morgen,UPDATE startest du jeden Morgen,MISC,,,de,1.1
-Sturmtief,Sturmtief,MISC,0.0,0.0,de,1.1
-Superfood,Superfood,MISC,,,de,1.1
-Fung Wong“,Fung Wong“,MISC,,,de,1.1
-Jahr 2013,Jahr 2013,MISC,,,de,1.1
-Flut-Hölle,Flut-Hölle,MISC,,,de,1.1
-Hurrikan,Hurrikan,MISC,,,de,1.1
+Tatort,Tatort,MISC,,,de,1.1
 RTL+,RTL+,MISC,,,de,1.1
 Mercedes 380 SLC,Mercedes 380 SLC,MISC,,,de,1.1
+Artenschutz“,Artenschutz“,MISC,,,de,1.1
+Hurrikan,Hurrikan,MISC,,,de,1.1
+Flut-Hölle,Flut-Hölle,MISC,,,de,1.1
+Jahr 2013,Jahr 2013,MISC,,,de,1.1
+Krieg in der Ukraine“,Krieg in der Ukraine“,MISC,,,de,1.1
+Sturmtief,Sturmtief,MISC,0.0,0.0,de,1.1
+Heimatschutzregiment,Heimatschutzregiment,MISC,,,de,1.1
+Schulen“,Schulen“,MISC,,,de,1.1
+Fans lieben,Fans lieben,MISC,,,de,1.1
+Superfood,Superfood,MISC,,,de,1.1
+"Eiswelt""-Ausstellung","Eiswelt""-Ausstellung",MISC,,,de,1.1
+Tag,Tag,MISC,0.5,0.0,de,1.1
+Fung Wong“,Fung Wong“,MISC,,,de,1.1
+Casting-Update,Casting-Update,MISC,,,de,1.1
+Sci-Fi-Star,Sci-Fi-Star,MISC,,,de,1.1
+Kriegswinter,Kriegswinter,MISC,,,de,1.1
+UPDATE startest du jeden Morgen,UPDATE startest du jeden Morgen,MISC,,,de,1.1
 tschechischer,tschechischer,MISC,,,de,1.1
+Naturschutz“,Naturschutz“,MISC,,,de,1.1
 afrikanischen,afrikanischen,MISC,,,de,1.1
-minus 10 Grad,minus 10 Grad,MISC,,,de,1.0
-Chile,Chile,MISC,0.0,0.0,de,1.0
-Tag davor turnt der spanische,Tag davor turnt der spanische,MISC,,,de,1.0
-Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,1.0
-Wein-Ernte,Wein-Ernte,MISC,,,de,1.0
-Alien“,Alien“,MISC,,,de,1.0
-Insekten-Alien“,Insekten-Alien“,MISC,,,de,1.0
-Das kalte und winterliche Wetter,Das kalte und winterliche Wetter,MISC,,,de,1.0
-Wied…,Wied…,MISC,,,de,1.0
-Winterwetter in Mitteldeutschland“,Winterwetter in Mitteldeutschland“,MISC,,,de,1.0
-ju…,ju…,MISC,,,de,1.0
-Das Wichtigste,Das Wichtigste,MISC,,,de,1.0
-Kabinett“,Kabinett“,MISC,,,de,1.0
-minus 10 Grad“,minus 10 Grad“,MISC,,,de,1.0
-RTL+“,RTL+“,MISC,,,de,1.0
-Größter Vollmond des Jahres,Größter Vollmond des Jahres,MISC,,,de,1.0
-Wein“,Wein“,MISC,,,de,1.0
-Mexikaner,Mexikaner,MISC,,,de,1.0
-Sole i…,Sole i…,MISC,,,de,1.0
-Insolvenzve…,Insolvenzve…,MISC,,,de,1.0
-Bloom“,Bloom“,MISC,,,de,1.0
-römische,römische,MISC,,,de,1.0
-Wintersport-Arena Sa…,Wintersport-Arena Sa…,MISC,,,de,1.0
-Frankfurter,Frankfurter,MISC,,,de,1.0
-Verke…,Verke…,MISC,,,de,1.0
-winterlich-kalten,winterlich-kalten,MISC,,,de,1.0
-Verordnungs-Dschungel,Verordnungs-Dschungel,MISC,,,de,1.0
-Kammer 26b,Kammer 26b,MISC,,,de,1.0
-Aufruf der Sache,Aufruf der Sache,MISC,,,de,1.0
-Freak Circus,Freak Circus,MISC,,,de,1.0
-zw…,zw…,MISC,,,de,1.0
-sucht nach technischen …,sucht nach technischen …,MISC,,,de,1.0
-Hamburg gi…,Hamburg gi…,MISC,,,de,1.0
-südkoreanische,südkoreanische,MISC,,,de,1.0
-Frieden zerbrechlich und,Frieden zerbrechlich und,MISC,,,de,1.0
-Frieden zerbrechlich,Frieden zerbrechlich,MISC,,,de,1.0
-Nasskaltes Wetter zum Wochenstart und Schnee,Nasskaltes Wetter zum Wochenstart und Schnee,MISC,,,de,1.0
-Fischen…,Fischen…,MISC,,,de,1.0
-Lebensmittelpreise“,Lebensmittelpreise“,MISC,,,de,1.0
-Judy Winter,Judy Winter,MISC,,,de,1.0
-Rohkakaopreise,Rohkakaopreise,MISC,,,de,1.0
-Krieg,Krieg,MISC,,,de,1.0
-Zweitliga-Meister,Zweitliga-Meister,MISC,,,de,1.0
-Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1.0
-Herbstliche Gefahr“,Herbstliche Gefahr“,MISC,,,de,1.0
-Date Ideen,Date Ideen,MISC,,,de,1.0
-Neuburg-Schrobenhausen“,Neuburg-Schrobenhausen“,MISC,,,de,1.0
-Weltcup-Saison,Weltcup-Saison,MISC,,,de,1.0
-Wir trauern um die Millionen Opfer,Wir trauern um die Millionen Opfer,MISC,,,de,1.0
-Ökologischer Ausgleich“,Ökologischer Ausgleich“,MISC,,,de,1.0
-Umstrittenes Fest“,Umstrittenes Fest“,MISC,,,de,1.0
-Treimischer Teichen,Treimischer Teichen,MISC,,,de,1.0
-Fahrradlichtkontrollwochen 2025,Fahrradlichtkontrollwochen 2025,MISC,,,de,1.0
-Fröhliche Hungerspiele,Fröhliche Hungerspiele,MISC,,,de,1.0
-Licht im Dunkeln,Licht im Dunkeln,MISC,,,de,1.0
-Sa…,Sa…,MISC,,,de,1.0
-Glückwunsch,Glückwunsch,MISC,,,de,1.0
-Hause der Strom,Hause der Strom,MISC,,,de,1.0
-Schön hell,Schön hell,MISC,,,de,1.0
-Ballermann,Ballermann,MISC,,,de,1.0
-Neue Leuchten:,Neue Leuchten:,MISC,,,de,1.0
-Ballermann-Saison,Ballermann-Saison,MISC,,,de,1.0
-Schn…,Schn…,MISC,,,de,1.0
-Stall“,Stall“,MISC,,,de,1.0
-Rote Harzkühe,Rote Harzkühe,MISC,,,de,1.0
-Partyschlager“,Partyschlager“,MISC,,,de,1.0
-Herbst-Steuerschätzung,Herbst-Steuerschätzung,MISC,0.0,0.5263157894736842,de,1.0
-Erbeskopf“,Erbeskopf“,MISC,,,de,1.0
-"Shutterstock.com
-","Shutterstock.com
-",MISC,-1.0,0.0,de,1.0
-Rh…,Rh…,MISC,,,de,1.0
-Soziale Isolation,Soziale Isolation,MISC,,,de,1.0
-Party-People,Party-People,MISC,,,de,1.0
-Winterwetter im Herbst,Winterwetter im Herbst,MISC,,,de,1.0
-Montagfrüh Schneeglätte“,Montagfrüh Schneeglätte“,MISC,,,de,1.0
-Linienbus,Linienbus,MISC,0.0,0.0,de,1.0
-Eiswein-Ernte“,Eiswein-Ernte“,MISC,,,de,1.0
-RGB30,RGB30,MISC,,,de,1.0
-Gefrierbeuteln,Gefrierbeuteln,MISC,,,de,1.0
-Regimentsappell“,Regimentsappell“,MISC,,,de,1.0
-Männern,Männern,MISC,,,de,1.0
-Das Gute Haus“,Das Gute Haus“,MISC,,,de,1.0
-Wearable,Wearable,MISC,,,de,1.0
-Pflicht-Update,Pflicht-Update,MISC,,,de,1.0
-Home-App,Home-App,MISC,,,de,1.0
-Apple,Apple,MISC,,,de,1.0
-Signale,Signale,MISC,,,de,1.0
-Routiniers,Routiniers,MISC,,,de,1.0
-TV-Mikrofon,TV-Mikrofon,MISC,,,de,1.0
-Mord im Alten Land,Mord im Alten Land,MISC,,,de,1.0
-Was macht der Klimawandel,Was macht der Klimawandel,MISC,,,de,1.0
-RomM“,RomM“,MISC,,,de,1.0
-Verkehrsbehinderungen“,Verkehrsbehinderungen“,MISC,,,de,1.0
-Herbstmodus“,Herbstmodus“,MISC,,,de,1.0
-Winterliches Wetter,Winterliches Wetter,MISC,,,de,1.0
-Saarl…,Saarl…,MISC,,,de,1.0
-Wochenstar…,Wochenstar…,MISC,,,de,1.0
-Chancen auf …,Chancen auf …,MISC,,,de,1.0
-Unfälle,Unfälle,MISC,0.0,0.0,de,1.0
-Grad herrs…,Grad herrs…,MISC,,,de,1.0
-Olympia-Historie,Olympia-Historie,MISC,,,de,1.0
-Mikaela Shiffrin,Mikaela Shiffrin,MISC,,,de,1.0
-Geschädigte Haut,Geschädigte Haut,MISC,,,de,1.0
-Sturmtief“,Sturmtief“,MISC,,,de,1.0
-Der Home-App,Der Home-App,MISC,,,de,1.0
-Nebelmaschine,Nebelmaschine,MISC,,,de,1.0
-Erö…,Erö…,MISC,,,de,1.0
-Eisige Temperaturen und Glatteis,Eisige Temperaturen und Glatteis,MISC,,,de,1.0
-IMAGO/Rene,IMAGO/Rene,MISC,,,de,1.0
-Virus,Virus,MISC,,,de,1.0
-Wetterlage“,Wetterlage“,MISC,,,de,1.0
-Die Ernte von Silomais,Die Ernte von Silomais,MISC,,,de,1.0
-Niedrigwasser-Lagebericht“,Niedrigwasser-Lagebericht“,MISC,,,de,1.0
-Das vergangene Jahr war,Das vergangene Jahr war,MISC,,,de,1.0
-Goldenen Dachl,Goldenen Dachl,MISC,,,de,1.0
-Lawi…,Lawi…,MISC,,,de,1.0
-Rückzugsmöglichkei…,Rückzugsmöglichkei…,MISC,,,de,1.0
-Euro Rabatt,Euro Rabatt,MISC,,,de,1.0
-Russische Torschlusspanik,Russische Torschlusspanik,MISC,,,de,1.0
-Der Start,Der Start,MISC,,,de,1.0
-Wechselhaft und windiges Wetter +++ Auf der Wasserkuppe,Wechselhaft und windiges Wetter +++ Auf der Wasserkuppe,MISC,,,de,1.0
-he...,he...,MISC,,,de,1.0
-Dauerfrost,Dauerfrost,MISC,0.0,0.0,de,1.0
-November-Sommer,November-Sommer,MISC,0.0,1.0,de,1.0
-Zwei Jahre,Zwei Jahre,MISC,,,de,1.0
-21.11.2025,21.11.2025,MISC,,,de,1.0
-Bewirtschaftetes Land,Bewirtschaftetes Land,MISC,,,de,1.0
-Sieben Tote,Sieben Tote,MISC,,,de,1.0
-Fitness,Fitness,MISC,,,de,1.0
-vo…,vo…,MISC,,,de,1.0
-Deu…,Deu…,MISC,,,de,1.0
-Wintergruß“,Wintergruß“,MISC,,,de,1.0
-Das Tiefdruckgebiet «Joshua,Das Tiefdruckgebiet «Joshua,MISC,,,de,1.0
-Tragödie im Himalaya,Tragödie im Himalaya,MISC,,,de,1.0
-Holt sie euc…,Holt sie euc…,MISC,,,de,1.0
-Kälte-Weisheiten,Kälte-Weisheiten,MISC,,,de,1.0
-Gesundheit“,Gesundheit“,MISC,,,de,1.0
-Pro Bienenvolk,Pro Bienenvolk,MISC,,,de,1.0
-Stürmischer Wochenstart,Stürmischer Wochenstart,MISC,,,de,1.0
-Minusgrade und Schneeflocken,Minusgrade und Schneeflocken,MISC,,,de,1.0
-Dienstag,Dienstag,MISC,0.0,0.0,de,1.0
-Olympischen Winterspiele,Olympischen Winterspiele,MISC,,,de,1.0
-xTool F2,xTool F2,MISC,,,de,1.0
-Uh…,Uh…,MISC,,,de,1.0
-Zielgerade,Zielgerade,MISC,,,de,1.0
-Erholungskurs,Erholungskurs,MISC,0.15000000000000002,0.0,de,1.0
-Körnern,Körnern,MISC,,,de,1.0
-Nacht gepr…,Nacht gepr…,MISC,,,de,1.0
-Initiative“,Initiative“,MISC,,,de,1.0
-Euro Steuermittel,Euro Steuermittel,MISC,,,de,1.0
-Berlin/Peine,Berlin/Peine,MISC,,,de,1.0
-Widerstand gegen…,Widerstand gegen…,MISC,,,de,1.0
-Die steirische Erntebilanz,Die steirische Erntebilanz,MISC,,,de,1.0
-Ei…,Ei…,MISC,,,de,1.0
-Kartoffeln-Wahnsinn,Kartoffeln-Wahnsinn,MISC,,,de,1.0
-philippinischen,philippinischen,MISC,,,de,1.0
-Berchtesgadener Land,Berchtesgadener Land,MISC,0.0,0.0,de,1.0
-Bergwacht,Bergwacht,MISC,,,de,1.0
-Herbst in Berlin,Herbst in Berlin,MISC,,,de,1.0
-H…,H…,MISC,,,de,1.0
-Die Zeit der Finsternis,Die Zeit der Finsternis,MISC,,,de,1.0
-Unser Planet,Unser Planet,MISC,,,de,1.0
-A… Hurrikan,A… Hurrikan,MISC,,,de,1.0
-Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,1.0
-Sommertourismus lachte die Sonne,Sommertourismus lachte die Sonne,MISC,,,de,1.0
-CSU-Politiker,CSU-Politiker,MISC,,,de,1.0
-Die Zahl der nächtigenden Urlauberinnen und Urlauber,Die Zahl der nächtigenden Urlauberinnen und Urlauber,MISC,,,de,1.0
-Polar-Express,Polar-Express,MISC,,,de,1.0
-Ukrainische,Ukrainische,MISC,,,de,1.0
-Canadian Premier League,Canadian Premier League,MISC,,,de,1.0
-Erntemenge,Erntemenge,MISC,,,de,1.0
-Kartoffelbauern,Kartoffelbauern,MISC,-0.03571428571428572,0.0,de,1.0
-Rilke-Jahre,Rilke-Jahre,MISC,,,de,1.0
-Tor seines Lebens,Tor seines Lebens,MISC,,,de,1.0
-Endspurt auf den Äckern,Endspurt auf den Äckern,MISC,,,de,1.0
-A2“,A2“,MISC,,,de,1.0
-Wintergemüse“,Wintergemüse“,MISC,,,de,1.0
-Zeit um …,Zeit um …,MISC,,,de,1.0
-20Millionen,20Millionen,MISC,,,de,1.0
-ostukrainischen,ostukrainischen,MISC,,,de,1.0
-inn…,inn…,MISC,,,de,1.0
-Wegrechen,Wegrechen,MISC,,,de,1.0
-belgischen,belgischen,MISC,,,de,1.0
-Winterdienst-Saison“,Winterdienst-Saison“,MISC,,,de,1.0
-Tempo 60,Tempo 60,MISC,,,de,1.0
-Snapping 2025/Snap Dance“,Snapping 2025/Snap Dance“,MISC,,,de,1.0
-Geh…,Geh…,MISC,,,de,1.0
-Einsamer Tanz im Hotelzimmer,Einsamer Tanz im Hotelzimmer,MISC,,,de,1.0
-xTool F2 Ultra zude…,xTool F2 Ultra zude…,MISC,,,de,1.0
-ge…,ge…,MISC,,,de,1.0
-Windgeschwin…,Windgeschwin…,MISC,,,de,1.0
-M1 Ultra,M1 Ultra,MISC,,,de,1.0
-Atesh-Agenten,Atesh-Agenten,MISC,,,de,1.0
-Vier Tote,Vier Tote,MISC,,,de,1.0
-Kyiv Independent,Kyiv Independent,MISC,,,de,1.0
-Ukrainern,Ukrainern,MISC,,,de,1.0
-DFB-Team,DFB-Team,MISC,,,de,1.0
-belgischem,belgischem,MISC,,,de,1.0
-Zehn Jahre nach dem Abkommen von Paris,Zehn Jahre nach dem Abkommen von Paris,MISC,,,de,1.0
-Pariser Klimaabkommen,Pariser Klimaabkommen,MISC,,,de,1.0
-Einreise-Verbot,Einreise-Verbot,MISC,0.0,0.0,de,1.0
-Laub auf dem Rasen,Laub auf dem Rasen,MISC,,,de,1.0
-tausendjährliches,tausendjährliches,MISC,,,de,1.0
-minus 8 Grad“,minus 8 Grad“,MISC,,,de,1.0
-Ukrainischer,Ukrainischer,MISC,,,de,1.0
-Eiskunst“,Eiskunst“,MISC,,,de,1.0
-minus 8 Grad,minus 8 Grad,MISC,,,de,1.0
-Sturm…,Sturm…,MISC,,,de,1.0
-"Dinosaurier
-","Dinosaurier
-",MISC,,,de,1.0
-Angriff im Bezirk Samarivskyi,Angriff im Bezirk Samarivskyi,MISC,,,de,1.0
-Corporate Girls,Corporate Girls,MISC,,,de,1.0
-Alarm auf den Philippinen,Alarm auf den Philippinen,MISC,,,de,1.0
-Mode im Herbst: Tradwives,Mode im Herbst: Tradwives,MISC,,,de,1.0
-Atemwegsinfekte,Atemwegsinfekte,MISC,,,de,1.0
-Straßenverkehr“,Straßenverkehr“,MISC,,,de,1.0
-Ba…,Ba…,MISC,,,de,1.0
-09.11.2025,09.11.2025,MISC,,,de,1.0
-Scho...,Scho...,MISC,,,de,1.0
-Grünkohl,Grünkohl,MISC,,,de,1.0
-Art-Basel-Messe,Art-Basel-Messe,MISC,,,de,1.0
-Termine,Termine,MISC,,,de,1.0
-Bewölkun…,Bewölkun…,MISC,,,de,1.0
-Bayerische,Bayerische,MISC,,,de,1.0
-Ein halbes Jahr,Ein halbes Jahr,MISC,,,de,1.0
-Termine…,Termine…,MISC,,,de,1.0
-"Frühling in Deutschland
-","Frühling in Deutschland
-",MISC,,,de,1.0
-Der Ibiza-Winter,Der Ibiza-Winter,MISC,,,de,1.0
-Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1.0
-Ibiza-Winter,Ibiza-Winter,MISC,,,de,1.0
 Google TV Streamer,Google TV Streamer,MISC,,,de,1.0
-Komfort,Komfort,MISC,,,de,1.0
-Hilfsangebote“,Hilfsangebote“,MISC,,,de,1.0
-Kaltfront“,Kaltfront“,MISC,,,de,1.0
-goldene Herbst,goldene Herbst,MISC,,,de,1.0
-Elektroauto,Elektroauto,MISC,0.7,0.0,de,1.0
-Botanik-Kolumne,Botanik-Kolumne,MISC,,,de,1.0
-Schnee und Eis auf den Straßen,Schnee und Eis auf den Straßen,MISC,,,de,1.0
-Rettun…,Rettun…,MISC,,,de,1.0
-Der Countdown,Der Countdown,MISC,,,de,1.0
-Signal…,Signal…,MISC,,,de,1.0
-Parteitag“,Parteitag“,MISC,,,de,1.0
-To the Lighthouse,To the Lighthouse,MISC,,,de,1.0
-Der Sportsender Dyn,Der Sportsender Dyn,MISC,,,de,1.0
-Herbst schöner,Herbst schöner,MISC,,,de,1.0
-BILD-Reporter,BILD-Reporter,MISC,,,de,1.0
-Co:…,Co:…,MISC,,,de,1.0
-Olympischen Sommerspiele,Olympischen Sommerspiele,MISC,,,de,1.0
-Wochenbeginn“,Wochenbeginn“,MISC,,,de,1.0
-ukrainischen Angriff,ukrainischen Angriff,MISC,,,de,1.0
-Trübes und kühles Herbstwochenende,Trübes und kühles Herbstwochenende,MISC,,,de,1.0
-Ogoni 9,Ogoni 9,MISC,,,de,1.0
-Skigebiete“,Skigebiete“,MISC,,,de,1.0
-goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
-Fros…,Fros…,MISC,,,de,1.0
-Apfelpreis,Apfelpreis,MISC,,,de,1.0
-lin…,lin…,MISC,,,de,1.0
-UN-Bericht,UN-Bericht,MISC,,,de,1.0
-C-Straße,C-Straße,MISC,,,de,1.0
-Jedes Jahr fallen,Jedes Jahr fallen,MISC,,,de,1.0
-Wirbelstürme und Dürren,Wirbelstürme und Dürren,MISC,,,de,1.0
-Zeit des Wechsels,Zeit des Wechsels,MISC,,,de,1.0
-Drei Haselnüsse für Aschenbrödel“,Drei Haselnüsse für Aschenbrödel“,MISC,,,de,1.0
-Drei Haselnüsse für Aschenbrödel,Drei Haselnüsse für Aschenbrödel,MISC,,,de,1.0
-Kaltfront,Kaltfront,MISC,0.0,0.0,de,1.0
+Eiswein-Ernte“,Eiswein-Ernte“,MISC,,,de,1.0
+Montagfrüh Schneeglätte“,Montagfrüh Schneeglätte“,MISC,,,de,1.0
+Tourette-Syndroms,Tourette-Syndroms,MISC,,,de,1.0
+Die Grünkohlernte,Die Grünkohlernte,MISC,,,de,1.0
+Winterwetter im Herbst,Winterwetter im Herbst,MISC,,,de,1.0
+Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1.0
+Termine…,Termine…,MISC,,,de,1.0
+Party-People,Party-People,MISC,,,de,1.0
+Soziale Isolation,Soziale Isolation,MISC,,,de,1.0
 Österreichische,Österreichische,MISC,,,de,1.0
+Weltkarten-Tattoo,Weltkarten-Tattoo,MISC,,,de,1.0
+Grünkohl,Grünkohl,MISC,,,de,1.0
+Signale,Signale,MISC,,,de,1.0
+TV-Mikrofon,TV-Mikrofon,MISC,,,de,1.0
+Routiniers,Routiniers,MISC,,,de,1.0
+Chancen auf …,Chancen auf …,MISC,,,de,1.0
+Geschädigte Haut,Geschädigte Haut,MISC,,,de,1.0
+Mikaela Shiffrin,Mikaela Shiffrin,MISC,,,de,1.0
+Olympia-Historie,Olympia-Historie,MISC,,,de,1.0
+Wintergemüse“,Wintergemüse“,MISC,,,de,1.0
+Vierschanzentournee der Frauen am Streit,Vierschanzentournee der Frauen am Streit,MISC,,,de,1.0
+Unfälle,Unfälle,MISC,0.0,0.0,de,1.0
+inn…,inn…,MISC,,,de,1.0
+Saarl…,Saarl…,MISC,,,de,1.0
+Ukrainern,Ukrainern,MISC,,,de,1.0
+Gen…,Gen…,MISC,,,de,1.0
+Rh…,Rh…,MISC,,,de,1.0
+Erntemenge,Erntemenge,MISC,,,de,1.0
+Kaltfront,Kaltfront,MISC,0.0,0.0,de,1.0
+vo…,vo…,MISC,,,de,1.0
+ukrainischen Angriff,ukrainischen Angriff,MISC,,,de,1.0
+Ein Jahr in der Natur“,Ein Jahr in der Natur“,MISC,,,de,1.0
+Termine,Termine,MISC,,,de,1.0
+Ein halbes Jahr,Ein halbes Jahr,MISC,,,de,1.0
+Goldenen Dachl,Goldenen Dachl,MISC,,,de,1.0
+gee…,gee…,MISC,,,de,1.0
+Niedrigwasser-Lagebericht“,Niedrigwasser-Lagebericht“,MISC,,,de,1.0
+Erö…,Erö…,MISC,,,de,1.0
+Olympischen Sommerspiele,Olympischen Sommerspiele,MISC,,,de,1.0
+Das vergangene Jahr war,Das vergangene Jahr war,MISC,,,de,1.0
+Die Ernte von Silomais,Die Ernte von Silomais,MISC,,,de,1.0
+IMAGO/Rene,IMAGO/Rene,MISC,,,de,1.0
+Art-Basel-Messe,Art-Basel-Messe,MISC,,,de,1.0
+Erste Cannabis-Ernte,Erste Cannabis-Ernte,MISC,,,de,1.0
+Cannabisclubs“,Cannabisclubs“,MISC,,,de,1.0
+November-Sommer,November-Sommer,MISC,0.0,1.0,de,1.0
+21.11.2025,21.11.2025,MISC,,,de,1.0
+Holt sie euc…,Holt sie euc…,MISC,,,de,1.0
+Bewölkun…,Bewölkun…,MISC,,,de,1.0
+Minusgrade und Schneeflocken,Minusgrade und Schneeflocken,MISC,,,de,1.0
+Pro Bienenvolk,Pro Bienenvolk,MISC,,,de,1.0
+Gesundheit“,Gesundheit“,MISC,,,de,1.0
+Weltmarkt,Weltmarkt,MISC,,,de,1.0
+Kälte-Weisheiten,Kälte-Weisheiten,MISC,,,de,1.0
+Deu…,Deu…,MISC,,,de,1.0
+Kaltfront“,Kaltfront“,MISC,,,de,1.0
+Eisige Temperaturen und Glatteis,Eisige Temperaturen und Glatteis,MISC,,,de,1.0
+mei…,mei…,MISC,,,de,1.0
+Tempo 60,Tempo 60,MISC,,,de,1.0
+Winterliches Wetter,Winterliches Wetter,MISC,,,de,1.0
+Kyiv Independent,Kyiv Independent,MISC,,,de,1.0
+UN-Bericht,UN-Bericht,MISC,,,de,1.0
+Königswinter Traurige Nachrichten,Königswinter Traurige Nachrichten,MISC,,,de,1.0
+YouTube-Kanal,YouTube-Kanal,MISC,,,de,1.0
+Atesh-Agenten,Atesh-Agenten,MISC,,,de,1.0
+Winterliches Wetter“,Winterliches Wetter“,MISC,,,de,1.0
+So früh wie nie,So früh wie nie,MISC,,,de,1.0
+Erster Biathlon-Winter,Erster Biathlon-Winter,MISC,,,de,1.0
+Dahlmeier“,Dahlmeier“,MISC,,,de,1.0
+Biathlon-Winter,Biathlon-Winter,MISC,,,de,1.0
+Wirbelstürme und Dürren,Wirbelstürme und Dürren,MISC,,,de,1.0
+Tech-Elite,Tech-Elite,MISC,,,de,1.0
+Montagnachmittag,Montagnachmittag,MISC,,,de,1.0
+Bergwacht,Bergwacht,MISC,,,de,1.0
+Winterliche Tage,Winterliche Tage,MISC,,,de,1.0
+YouTube-Star,YouTube-Star,MISC,-1.0,0.0,de,1.0
+Berchtesgadener Land,Berchtesgadener Land,MISC,0.0,0.0,de,1.0
+Winter Bayern“,Winter Bayern“,MISC,,,de,1.0
+Verkehrsbehinderungen“,Verkehrsbehinderungen“,MISC,,,de,1.0
+Fünf-Minuten-Weg,Fünf-Minuten-Weg,MISC,-0.7,0.0,de,1.0
+Sommertourismus lachte die Sonne,Sommertourismus lachte die Sonne,MISC,,,de,1.0
+K…,K…,MISC,,,de,1.0
+Ei…,Ei…,MISC,,,de,1.0
+Die Zahl der nächtigenden Urlauberinnen und Urlauber,Die Zahl der nächtigenden Urlauberinnen und Urlauber,MISC,,,de,1.0
+Die steirische Erntebilanz,Die steirische Erntebilanz,MISC,,,de,1.0
+Youtube-Star Jan Zimmerma…,Youtube-Star Jan Zimmerma…,MISC,,,de,1.0
+Der Youtube-Star Jan Zimmermann,Der Youtube-Star Jan Zimmermann,MISC,,,de,1.0
+Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,1.0
+A… Hurrikan,A… Hurrikan,MISC,,,de,1.0
+Köni…,Köni…,MISC,,,de,1.0
+Kartoffelbauern,Kartoffelbauern,MISC,-0.03571428571428572,0.0,de,1.0
+Internet“,Internet“,MISC,,,de,1.0
+Endspurt auf den Äckern,Endspurt auf den Äckern,MISC,,,de,1.0
+ostukrainischen,ostukrainischen,MISC,,,de,1.0
+deutsche You…,deutsche You…,MISC,,,de,1.0
+Ukrainischer,Ukrainischer,MISC,,,de,1.0
+Autofahren,Autofahren,MISC,,,de,1.0
+Rilke-Jahre,Rilke-Jahre,MISC,,,de,1.0
+Teil Chaos,Teil Chaos,MISC,,,de,1.0
+Tagesv…,Tagesv…,MISC,,,de,1.0
+Vier Tote,Vier Tote,MISC,,,de,1.0
+Erste Vierschanzentournee der Frauen,Erste Vierschanzentournee der Frauen,MISC,,,de,1.0
+Steirische,Steirische,MISC,,,de,1.0
+ge…,ge…,MISC,,,de,1.0
+Erster Schnee“,Erster Schnee“,MISC,,,de,1.0
+Polizeidienststellen,Polizeidienststellen,MISC,,,de,1.0
+Autobahnpolizei,Autobahnpolizei,MISC,,,de,1.0
+Youtube-Kanal,Youtube-Kanal,MISC,0.0,0.0,de,1.0
+l.,l.,MISC,,,de,1.0
+Eisregen und Schnee,Eisregen und Schnee,MISC,,,de,1.0
+Eisregen und Schnee“,Eisregen und Schnee“,MISC,,,de,1.0
+"Kopf""-Star 
+Jan Zimmermann","Kopf""-Star 
+Jan Zimmermann",MISC,,,de,1.0
+Vier Tote bei Unfällen,Vier Tote bei Unfällen,MISC,,,de,1.0
+Geh…,Geh…,MISC,,,de,1.0
+Großes Trümmerfeld“,Großes Trümmerfeld“,MISC,,,de,1.0
+"Kopf""-Star","Kopf""-Star",MISC,,,de,1.0
+belgischen,belgischen,MISC,,,de,1.0
+belgischem,belgischem,MISC,,,de,1.0
+Rekord-Fluten,Rekord-Fluten,MISC,,,de,1.0
+Angriff im Bezirk Samarivskyi,Angriff im Bezirk Samarivskyi,MISC,,,de,1.0
+Schneefall und Minusgraden,Schneefall und Minusgraden,MISC,,,de,1.0
+Einreise-Verbot,Einreise-Verbot,MISC,0.0,0.0,de,1.0
+olympischen Feuers ins Museum von Olympia ve,olympischen Feuers ins Museum von Olympia ve,MISC,,,de,1.0
+Hochwasserkatastrophe“,Hochwasserkatastrophe“,MISC,,,de,1.0
+olympischen Feuers,olympischen Feuers,MISC,,,de,1.0
+griechischen,griechischen,MISC,,,de,1.0
+Dauerfrost,Dauerfrost,MISC,0.0,0.0,de,1.0
+Snapping 2025/Snap Dance“,Snapping 2025/Snap Dance“,MISC,,,de,1.0
+Erbeskopf“,Erbeskopf“,MISC,,,de,1.0
+Neuburg-Schrobenhausen“,Neuburg-Schrobenhausen“,MISC,,,de,1.0
+Ökologischer Ausgleich“,Ökologischer Ausgleich“,MISC,,,de,1.0
+Lebensmittelpreise“,Lebensmittelpreise“,MISC,,,de,1.0
+Rohkakaopreise,Rohkakaopreise,MISC,,,de,1.0
+Drei Haselnüsse für Aschenbrödel“,Drei Haselnüsse für Aschenbrödel“,MISC,,,de,1.0
+lin…,lin…,MISC,,,de,1.0
+Herbstliche Gefahr“,Herbstliche Gefahr“,MISC,,,de,1.0
+Drei Haselnüsse für Aschenbrödel,Drei Haselnüsse für Aschenbrödel,MISC,,,de,1.0
+ersten kalten Tagen,ersten kalten Tagen,MISC,,,de,1.0
+Ogoni 9,Ogoni 9,MISC,,,de,1.0
+Wein-Ernte,Wein-Ernte,MISC,,,de,1.0
+Hilfsangebote“,Hilfsangebote“,MISC,,,de,1.0
+Zeit des Wechsels,Zeit des Wechsels,MISC,,,de,1.0
 Landesparteitag“,Landesparteitag“,MISC,,,de,1.0
 sozi…,sozi…,MISC,,,de,1.0
-Tech-Elite,Tech-Elite,MISC,,,de,1.0
-Die Grünkohlernte,Die Grünkohlernte,MISC,,,de,1.0
+Scho...,Scho...,MISC,,,de,1.0
+Ba…,Ba…,MISC,,,de,1.0
 Wir können uns …,Wir können uns …,MISC,,,de,1.0
+CSU-Politiker,CSU-Politiker,MISC,,,de,1.0
+Jedes Jahr fallen,Jedes Jahr fallen,MISC,,,de,1.0
+C-Straße,C-Straße,MISC,,,de,1.0
 Chefredaktion,Chefredaktion,MISC,,,de,1.0
 Millionen-Forderung,Millionen-Forderung,MISC,,,de,1.0
-mei…,mei…,MISC,,,de,1.0
-Ungewöhnliches Freibad“,Ungewöhnliches Freibad“,MISC,,,de,1.0
-Tag des Apfels“,Tag des Apfels“,MISC,,,de,1.0
-Fahrzeug-Architektur“,Fahrzeug-Architektur“,MISC,,,de,1.0
-Plex für ROMs,Plex für ROMs,MISC,,,de,1.0
+RTL+“,RTL+“,MISC,,,de,1.0
 VW,VW,MISC,,,de,1.0
+Wied…,Wied…,MISC,,,de,1.0
 Elektroautos“,Elektroautos“,MISC,,,de,1.0
+Insekten-Alien“,Insekten-Alien“,MISC,,,de,1.0
 Badegäste,Badegäste,MISC,,,de,1.0
+Alien“,Alien“,MISC,,,de,1.0
+Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,1.0
+Ungewöhnliches Freibad“,Ungewöhnliches Freibad“,MISC,,,de,1.0
 Sommergruß,Sommergruß,MISC,,,de,1.0
-Gen…,Gen…,MISC,,,de,1.0
 Wochenbeginn,Wochenbeginn,MISC,,,de,1.0
 Olympi…,Olympi…,MISC,,,de,1.0
 Alle vier Jahre,Alle vier Jahre,MISC,,,de,1.0
 Wischer,Wischer,MISC,,,de,1.0
 Winterspiele,Winterspiele,MISC,,,de,1.0
+sucht nach technischen …,sucht nach technischen …,MISC,,,de,1.0
 Herbst-Wochenende,Herbst-Wochenende,MISC,-1.0,0.0,de,1.0
+Polar-Express,Polar-Express,MISC,,,de,1.0
+09.11.2025,09.11.2025,MISC,,,de,1.0
+Widerstand gegen…,Widerstand gegen…,MISC,,,de,1.0
+DFB-Team,DFB-Team,MISC,,,de,1.0
+Herbst in Berlin,Herbst in Berlin,MISC,,,de,1.0
+Wegrechen,Wegrechen,MISC,,,de,1.0
+Laub auf dem Rasen,Laub auf dem Rasen,MISC,,,de,1.0
+M1 Ultra,M1 Ultra,MISC,,,de,1.0
+tausendjährliches,tausendjährliches,MISC,,,de,1.0
+xTool F2 Ultra zude…,xTool F2 Ultra zude…,MISC,,,de,1.0
+minus 8 Grad“,minus 8 Grad“,MISC,,,de,1.0
+Eiskunst“,Eiskunst“,MISC,,,de,1.0
+minus 8 Grad,minus 8 Grad,MISC,,,de,1.0
+Corporate Girls,Corporate Girls,MISC,,,de,1.0
+Mode im Herbst: Tradwives,Mode im Herbst: Tradwives,MISC,,,de,1.0
+Atemwegsinfekte,Atemwegsinfekte,MISC,,,de,1.0
+Straßenverkehr“,Straßenverkehr“,MISC,,,de,1.0
+"Dinosaurier
+","Dinosaurier
+",MISC,,,de,1.0
+Pariser Klimaabkommen,Pariser Klimaabkommen,MISC,,,de,1.0
+Zehn Jahre nach dem Abkommen von Paris,Zehn Jahre nach dem Abkommen von Paris,MISC,,,de,1.0
+Einsamer Tanz im Hotelzimmer,Einsamer Tanz im Hotelzimmer,MISC,,,de,1.0
+xTool F2,xTool F2,MISC,,,de,1.0
+Windgeschwin…,Windgeschwin…,MISC,,,de,1.0
+Ukrainische,Ukrainische,MISC,,,de,1.0
+Kartoffeln-Wahnsinn,Kartoffeln-Wahnsinn,MISC,,,de,1.0
+Canadian Premier League,Canadian Premier League,MISC,,,de,1.0
+Tor seines Lebens,Tor seines Lebens,MISC,,,de,1.0
+philippinischen,philippinischen,MISC,,,de,1.0
+A2“,A2“,MISC,,,de,1.0
+20Millionen,20Millionen,MISC,,,de,1.0
+Zeit um …,Zeit um …,MISC,,,de,1.0
+Zielgerade,Zielgerade,MISC,,,de,1.0
+Unser Planet,Unser Planet,MISC,,,de,1.0
+Sturm…,Sturm…,MISC,,,de,1.0
+Die Zeit der Finsternis,Die Zeit der Finsternis,MISC,,,de,1.0
+Erholungskurs,Erholungskurs,MISC,0.15000000000000002,0.0,de,1.0
+Körnern,Körnern,MISC,,,de,1.0
+Alarm auf den Philippinen,Alarm auf den Philippinen,MISC,,,de,1.0
+Nacht gepr…,Nacht gepr…,MISC,,,de,1.0
+Initiative“,Initiative“,MISC,,,de,1.0
+Euro Steuermittel,Euro Steuermittel,MISC,,,de,1.0
+Berlin/Peine,Berlin/Peine,MISC,,,de,1.0
+Fahrzeug-Architektur“,Fahrzeug-Architektur“,MISC,,,de,1.0
+Tag des Apfels“,Tag des Apfels“,MISC,,,de,1.0
+Apfelpreis,Apfelpreis,MISC,,,de,1.0
+Das kalte und winterliche Wetter,Das kalte und winterliche Wetter,MISC,,,de,1.0
+Tag davor turnt der spanische,Tag davor turnt der spanische,MISC,,,de,1.0
+Bloom“,Bloom“,MISC,,,de,1.0
+Hamburg gi…,Hamburg gi…,MISC,,,de,1.0
+Fahrradlichtkontrollwochen 2025,Fahrradlichtkontrollwochen 2025,MISC,,,de,1.0
+Männern,Männern,MISC,,,de,1.0
+Licht im Dunkeln,Licht im Dunkeln,MISC,,,de,1.0
+RomM“,RomM“,MISC,,,de,1.0
+Glückwunsch,Glückwunsch,MISC,,,de,1.0
+Plex für ROMs,Plex für ROMs,MISC,,,de,1.0
+Hause der Strom,Hause der Strom,MISC,,,de,1.0
+Schön hell,Schön hell,MISC,,,de,1.0
+Neue Leuchten:,Neue Leuchten:,MISC,,,de,1.0
+Schn…,Schn…,MISC,,,de,1.0
+Stall“,Stall“,MISC,,,de,1.0
+Rote Harzkühe,Rote Harzkühe,MISC,,,de,1.0
+Krieg,Krieg,MISC,,,de,1.0
+RGB30,RGB30,MISC,,,de,1.0
+Wearable,Wearable,MISC,,,de,1.0
+Winterwetter in Mitteldeutschland“,Winterwetter in Mitteldeutschland“,MISC,,,de,1.0
+Frieden zerbrechlich und,Frieden zerbrechlich und,MISC,,,de,1.0
+Das Wichtigste,Das Wichtigste,MISC,,,de,1.0
+minus 10 Grad“,minus 10 Grad“,MISC,,,de,1.0
+Sole i…,Sole i…,MISC,,,de,1.0
+minus 10 Grad,minus 10 Grad,MISC,,,de,1.0
+Frankfurter,Frankfurter,MISC,,,de,1.0
+Aufruf der Sache,Aufruf der Sache,MISC,,,de,1.0
+Kammer 26b,Kammer 26b,MISC,,,de,1.0
+"Shutterstock.com
+","Shutterstock.com
+",MISC,-1.0,0.0,de,1.0
+Verordnungs-Dschungel,Verordnungs-Dschungel,MISC,,,de,1.0
+winterlich-kalten,winterlich-kalten,MISC,,,de,1.0
+Verke…,Verke…,MISC,,,de,1.0
+Euro Rabatt,Euro Rabatt,MISC,,,de,1.0
+Wintersport-Arena Sa…,Wintersport-Arena Sa…,MISC,,,de,1.0
+zw…,zw…,MISC,,,de,1.0
+Mexikaner,Mexikaner,MISC,,,de,1.0
+Chile,Chile,MISC,0.0,0.0,de,1.0
+Winterdienst-Saison“,Winterdienst-Saison“,MISC,,,de,1.0
+Fitness,Fitness,MISC,,,de,1.0
+Wir trauern um die Millionen Opfer,Wir trauern um die Millionen Opfer,MISC,,,de,1.0
+Frieden zerbrechlich,Frieden zerbrechlich,MISC,,,de,1.0
+Fros…,Fros…,MISC,,,de,1.0
+Wochenbeginn“,Wochenbeginn“,MISC,,,de,1.0
+Lawi…,Lawi…,MISC,,,de,1.0
+Russische Torschlusspanik,Russische Torschlusspanik,MISC,,,de,1.0
+Skigebiete“,Skigebiete“,MISC,,,de,1.0
+Co:…,Co:…,MISC,,,de,1.0
+Schnee und Eis auf den Straßen,Schnee und Eis auf den Straßen,MISC,,,de,1.0
+Botanik-Kolumne,Botanik-Kolumne,MISC,,,de,1.0
+Elektroauto,Elektroauto,MISC,0.7,0.0,de,1.0
+Bayerische,Bayerische,MISC,,,de,1.0
+Herbst-Steuerschätzung,Herbst-Steuerschätzung,MISC,0.0,0.5263157894736842,de,1.0
+Größter Vollmond des Jahres,Größter Vollmond des Jahres,MISC,,,de,1.0
+"Frühling in Deutschland
+","Frühling in Deutschland
+",MISC,,,de,1.0
+Der Ibiza-Winter,Der Ibiza-Winter,MISC,,,de,1.0
+Insolvenzve…,Insolvenzve…,MISC,,,de,1.0
+Ibiza-Winter,Ibiza-Winter,MISC,,,de,1.0
+Komfort,Komfort,MISC,,,de,1.0
+goldene Herbst,goldene Herbst,MISC,,,de,1.0
+goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
+Trübes und kühles Herbstwochenende,Trübes und kühles Herbstwochenende,MISC,,,de,1.0
+Virus,Virus,MISC,,,de,1.0
+Nasskaltes Wetter zum Wochenstart und Schnee,Nasskaltes Wetter zum Wochenstart und Schnee,MISC,,,de,1.0
+Herbst schöner,Herbst schöner,MISC,,,de,1.0
+Fischen…,Fischen…,MISC,,,de,1.0
+Judy Winter,Judy Winter,MISC,,,de,1.0
+südkoreanische,südkoreanische,MISC,,,de,1.0
+Das Gute Haus“,Das Gute Haus“,MISC,,,de,1.0
+Pflicht-Update,Pflicht-Update,MISC,,,de,1.0
+Home-App,Home-App,MISC,,,de,1.0
+Apple,Apple,MISC,,,de,1.0
+Der Home-App,Der Home-App,MISC,,,de,1.0
+Nebelmaschine,Nebelmaschine,MISC,,,de,1.0
+Uh…,Uh…,MISC,,,de,1.0
 WM-Qualifikation,WM-Qualifikation,MISC,,,de,1.0
-Schlechtwetter-Sommer“,Schlechtwetter-Sommer“,MISC,,,de,1.0
-Teil Chaos,Teil Chaos,MISC,,,de,1.0
-Die Wüste,Die Wüste,MISC,,,de,1.0
+Signal…,Signal…,MISC,,,de,1.0
+Sieben Tote,Sieben Tote,MISC,,,de,1.0
+Parteitag“,Parteitag“,MISC,,,de,1.0
+To the Lighthouse,To the Lighthouse,MISC,,,de,1.0
+Tragödie im Himalaya,Tragödie im Himalaya,MISC,,,de,1.0
+Dienstag,Dienstag,MISC,0.0,0.0,de,1.0
+Kabinett“,Kabinett“,MISC,,,de,1.0
+Byzanz,Byzanz,MISC,,,de,1.0
+Coronazeit,Coronazeit,MISC,,,de,1.0
+Kalte Weihnachten,Kalte Weihnachten,MISC,,,de,1.0
+Fahrrad im Schnee,Fahrrad im Schnee,MISC,,,de,1.0
+02.01.2026,02.01.2026,MISC,,,de,1.0
+"Sturm, Schnee","Sturm, Schnee",MISC,,,de,1.0
+Genügend Schnee“,Genügend Schnee“,MISC,,,de,1.0
+Werktag des Jahres,Werktag des Jahres,MISC,,,de,1.0
+Brand“,Brand“,MISC,,,de,1.0
+A66“,A66“,MISC,,,de,1.0
+Wind und Schnee,Wind und Schnee,MISC,,,de,1.0
+winterlich-turbulentem,winterlich-turbulentem,MISC,,,de,1.0
+Mensch bei Streit getötet +++ Liveblog,Mensch bei Streit getötet +++ Liveblog,MISC,,,de,1.0
+Nordh…,Nordh…,MISC,,,de,1.0
+CES ,CES ,MISC,,,de,1.0
+Lightning-Grafikkartenserie,Lightning-Grafikkartenserie,MISC,,,de,1.0
+Vortek-System,Vortek-System,MISC,,,de,1.0
+Bambu Lab H2S,Bambu Lab H2S,MISC,,,de,1.0
+Manch a…,Manch a…,MISC,,,de,1.0
+ös…,ös…,MISC,,,de,1.0
+Wind“,Wind“,MISC,,,de,1.0
+Der letzte Tag des Jahres,Der letzte Tag des Jahres,MISC,,,de,1.0
+Tag des Jahres“,Tag des Jahres“,MISC,,,de,1.0
+Tag des Jahres,Tag des Jahres,MISC,,,de,1.0
+Pyro-Produkte,Pyro-Produkte,MISC,,,de,1.0
+Letzter Tag des Jahres,Letzter Tag des Jahres,MISC,,,de,1.0
+Wetterdaten,Wetterdaten,MISC,,,de,1.0
+Unser Tool,Unser Tool,MISC,,,de,1.0
+Fußball-Saison,Fußball-Saison,MISC,,,de,1.0
+Was Mieter,Was Mieter,MISC,,,de,1.0
+Winterwetter in NRW“,Winterwetter in NRW“,MISC,,,de,1.0
+Gefährliches Glatteis,Gefährliches Glatteis,MISC,,,de,1.0
+Wochenende des Jahres,Wochenende des Jahres,MISC,,,de,1.0
+Eis und Schnee“,Eis und Schnee“,MISC,,,de,1.0
+Meteorologen e,Meteorologen e,MISC,,,de,1.0
+Unfa…,Unfa…,MISC,,,de,1.0
+Glätteunfälle,Glätteunfälle,MISC,,,de,1.0
+Winterdie…,Winterdie…,MISC,,,de,1.0
+86-Jähriger,86-Jähriger,MISC,,,de,1.0
+Weltcuprennen,Weltcuprennen,MISC,,,de,1.0
+Lokalmatadorin,Lokalmatadorin,MISC,,,de,1.0
+Verkehrskontrolle auf Raststätte +++,Verkehrskontrolle auf Raststätte +++,MISC,,,de,1.0
+Rhein-Main-Liveblog,Rhein-Main-Liveblog,MISC,0.0,0.0,de,1.0
+Winter“,Winter“,MISC,,,de,1.0
+kleinräumiges,kleinräumiges,MISC,,,de,1.0
+Polare Kaltluft,Polare Kaltluft,MISC,,,de,1.0
+Die Teams,Die Teams,MISC,,,de,1.0
+Viel Schnee,Viel Schnee,MISC,,,de,1.0
+Glatteis-Unfälle,Glatteis-Unfälle,MISC,,,de,1.0
+So cool,So cool,MISC,,,de,1.0
+Gewitter-Risiko,Gewitter-Risiko,MISC,,,de,1.0
+Blitz-Statistik,Blitz-Statistik,MISC,,,de,1.0
+Langschläfer,Langschläfer,MISC,,,de,1.0
+Der Gesamtverband der Deutschen Versicherungswirtschaft,Der Gesamtverband der Deutschen Versicherungswirtschaft,MISC,,,de,1.0
+Glätte-Alarm,Glätte-Alarm,MISC,,,de,1.0
+Tag vor Silvester,Tag vor Silvester,MISC,,,de,1.0
+ALLES-Blitzer,ALLES-Blitzer,MISC,,,de,1.0
+World Team Challenge,World Team Challenge,MISC,,,de,1.0
+Rundkurs,Rundkurs,MISC,,,de,1.0
+Event“,Event“,MISC,,,de,1.0
+Biathlon auf Schalke,Biathlon auf Schalke,MISC,,,de,1.0
+Bayern-Ang…,Bayern-Ang…,MISC,,,de,1.0
+Sebastian & Dieter Hoeneß,Sebastian & Dieter Hoeneß,MISC,,,de,1.0
+Die Wahrscheinlichkeit für Schnee,Die Wahrscheinlichkeit für Schnee,MISC,,,de,1.0
+Kältestes Weihnachten,Kältestes Weihnachten,MISC,0.0,1.0,de,1.0
+Das Alte Land,Das Alte Land,MISC,,,de,1.0
+Jork,Jork,MISC,,,de,1.0
+Chancen auf Schnee,Chancen auf Schnee,MISC,,,de,1.0
+Liftbetreiber,Liftbetreiber,MISC,,,de,1.0
+Samstag …,Samstag …,MISC,,,de,1.0
 ORF-Ukrai…,ORF-Ukrai…,MISC,,,de,1.0
 ORF-Ukraineberichterstattung,ORF-Ukraineberichterstattung,MISC,,,de,1.0
 Lange Zeit,Lange Zeit,MISC,,,de,1.0
@@ -620,99 +717,101 @@ le…,le…,MISC,,,de,1.0
 Die Nacht auf Sonntag,Die Nacht auf Sonntag,MISC,,,de,1.0
 Feiertagen,Feiertagen,MISC,,,de,1.0
 KameraOne21.12.2025,KameraOne21.12.2025,MISC,,,de,1.0
-Kamele blöd,Kamele blöd,MISC,,,de,1.0
+Weltcups,Weltcups,MISC,,,de,1.0
+Gute Wetteraussichten“,Gute Wetteraussichten“,MISC,,,de,1.0
+Sonne und Schnee,Sonne und Schnee,MISC,,,de,1.0
+Sauerland“,Sauerland“,MISC,,,de,1.0
+Ordnungsamt,Ordnungsamt,MISC,,,de,1.0
+Marathon-Weltreko…,Marathon-Weltreko…,MISC,,,de,1.0
+Das hat gestern,Das hat gestern,MISC,,,de,1.0
+Drei Tote,Drei Tote,MISC,,,de,1.0
+Skisaison,Skisaison,MISC,0.0,0.0,de,1.0
+Oberwiesenthal Und Schuss,Oberwiesenthal Und Schuss,MISC,,,de,1.0
+Todesopfer auf drei gestiegen,Todesopfer auf drei gestiegen,MISC,,,de,1.0
+Eine turbulente Reise für,Eine turbulente Reise für,MISC,,,de,1.0
+Der Wochenbeginn,Der Wochenbeginn,MISC,,,de,1.0
 Sonntag se,Sonntag se,MISC,,,de,1.0
-Drei Tage,Drei Tage,MISC,,,de,1.0
-Urlaub in kalter Jahreszeit“,Urlaub in kalter Jahreszeit“,MISC,,,de,1.0
-Urlaub in kalter Jahreszeit,Urlaub in kalter Jahreszeit,MISC,,,de,1.0
-Weißer Heiligabend,Weißer Heiligabend,MISC,,,de,1.0
-Nur Hauch von Schnee,Nur Hauch von Schnee,MISC,,,de,1.0
-Wir schauen,Wir schauen,MISC,,,de,1.0
-Winter-Shopping,Winter-Shopping,MISC,,,de,1.0
-Plusgraden,Plusgraden,MISC,,,de,1.0
-Wintersport-Saison,Wintersport-Saison,MISC,,,de,1.0
-Skipisten,Skipisten,MISC,,,de,1.0
-Samstag …,Samstag …,MISC,,,de,1.0
-Liftbetreiber,Liftbetreiber,MISC,,,de,1.0
-Chancen auf Schnee,Chancen auf Schnee,MISC,,,de,1.0
-Jork,Jork,MISC,,,de,1.0
 Ostseeküste,Ostseeküste,MISC,-0.15625,0.0,de,1.0
+Tag vor Rennbeginn,Tag vor Rennbeginn,MISC,,,de,1.0
 "Sonne 
 Was","Sonne 
 Was",MISC,,,de,1.0
 Wunderliches Winter-Wetter,Wunderliches Winter-Wetter,MISC,,,de,1.0
 Sonne und eisige Temperaturen,Sonne und eisige Temperaturen,MISC,,,de,1.0
 Der fette Winterbums,Der fette Winterbums,MISC,,,de,1.0
+Rett…,Rett…,MISC,,,de,1.0
+Rettung“,Rettung“,MISC,,,de,1.0
+Autobahn 1,Autobahn 1,MISC,0.0,0.0,de,1.0
 Be…,Be…,MISC,,,de,1.0
 Weihnachtstag,Weihnachtstag,MISC,,,de,1.0
 österreichischer,österreichischer,MISC,,,de,1.0
-Tag vor Rennbeginn,Tag vor Rennbeginn,MISC,,,de,1.0
-Sonne und Schnee,Sonne und Schnee,MISC,,,de,1.0
-Gute Wetteraussichten“,Gute Wetteraussichten“,MISC,,,de,1.0
-Weltcups,Weltcups,MISC,,,de,1.0
-World Team Challenge,World Team Challenge,MISC,,,de,1.0
-Rundkurs,Rundkurs,MISC,,,de,1.0
-Event“,Event“,MISC,,,de,1.0
-Biathlon auf Schalke,Biathlon auf Schalke,MISC,,,de,1.0
-Bayern-Ang…,Bayern-Ang…,MISC,,,de,1.0
-Sebastian & Dieter Hoeneß,Sebastian & Dieter Hoeneß,MISC,,,de,1.0
-Die Wahrscheinlichkeit für Schnee,Die Wahrscheinlichkeit für Schnee,MISC,,,de,1.0
-Kältestes Weihnachten,Kältestes Weihnachten,MISC,0.0,1.0,de,1.0
-Das Alte Land,Das Alte Land,MISC,,,de,1.0
-Pollenflug,Pollenflug,MISC,0.0,0.0,de,1.0
-Rote Augen,Rote Augen,MISC,,,de,1.0
-Pollenflug“,Pollenflug“,MISC,,,de,1.0
-Sofa u,Sofa u,MISC,,,de,1.0
-Winterreiseziele,Winterreiseziele,MISC,,,de,1.0
-Du willst dem Grau,Du willst dem Grau,MISC,,,de,1.0
-Chancen dieses Jahr,Chancen dieses Jahr,MISC,,,de,1.0
-Winter-Transfer,Winter-Transfer,MISC,,,de,1.0
-Pottk...,Pottk...,MISC,,,de,1.0
-Bundesliga-Absteiger,Bundesliga-Absteiger,MISC,,,de,1.0
-Winter we…,Winter we…,MISC,,,de,1.0
-deutsche Nationalkeeper,deutsche Nationalkeeper,MISC,,,de,1.0
-IMAGO/SNA,IMAGO/SNA,MISC,,,de,1.0
-Zapad,Zapad,MISC,,,de,1.0
-Russen,Russen,MISC,,,de,1.0
-Muße,Muße,MISC,,,de,1.0
-Winter-Sale,Winter-Sale,MISC,,,de,1.0
-Mittelalter-Sale,Mittelalter-Sale,MISC,,,de,1.0
-Mittelalter Festival,Mittelalter Festival,MISC,,,de,1.0
-Niedrigwasser“,Niedrigwasser“,MISC,,,de,1.0
-Tag d…,Tag d…,MISC,,,de,1.0
-Arabische Frühling,Arabische Frühling,MISC,,,de,1.0
-Frühling ä…,Frühling ä…,MISC,,,de,1.0
-Die Wahrheit bei Antiste,Die Wahrheit bei Antiste,MISC,,,de,1.0
-Winter-Updates,Winter-Updates,MISC,,,de,1.0
-Du gehörst zu den Menschen,Du gehörst zu den Menschen,MISC,,,de,1.0
-Veranstaltern,Veranstaltern,MISC,,,de,1.0
-Luftverkehr“,Luftverkehr“,MISC,,,de,1.0
-Der Steirerball,Der Steirerball,MISC,,,de,1.0
-Angreifers,Angreifers,MISC,,,de,1.0
-Union-Training,Union-Training,MISC,,,de,1.0
-Ljubicics Zukunft,Ljubicics Zukunft,MISC,,,de,1.0
-Olympischen Winterspiele von Cortina dAmpezzo,Olympischen Winterspiele von Cortina dAmpezzo,MISC,,,de,1.0
-Gold-Form,Gold-Form,MISC,,,de,1.0
-Deutsche Wintersportler,Deutsche Wintersportler,MISC,,,de,1.0
-Winter-Alarm,Winter-Alarm,MISC,,,de,1.0
-BILD fragte be…,BILD fragte be…,MISC,,,de,1.0
-Wetter-Experten,Wetter-Experten,MISC,,,de,1.0
-Zweitligisten,Zweitligisten,MISC,,,de,1.0
-Magdeburg-Profi,Magdeburg-Profi,MISC,,,de,1.0
-Schnee-Auszeit,Schnee-Auszeit,MISC,,,de,1.0
-Fallout,Fallout,MISC,0.0,0.0,de,1.0
-Westeros-Saga,Westeros-Saga,MISC,,,de,1.0
-coolste Armee,coolste Armee,MISC,,,de,1.0
-Schlacht in House of the Dragon,Schlacht in House of the Dragon,MISC,,,de,1.0
-House of the Dragon,House of the Dragon,MISC,,,de,1.0
-jedes Jahr über die Bildschirme,jedes Jahr über die Bildschirme,MISC,,,de,1.0
-Aschenbrödel“,Aschenbrödel“,MISC,,,de,1.0
-Schifffahrtswege,Schifffahrtswege,MISC,,,de,1.0
-gCaptain,gCaptain,MISC,,,de,1.0
-Sauerland“,Sauerland“,MISC,,,de,1.0
-Der Wochenbeginn,Der Wochenbeginn,MISC,,,de,1.0
-Tagesv…,Tagesv…,MISC,,,de,1.0
-Dauerfrost und Schnee – Glättegefahr,Dauerfrost und Schnee – Glättegefahr,MISC,,,de,1.0
+Ein 34-jähriger Mann,Ein 34-jähriger Mann,MISC,,,de,1.0
+Nachmittag l…,Nachmittag l…,MISC,,,de,1.0
+Winter-Trainingslager“,Winter-Trainingslager“,MISC,,,de,1.0
+Unwetters“,Unwetters“,MISC,,,de,1.0
+tü…,tü…,MISC,,,de,1.0
+Glatteis-Warnungen,Glatteis-Warnungen,MISC,,,de,1.0
+Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,MISC,,,de,1.0
+Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,1.0
+Schneemann“,Schneemann“,MISC,,,de,1.0
+Streit im Schnee,Streit im Schnee,MISC,,,de,1.0
+Fahrrad im Winter,Fahrrad im Winter,MISC,,,de,1.0
+Ahoi Piraten,Ahoi Piraten,MISC,,,de,1.0
+Istituto S…,Istituto S…,MISC,,,de,1.0
+Subklade K,Subklade K,MISC,,,de,1.0
+H3N2-Variante,H3N2-Variante,MISC,,,de,1.0
+Grippe-Saison,Grippe-Saison,MISC,,,de,1.0
+grau-nasse,grau-nasse,MISC,,,de,1.0
+"Sturm, Schnee und Eis","Sturm, Schnee und Eis",MISC,,,de,1.0
+Rabatt,Rabatt,MISC,,,de,1.0
+Es ist mit,Es ist mit,MISC,,,de,1.0
+Glatteisgefahr a…,Glatteisgefahr a…,MISC,,,de,1.0
+Glatteis-Warnung“,Glatteis-Warnung“,MISC,,,de,1.0
+Auf freundlich-kalten Sonntag,Auf freundlich-kalten Sonntag,MISC,,,de,1.0
+Unwettergefahr“,Unwettergefahr“,MISC,,,de,1.0
+Deuts…,Deuts…,MISC,,,de,1.0
+Wetterchaos am Sonntag,Wetterchaos am Sonntag,MISC,,,de,1.0
+Zweitliga-Tabellenführer,Zweitliga-Tabellenführer,MISC,,,de,1.0
+Große Zahl,Große Zahl,MISC,,,de,1.0
+2:3-Niederlage,2:3-Niederlage,MISC,,,de,1.0
+Nachmittag leichte…,Nachmittag leichte…,MISC,,,de,1.0
+AUA,AUA,MISC,,,de,1.0
+Mährobotern,Mährobotern,MISC,-0.5,0.5,de,1.0
+Yarbo M …,Yarbo M …,MISC,,,de,1.0
+Winter-Klassiker,Winter-Klassiker,MISC,,,de,1.0
+Romantisches Winter-Date auf dem Eis,Romantisches Winter-Date auf dem Eis,MISC,,,de,1.0
+Heizungsgesetz,Heizungsgesetz,MISC,,,de,1.0
+Wärme im Winter,Wärme im Winter,MISC,,,de,1.0
+Olympia-Gegner,Olympia-Gegner,MISC,,,de,1.0
+Was hinter der Wetter-Aufregung,Was hinter der Wetter-Aufregung,MISC,,,de,1.0
+Energie“,Energie“,MISC,,,de,1.0
+Kälterer Winter,Kälterer Winter,MISC,,,de,1.0
+Spieltag,Spieltag,MISC,,,de,1.0
+Schneelastbegrenzungskonzept“,Schneelastbegrenzungskonzept“,MISC,,,de,1.0
+Der Löwe,Der Löwe,MISC,,,de,1.0
+IMAGO/teamSprint-media,IMAGO/teamSprint-media,MISC,,,de,1.0
+Antholz,Antholz,MISC,,,de,1.0
+Albtraum-Winter,Albtraum-Winter,MISC,,,de,1.0
+Schneeberge,Schneeberge,MISC,-1.0,0.0,de,1.0
+ORF-Meteorolo…,ORF-Meteorolo…,MISC,,,de,1.0
+Heidekreis“,Heidekreis“,MISC,,,de,1.0
+Gassigehen,Gassigehen,MISC,,,de,1.0
+Mildere Witterung,Mildere Witterung,MISC,,,de,1.0
+Frontalkollision ihr,Frontalkollision ihr,MISC,,,de,1.0
+Die Exekutive,Die Exekutive,MISC,,,de,1.0
+Osnabrück“,Osnabrück“,MISC,,,de,1.0
+Schalke schlägt Osnabrück,Schalke schlägt Osnabrück,MISC,,,de,1.0
+Leipziger Brückenlauf,Leipziger Brückenlauf,MISC,,,de,1.0
+Brückenlauf“,Brückenlauf“,MISC,,,de,1.0
+Tierhalter,Tierhalter,MISC,,,de,1.0
+"Chaos
+","Chaos
+",MISC,,,de,1.0
+Jahresauftakt,Jahresauftakt,MISC,,,de,1.0
+Winterwetters“,Winterwetters“,MISC,,,de,1.0
+dpa/Philipp Schulze ,dpa/Philipp Schulze ,MISC,,,de,1.0
+dpa/Julian,dpa/Julian,MISC,,,de,1.0
+Was Reise…,Was Reise…,MISC,,,de,1.0
 Was Reisende,Was Reisende,MISC,,,de,1.0
 Straßenverh…,Straßenverh…,MISC,,,de,1.0
 Temperaturen,Temperaturen,MISC,0.0,0.0,de,1.0
@@ -723,270 +822,55 @@ HHLA,HHLA,MISC,,,de,1.0
 ostwestfälischen,ostwestfälischen,MISC,,,de,1.0
 Spuren im frischen Schnee,Spuren im frischen Schnee,MISC,,,de,1.0
 Kiosk-Einbrechern,Kiosk-Einbrechern,MISC,,,de,1.0
+Tim,Tim,MISC,0.0,0.0,de,1.0
+Dauerfrost und Glatteis,Dauerfrost und Glatteis,MISC,,,de,1.0
+Dauerfrost und Schnee – Glättegefahr,Dauerfrost und Schnee – Glättegefahr,MISC,,,de,1.0
+Flutkatastrophe im Juli 2021,Flutkatastrophe im Juli 2021,MISC,,,de,1.0
+Hochwasser“,Hochwasser“,MISC,,,de,1.0
 Jobs,Jobs,MISC,0.0,0.0,de,1.0
-Eine turbulente Reise für,Eine turbulente Reise für,MISC,,,de,1.0
-Nachmittag l…,Nachmittag l…,MISC,,,de,1.0
-Fußball-Saison,Fußball-Saison,MISC,,,de,1.0
-Ein 34-jähriger Mann,Ein 34-jähriger Mann,MISC,,,de,1.0
-Winterwetter in NRW“,Winterwetter in NRW“,MISC,,,de,1.0
-MV“,MV“,MISC,,,de,1.0
-Gefährliches Glatteis,Gefährliches Glatteis,MISC,,,de,1.0
-Wochenende des Jahres,Wochenende des Jahres,MISC,,,de,1.0
-Eis und Schnee“,Eis und Schnee“,MISC,,,de,1.0
-Meteorologen e,Meteorologen e,MISC,,,de,1.0
-Unfa…,Unfa…,MISC,,,de,1.0
-Was Reise…,Was Reise…,MISC,,,de,1.0
-dpa/Julian,dpa/Julian,MISC,,,de,1.0
-dpa/Philipp Schulze ,dpa/Philipp Schulze ,MISC,,,de,1.0
-Winterwetters“,Winterwetters“,MISC,,,de,1.0
+Wetterkrimi“,Wetterkrimi“,MISC,,,de,1.0
+Wer weiß,Wer weiß,MISC,,,de,1.0
+Wegerisiko,Wegerisiko,MISC,,,de,1.0
+Krankenhäuser“,Krankenhäuser“,MISC,,,de,1.0
+Abfa…,Abfa…,MISC,,,de,1.0
+Schneefall in Bayern“,Schneefall in Bayern“,MISC,,,de,1.0
+Wetter: Stürmische Böen,Wetter: Stürmische Böen,MISC,,,de,1.0
 BILD1…,BILD1…,MISC,,,de,1.0
 de…,de…,MISC,,,de,1.0
 Die Landwirte,Die Landwirte,MISC,,,de,1.0
 Ausblick Agrarwirtschaft“,Ausblick Agrarwirtschaft“,MISC,,,de,1.0
 Die wärmsten Orte,Die wärmsten Orte,MISC,,,de,1.0
 Ost-West-V…,Ost-West-V…,MISC,,,de,1.0
+Unterrichtsausfall,Unterrichtsausfall,MISC,0.0,0.0,de,1.0
 Kinder und Jugendliche,Kinder und Jugendliche,MISC,,,de,1.0
+Zweif…,Zweif…,MISC,,,de,1.0
+Normalnull prognosti…,Normalnull prognosti…,MISC,,,de,1.0
+Kieler,Kieler,MISC,,,de,1.0
+Autobahnpolizeiinspektio…,Autobahnpolizeiinspektio…,MISC,,,de,1.0
 "Bayern
 ","Bayern
 ",MISC,,,de,1.0
 Frontal-Glättecrash,Frontal-Glättecrash,MISC,,,de,1.0
+Schwerer Schnee“,Schwerer Schnee“,MISC,,,de,1.0
 Kälteeinbruch in Deutschland,Kälteeinbruch in Deutschland,MISC,,,de,1.0
 Elli“,Elli“,MISC,,,de,1.0
 Winter-Sturmtief,Winter-Sturmtief,MISC,,,de,1.0
 Verkehrsminister,Verkehrsminister,MISC,,,de,1.0
-Zweif…,Zweif…,MISC,,,de,1.0
-Wegerisiko,Wegerisiko,MISC,,,de,1.0
-Wer weiß,Wer weiß,MISC,,,de,1.0
-Wetterkrimi“,Wetterkrimi“,MISC,,,de,1.0
-Tierhalter,Tierhalter,MISC,,,de,1.0
-Glatteis,Glatteis,MISC,0.009708737864077673,0.0,de,1.0
-"Chaos
-","Chaos
-",MISC,,,de,1.0
-Jahresauftakt,Jahresauftakt,MISC,,,de,1.0
-Glätteunfälle,Glätteunfälle,MISC,,,de,1.0
-Winterdie…,Winterdie…,MISC,,,de,1.0
-86-Jähriger,86-Jähriger,MISC,,,de,1.0
-Nordh…,Nordh…,MISC,,,de,1.0
-Lightning-Grafikkartenserie,Lightning-Grafikkartenserie,MISC,,,de,1.0
-Vortek-System,Vortek-System,MISC,,,de,1.0
-Bambu Lab H2S,Bambu Lab H2S,MISC,,,de,1.0
-ös…,ös…,MISC,,,de,1.0
-Wind“,Wind“,MISC,,,de,1.0
-Der letzte Tag des Jahres,Der letzte Tag des Jahres,MISC,,,de,1.0
-Tag des Jahres“,Tag des Jahres“,MISC,,,de,1.0
-Tag des Jahres,Tag des Jahres,MISC,,,de,1.0
-Pyro-Produkte,Pyro-Produkte,MISC,,,de,1.0
-Letzter Tag des Jahres,Letzter Tag des Jahres,MISC,,,de,1.0
-Der Gesamtverband der Deutschen Versicherungswirtschaft,Der Gesamtverband der Deutschen Versicherungswirtschaft,MISC,,,de,1.0
-Glätte-Alarm,Glätte-Alarm,MISC,,,de,1.0
-Tag vor Silvester,Tag vor Silvester,MISC,,,de,1.0
-ALLES-Blitzer,ALLES-Blitzer,MISC,,,de,1.0
-Ordnungsamt,Ordnungsamt,MISC,,,de,1.0
-Marathon-Weltreko…,Marathon-Weltreko…,MISC,,,de,1.0
-Das hat gestern,Das hat gestern,MISC,,,de,1.0
-Drei Tote,Drei Tote,MISC,,,de,1.0
-Skisaison,Skisaison,MISC,0.0,0.0,de,1.0
-Oberwiesenthal Und Schuss,Oberwiesenthal Und Schuss,MISC,,,de,1.0
-Todesopfer auf drei gestiegen,Todesopfer auf drei gestiegen,MISC,,,de,1.0
-CES ,CES ,MISC,,,de,1.0
-Mensch bei Streit getötet +++ Liveblog,Mensch bei Streit getötet +++ Liveblog,MISC,,,de,1.0
-Weltcuprennen,Weltcuprennen,MISC,,,de,1.0
-winterlich-turbulentem,winterlich-turbulentem,MISC,,,de,1.0
-Lokalmatadorin,Lokalmatadorin,MISC,,,de,1.0
-Verkehrskontrolle auf Raststätte +++,Verkehrskontrolle auf Raststätte +++,MISC,,,de,1.0
-Rhein-Main-Liveblog,Rhein-Main-Liveblog,MISC,0.0,0.0,de,1.0
-Winter“,Winter“,MISC,,,de,1.0
-kleinräumiges,kleinräumiges,MISC,,,de,1.0
-Schnee und Eisglätte,Schnee und Eisglätte,MISC,,,de,1.0
-Glatteis-Unfälle,Glatteis-Unfälle,MISC,,,de,1.0
-So cool,So cool,MISC,,,de,1.0
-Gewitter-Risiko,Gewitter-Risiko,MISC,,,de,1.0
-Blitz-Statistik,Blitz-Statistik,MISC,,,de,1.0
-Langschläfer,Langschläfer,MISC,,,de,1.0
-Was Mieter,Was Mieter,MISC,,,de,1.0
-Unser Tool,Unser Tool,MISC,,,de,1.0
-Kalte Weihnachten,Kalte Weihnachten,MISC,,,de,1.0
-Wetterdaten,Wetterdaten,MISC,,,de,1.0
-Fahrrad im Schnee,Fahrrad im Schnee,MISC,,,de,1.0
-Genügend Schnee“,Genügend Schnee“,MISC,,,de,1.0
-Werktag des Jahres,Werktag des Jahres,MISC,,,de,1.0
-Brand“,Brand“,MISC,,,de,1.0
-A66“,A66“,MISC,,,de,1.0
-Wind und Schnee,Wind und Schnee,MISC,,,de,1.0
-Winter-Update,Winter-Update,MISC,,,de,1.0
-The Masquerade,The Masquerade,MISC,,,de,1.0
-Ma…,Ma…,MISC,,,de,1.0
-Advent in Bayern,Advent in Bayern,MISC,,,de,1.0
-Anschläge auf die Pipelines,Anschläge auf die Pipelines,MISC,,,de,1.0
-DWD-Bilanz“,DWD-Bilanz“,MISC,,,de,1.0
-Milder Herbst,Milder Herbst,MISC,,,de,1.0
-Herbst…,Herbst…,MISC,,,de,1.0
-DWD Wetterdienst-Bilanz“,DWD Wetterdienst-Bilanz“,MISC,,,de,1.0
-Bilanz“,Bilanz“,MISC,,,de,1.0
-Wetterdienst-Bilanz“,Wetterdienst-Bilanz“,MISC,,,de,1.0
-Deutsch…,Deutsch…,MISC,,,de,1.0
-Nacht auf Samstag - Glatteis-Alarm,Nacht auf Samstag - Glatteis-Alarm,MISC,,,de,1.0
-28.11.2025,28.11.2025,MISC,,,de,1.0
-Nervenkitzel,Nervenkitzel,MISC,,,de,1.0
-ADAC-Pannenstatistik 2024,ADAC-Pannenstatistik 2024,MISC,,,de,1.0
-Todesopfer der Flut…,Todesopfer der Flut…,MISC,,,de,1.0
-Katastrophenschutzbehörde …,Katastrophenschutzbehörde …,MISC,,,de,1.0
-Weihnachtsgebäck,Weihnachtsgebäck,MISC,,,de,1.0
-Verheerendes Hochwasser“,Verheerendes Hochwasser“,MISC,,,de,1.0
-"Mars
-","Mars
-",MISC,,,de,1.0
-MissionenBlitz,MissionenBlitz,MISC,,,de,1.0
-Perseverance“,Perseverance“,MISC,,,de,1.0
-NASA-Rover,NASA-Rover,MISC,,,de,1.0
-Das Glatteis,Das Glatteis,MISC,,,de,1.0
-Wintersaison“,Wintersaison“,MISC,,,de,1.0
-Anschläge auf die Pipelines …,Anschläge auf die Pipelines …,MISC,,,de,1.0
-Afd-Gewitter,Afd-Gewitter,MISC,,,de,1.0
-Jahr für Jahr,Jahr für Jahr,MISC,,,de,1.0
-Meldefrist,Meldefrist,MISC,,,de,1.0
-indonesische,indonesische,MISC,,,de,1.0
-Hochphas…,Hochphas…,MISC,,,de,1.0
-Wer ist der Mann im Laub,Wer ist der Mann im Laub,MISC,,,de,1.0
-Mord-Fall,Mord-Fall,MISC,,,de,1.0
-weiterlesenPorträt-Klassiker,weiterlesenPorträt-Klassiker,MISC,,,de,1.0
-Ackerflächen,Ackerflächen,MISC,,,de,1.0
-Bayern-Wetter“,Bayern-Wetter“,MISC,,,de,1.0
-dänische,dänische,MISC,,,de,1.0
-sozialdemokratische,sozialdemokratische,MISC,,,de,1.0
-Full Self-Driving/Supervised,Full Self-Driving/Supervised,MISC,,,de,1.0
-Im Herbst,Im Herbst,MISC,,,de,1.0
-Herbst …,Herbst …,MISC,,,de,1.0
-Demo-Fahrten,Demo-Fahrten,MISC,,,de,1.0
-deutsch-polnischer,deutsch-polnischer,MISC,,,de,1.0
-schleswig-holsteinischen,schleswig-holsteinischen,MISC,,,de,1.0
-Smarte Heiz­körper­ther­mostate,Smarte Heiz­körper­ther­mostate,MISC,,,de,1.0
-Smarte Thermostate,Smarte Thermostate,MISC,,,de,1.0
-Ahoi Piraten!,Ahoi Piraten!,MISC,,,de,1.0
-"29.11.2025
-","29.11.2025
-",MISC,,,de,1.0
-Baustellen,Baustellen,MISC,,,de,1.0
-Regionalverbund T…,Regionalverbund T…,MISC,,,de,1.0
-BVB,BVB,MISC,,,de,1.0
-Winter-Trainingslager“,Winter-Trainingslager“,MISC,,,de,1.0
-Coronazeit,Coronazeit,MISC,,,de,1.0
-Fünf-Minuten-Weg,Fünf-Minuten-Weg,MISC,-0.7,0.0,de,1.0
-Der Youtube-Star Jan Zimmermann,Der Youtube-Star Jan Zimmermann,MISC,,,de,1.0
-Köni…,Köni…,MISC,,,de,1.0
-Internet“,Internet“,MISC,,,de,1.0
-K…,K…,MISC,,,de,1.0
-Königswinter Traurige Nachrichten,Königswinter Traurige Nachrichten,MISC,,,de,1.0
-YouTube-Star,YouTube-Star,MISC,-1.0,0.0,de,1.0
-Montagnachmittag,Montagnachmittag,MISC,,,de,1.0
-So früh wie nie,So früh wie nie,MISC,,,de,1.0
-Autofahren,Autofahren,MISC,,,de,1.0
-griechischen,griechischen,MISC,,,de,1.0
-olympischen Feuers,olympischen Feuers,MISC,,,de,1.0
-olympischen Feuers ins Museum von Olympia ve,olympischen Feuers ins Museum von Olympia ve,MISC,,,de,1.0
-Schneefall und Minusgraden,Schneefall und Minusgraden,MISC,,,de,1.0
-Großes Trümmerfeld“,Großes Trümmerfeld“,MISC,,,de,1.0
-Vier Tote bei Unfällen,Vier Tote bei Unfällen,MISC,,,de,1.0
-Eisregen und Schnee“,Eisregen und Schnee“,MISC,,,de,1.0
-Eisregen und Schnee,Eisregen und Schnee,MISC,,,de,1.0
-Autobahnpolizei,Autobahnpolizei,MISC,,,de,1.0
-Polizeidienststellen,Polizeidienststellen,MISC,,,de,1.0
-Erster Schnee“,Erster Schnee“,MISC,,,de,1.0
-Steirische,Steirische,MISC,,,de,1.0
-Youtube-Star Jan Zimmerma…,Youtube-Star Jan Zimmerma…,MISC,,,de,1.0
-Winter Bayern“,Winter Bayern“,MISC,,,de,1.0
-ersten kalten Tagen,ersten kalten Tagen,MISC,,,de,1.0
-Winterliche Tage,Winterliche Tage,MISC,,,de,1.0
-Ein Jahr in der Natur“,Ein Jahr in der Natur“,MISC,,,de,1.0
-Erste Cannabis-Ernte,Erste Cannabis-Ernte,MISC,,,de,1.0
-Cannabisclubs“,Cannabisclubs“,MISC,,,de,1.0
-gee…,gee…,MISC,,,de,1.0
-Weltmarkt,Weltmarkt,MISC,,,de,1.0
-Tourette-Syndroms,Tourette-Syndroms,MISC,,,de,1.0
-Weltkarten-Tattoo,Weltkarten-Tattoo,MISC,,,de,1.0
-Vierschanzentournee der Frauen am Streit,Vierschanzentournee der Frauen am Streit,MISC,,,de,1.0
-Erste Vierschanzentournee der Frauen,Erste Vierschanzentournee der Frauen,MISC,,,de,1.0
-Youtube-Kanal,Youtube-Kanal,MISC,0.0,0.0,de,1.0
-l.,l.,MISC,,,de,1.0
-"Kopf""-Star 
-Jan Zimmermann","Kopf""-Star 
-Jan Zimmermann",MISC,,,de,1.0
-"Kopf""-Star","Kopf""-Star",MISC,,,de,1.0
-Rekord-Fluten,Rekord-Fluten,MISC,,,de,1.0
-Hochwasserkatastrophe“,Hochwasserkatastrophe“,MISC,,,de,1.0
-deutsche You…,deutsche You…,MISC,,,de,1.0
-YouTube-Kanal,YouTube-Kanal,MISC,,,de,1.0
-Winterliches Wetter“,Winterliches Wetter“,MISC,,,de,1.0
-Erster Biathlon-Winter,Erster Biathlon-Winter,MISC,,,de,1.0
-Dahlmeier“,Dahlmeier“,MISC,,,de,1.0
-Biathlon-Winter,Biathlon-Winter,MISC,,,de,1.0
-Ein Tropensturm,Ein Tropensturm,MISC,,,de,1.0
-Hokusai a…,Hokusai a…,MISC,,,de,1.0
-Erfurt/Offenbach,Erfurt/Offenbach,MISC,,,de,1.0
-Herbst und Winter,Herbst und Winter,MISC,,,de,1.0
-2weeks,2weeks,MISC,,,de,1.0
-Guild Wars 1,Guild Wars 1,MISC,,,de,1.0
-MMO Guild Wars,MMO Guild Wars,MISC,,,de,1.0
-Guild Wars,Guild Wars,MISC,,,de,1.0
-Krieg in Nahost,Krieg in Nahost,MISC,,,de,1.0
-Eur…,Eur…,MISC,,,de,1.0
-"WALTER WILLE
-","WALTER WILLE
-",MISC,,,de,1.0
-norditalienischen,norditalienischen,MISC,,,de,1.0
-Guildo,Guildo,MISC,,,de,1.0
-Angebote laufe…,Angebote laufe…,MISC,,,de,1.0
-Valve rabattiert Schreibtisch-Sport,Valve rabattiert Schreibtisch-Sport,MISC,,,de,1.0
-The UploadVR Showcase Winter 2025 Bundle,The UploadVR Showcase Winter 2025 Bundle,MISC,,,de,1.0
-The UploadVR Showcase Winter 2025 Bundle“,The UploadVR Showcase Winter 2025 Bundle“,MISC,,,de,1.0
-Warmes Winterwetter“,Warmes Winterwetter“,MISC,,,de,1.0
-Warmes Winterwetter,Warmes Winterwetter,MISC,,,de,1.0
-Branche …,Branche …,MISC,,,de,1.0
-"Instagram
-","Instagram
-",MISC,,,de,1.0
-Titanic,Titanic,MISC,,,de,1.0
-Was hinter dem gefährlichen Phänom…,Was hinter dem gefährlichen Phänom…,MISC,,,de,1.0
-Was hinter dem gefährlichen Phänomen,Was hinter dem gefährlichen Phänomen,MISC,,,de,1.0
-Formentera im Winter,Formentera im Winter,MISC,,,de,1.0
-ArenaNet,ArenaNet,MISC,,,de,1.0
-Durchschnittspreis,Durchschnittspreis,MISC,,,de,1.0
-Formentera im Winter“,Formentera im Winter“,MISC,,,de,1.0
-Verbrauche…,Verbrauche…,MISC,,,de,1.0
-Pannenstatistik-Alarm,Pannenstatistik-Alarm,MISC,,,de,1.0
-Winter-Flucht,Winter-Flucht,MISC,,,de,1.0
-Jena-Fans,Jena-Fans,MISC,,,de,1.0
-Niederlage…,Niederlage…,MISC,,,de,1.0
-veganes Za…,veganes Za…,MISC,,,de,1.0
-Erster Weihnachtsmarkt,Erster Weihnachtsmarkt,MISC,,,de,1.0
-Milder Winter,Milder Winter,MISC,,,de,1.0
-PamS,PamS,MISC,,,de,1.0
-Alpinen Skiweltcups,Alpinen Skiweltcups,MISC,,,de,1.0
-US-amerikanische,US-amerikanische,MISC,,,de,1.0
-Im Jahr zwei…,Im Jahr zwei…,MISC,,,de,1.0
-Vintage-Vonn,Vintage-Vonn,MISC,,,de,1.0
-Weltcup-Sieg,Weltcup-Sieg,MISC,,,de,1.0
-Japan-Grabens,Japan-Grabens,MISC,,,de,1.0
-Diese Bohrkerne,Diese Bohrkerne,MISC,,,de,1.0
-BSW,BSW,MISC,,,de,1.0
-me…,me…,MISC,,,de,1.0
-Profi-Eishockey,Profi-Eishockey,MISC,,,de,1.0
-Freizeit & Familie,Freizeit & Familie,MISC,,,de,1.0
-Hamster,Hamster,MISC,,,de,1.0
-Wind w…,Wind w…,MISC,,,de,1.0
-"Horizont
-","Horizont
-",MISC,,,de,1.0
-Gutes Jahr für Nordmanntannen,Gutes Jahr für Nordmanntannen,MISC,,,de,1.0
-Der Donnerstag,Der Donnerstag,MISC,,,de,1.0
+Die Wüste,Die Wüste,MISC,,,de,1.0
+Kamele blöd,Kamele blöd,MISC,,,de,1.0
+Drei Tage,Drei Tage,MISC,,,de,1.0
+Aka/ CC BY-SA,Aka/ CC BY-SA,MISC,,,de,1.0
+Samsungs,Samsungs,MISC,,,de,1.0
+MediaMarkt,MediaMarkt,MISC,,,de,1.0
+Netflix-Serie,Netflix-Serie,MISC,,,de,1.0
 Lily,Lily,MISC,,,de,1.0
+polnischen,polnischen,MISC,,,de,1.0
 Heimweltcup,Heimweltcup,MISC,,,de,1.0
 die kalte Jahre,die kalte Jahre,MISC,,,de,1.0
 slowenischen,slowenischen,MISC,,,de,1.0
 Olympia-Winter,Olympia-Winter,MISC,0.0,0.0,de,1.0
 byzantinische,byzantinische,MISC,,,de,1.0
-Byzanz,Byzanz,MISC,,,de,1.0
+Rettun…,Rettun…,MISC,,,de,1.0
 Ein graues zweites Adventswochenende,Ein graues zweites Adventswochenende,MISC,,,de,1.0
 Weiße Weihnacht,Weiße Weihnacht,MISC,,,de,1.0
 Au…,Au…,MISC,,,de,1.0
@@ -998,14 +882,20 @@ TTS-Player,TTS-Player,MISC,,,de,1.0
 Ärger im Herbst - Laub,Ärger im Herbst - Laub,MISC,,,de,1.0
 Deutschen Wette,Deutschen Wette,MISC,,,de,1.0
 Herbstprogramm“,Herbstprogramm“,MISC,,,de,1.0
-Re…,Re…,MISC,,,de,1.0
 Juni der Jahre 2003,Juni der Jahre 2003,MISC,,,de,1.0
-Der Juni stach,Der Juni stach,MISC,,,de,1.0
-Fußball-Nationalmannschaft,Fußball-Nationalmannschaft,MISC,,,de,1.0
-polnischen,polnischen,MISC,,,de,1.0
-Netflix-Serie,Netflix-Serie,MISC,,,de,1.0
+kalifornischen,kalifornischen,MISC,,,de,1.0
+La Boheme“,La Boheme“,MISC,,,de,1.0
+Urlaub in kalter Jahreszeit“,Urlaub in kalter Jahreszeit“,MISC,,,de,1.0
+Aktuell rieselt der Kunstschnee,Aktuell rieselt der Kunstschnee,MISC,,,de,1.0
+Was hinter dem gefährlichen Phänom…,Was hinter dem gefährlichen Phänom…,MISC,,,de,1.0
+Was hinter dem gefährlichen Phänomen,Was hinter dem gefährlichen Phänomen,MISC,,,de,1.0
+Formentera im Winter,Formentera im Winter,MISC,,,de,1.0
+"Horizont
+","Horizont
+",MISC,,,de,1.0
+Formentera im Winter“,Formentera im Winter“,MISC,,,de,1.0
+Gutes Jahr für Nordmanntannen,Gutes Jahr für Nordmanntannen,MISC,,,de,1.0
 HSV-Trikot,HSV-Trikot,MISC,,,de,1.0
-MediaMarkt,MediaMarkt,MISC,,,de,1.0
 Leihe im Winter,Leihe im Winter,MISC,,,de,1.0
 IbizaHEUTE,IbizaHEUTE,MISC,-0.15217391304347827,0.0,de,1.0
 "Formentera
@@ -1024,54 +914,177 @@ Tourismusangebote“,Tourismusangebote“,MISC,,,de,1.0
 Tourismusangebote,Tourismusangebote,MISC,,,de,1.0
 Nikolaus-Wochenende,Nikolaus-Wochenende,MISC,,,de,1.0
 Nikolaustag“,Nikolaustag“,MISC,,,de,1.0
-Aktuell rieselt der Kunstschnee,Aktuell rieselt der Kunstschnee,MISC,,,de,1.0
-La Boheme“,La Boheme“,MISC,,,de,1.0
-Aka/ CC BY-SA,Aka/ CC BY-SA,MISC,,,de,1.0
-kalifornischen,kalifornischen,MISC,,,de,1.0
-Samsungs,Samsungs,MISC,,,de,1.0
+Der Juni stach,Der Juni stach,MISC,,,de,1.0
+Fußball-Nationalmannschaft,Fußball-Nationalmannschaft,MISC,,,de,1.0
+Der Donnerstag,Der Donnerstag,MISC,,,de,1.0
+Erfurt/Offenbach,Erfurt/Offenbach,MISC,,,de,1.0
+Anschläge auf die Pipelines …,Anschläge auf die Pipelines …,MISC,,,de,1.0
+Anschläge auf die Pipelines,Anschläge auf die Pipelines,MISC,,,de,1.0
+DWD-Bilanz“,DWD-Bilanz“,MISC,,,de,1.0
+Milder Herbst,Milder Herbst,MISC,,,de,1.0
+Herbst…,Herbst…,MISC,,,de,1.0
+DWD Wetterdienst-Bilanz“,DWD Wetterdienst-Bilanz“,MISC,,,de,1.0
+Bilanz“,Bilanz“,MISC,,,de,1.0
+Wetterdienst-Bilanz“,Wetterdienst-Bilanz“,MISC,,,de,1.0
+Nacht auf Samstag - Glatteis-Alarm,Nacht auf Samstag - Glatteis-Alarm,MISC,,,de,1.0
+28.11.2025,28.11.2025,MISC,,,de,1.0
+Advent in Bayern,Advent in Bayern,MISC,,,de,1.0
 Rekorde“,Rekorde“,MISC,,,de,1.0
-Harry Potter“-Strickkleid,Harry Potter“-Strickkleid,MISC,,,de,1.0
-Gefahr im Herbst,Gefahr im Herbst,MISC,,,de,1.0
-Dead of Winter,Dead of Winter,MISC,,,de,1.0
-Gesamtschaden,Gesamtschaden,MISC,,,de,1.0
-Todesopfer,Todesopfer,MISC,,,de,1.0
-CO₂-Emissionen,CO₂-Emissionen,MISC,,,de,1.0
-Penny,Penny,MISC,,,de,1.0
-Hochzeits-Festspiele,Hochzeits-Festspiele,MISC,,,de,1.0
-Leyla,Leyla,MISC,,,de,1.0
-Traumhochzeit,Traumhochzeit,MISC,,,de,1.0
-Mike und Leyla,Mike und Leyla,MISC,,,de,1.0
-Sonne am Sonntag,Sonne am Sonntag,MISC,,,de,1.0
-Berlin zwischen Wolken,Berlin zwischen Wolken,MISC,,,de,1.0
-Interflug-Maschine,Interflug-Maschine,MISC,,,de,1.0
-Leipziger,Leipziger,MISC,,,de,1.0
-SERIE,SERIE,MISC,,,de,1.0
-Ostern,Ostern,MISC,,,de,1.0
-Vorja…,Vorja…,MISC,,,de,1.0
-"Sonne, Wolken","Sonne, Wolken",MISC,,,de,1.0
-europäische,europäische,MISC,,,de,1.0
-Wettermix am Wochenende - Herbst,Wettermix am Wochenende - Herbst,MISC,,,de,1.0
-Superzellen-Gewitter,Superzellen-Gewitter,MISC,,,de,1.0
-Hennef-Bülgenauel …,Hennef-Bülgenauel …,MISC,,,de,1.0
-L333,L333,MISC,,,de,1.0
-Ein bisschen Sommerwetter,Ein bisschen Sommerwetter,MISC,,,de,1.0
-Feuerwehreinsätze,Feuerwehreinsätze,MISC,0.7,0.0,de,1.0
-Mrd. Euro,Mrd. Euro,MISC,,,de,1.0
-Leopard Club Award,Leopard Club Award,MISC,,,de,1.0
-Durchwachsener Sommer“,Durchwachsener Sommer“,MISC,,,de,1.0
+Todesopfer der Flut…,Todesopfer der Flut…,MISC,,,de,1.0
+Katastrophenschutzbehörde …,Katastrophenschutzbehörde …,MISC,,,de,1.0
+Weihnachtsgebäck,Weihnachtsgebäck,MISC,,,de,1.0
+Verheerendes Hochwasser“,Verheerendes Hochwasser“,MISC,,,de,1.0
+"Mars
+","Mars
+",MISC,,,de,1.0
+MissionenBlitz,MissionenBlitz,MISC,,,de,1.0
+Perseverance“,Perseverance“,MISC,,,de,1.0
+NASA-Rover,NASA-Rover,MISC,,,de,1.0
+Das Glatteis,Das Glatteis,MISC,,,de,1.0
+Wintersaison“,Wintersaison“,MISC,,,de,1.0
+BVB,BVB,MISC,,,de,1.0
+Afd-Gewitter,Afd-Gewitter,MISC,,,de,1.0
+Jahr für Jahr,Jahr für Jahr,MISC,,,de,1.0
+Meldefrist,Meldefrist,MISC,,,de,1.0
+sozialdemokratische,sozialdemokratische,MISC,,,de,1.0
+Hokusai a…,Hokusai a…,MISC,,,de,1.0
+Ein Tropensturm,Ein Tropensturm,MISC,,,de,1.0
+indonesische,indonesische,MISC,,,de,1.0
+Hochphas…,Hochphas…,MISC,,,de,1.0
+Wer ist der Mann im Laub,Wer ist der Mann im Laub,MISC,,,de,1.0
+Mord-Fall,Mord-Fall,MISC,,,de,1.0
+weiterlesenPorträt-Klassiker,weiterlesenPorträt-Klassiker,MISC,,,de,1.0
+Ackerflächen,Ackerflächen,MISC,,,de,1.0
+Bayern-Wetter“,Bayern-Wetter“,MISC,,,de,1.0
+dänische,dänische,MISC,,,de,1.0
+Full Self-Driving/Supervised,Full Self-Driving/Supervised,MISC,,,de,1.0
+Regionalverbund T…,Regionalverbund T…,MISC,,,de,1.0
+Im Herbst,Im Herbst,MISC,,,de,1.0
+Herbst …,Herbst …,MISC,,,de,1.0
+Demo-Fahrten,Demo-Fahrten,MISC,,,de,1.0
+deutsch-polnischer,deutsch-polnischer,MISC,,,de,1.0
+schleswig-holsteinischen,schleswig-holsteinischen,MISC,,,de,1.0
+Smarte Heiz­körper­ther­mostate,Smarte Heiz­körper­ther­mostate,MISC,,,de,1.0
+Smarte Thermostate,Smarte Thermostate,MISC,,,de,1.0
+Ahoi Piraten!,Ahoi Piraten!,MISC,,,de,1.0
+"29.11.2025
+","29.11.2025
+",MISC,,,de,1.0
+Baustellen,Baustellen,MISC,,,de,1.0
+Titanic,Titanic,MISC,,,de,1.0
+"Instagram
+","Instagram
+",MISC,,,de,1.0
+Branche …,Branche …,MISC,,,de,1.0
+Winter-Sale,Winter-Sale,MISC,,,de,1.0
+coolste Armee,coolste Armee,MISC,,,de,1.0
+Schlacht in House of the Dragon,Schlacht in House of the Dragon,MISC,,,de,1.0
+House of the Dragon,House of the Dragon,MISC,,,de,1.0
+jedes Jahr über die Bildschirme,jedes Jahr über die Bildschirme,MISC,,,de,1.0
+Aschenbrödel“,Aschenbrödel“,MISC,,,de,1.0
+Schifffahrtswege,Schifffahrtswege,MISC,,,de,1.0
+gCaptain,gCaptain,MISC,,,de,1.0
+Der Steirerball,Der Steirerball,MISC,,,de,1.0
+Veranstaltern,Veranstaltern,MISC,,,de,1.0
+Sofa u,Sofa u,MISC,,,de,1.0
+Du gehörst zu den Menschen,Du gehörst zu den Menschen,MISC,,,de,1.0
+Winterreiseziele,Winterreiseziele,MISC,,,de,1.0
+Du willst dem Grau,Du willst dem Grau,MISC,,,de,1.0
+Chancen dieses Jahr,Chancen dieses Jahr,MISC,,,de,1.0
+Winter-Transfer,Winter-Transfer,MISC,,,de,1.0
+Pottk...,Pottk...,MISC,,,de,1.0
+Bundesliga-Absteiger,Bundesliga-Absteiger,MISC,,,de,1.0
+Winter we…,Winter we…,MISC,,,de,1.0
+deutsche Nationalkeeper,deutsche Nationalkeeper,MISC,,,de,1.0
+Ruhe vor den Stadien,Ruhe vor den Stadien,MISC,,,de,1.0
+IMAGO/SNA,IMAGO/SNA,MISC,,,de,1.0
+Zapad,Zapad,MISC,,,de,1.0
+Russen,Russen,MISC,,,de,1.0
+Westeros-Saga,Westeros-Saga,MISC,,,de,1.0
+Fallout,Fallout,MISC,0.0,0.0,de,1.0
+Schnee-Auszeit,Schnee-Auszeit,MISC,,,de,1.0
+Pollenflug“,Pollenflug“,MISC,,,de,1.0
+Urlaub in kalter Jahreszeit,Urlaub in kalter Jahreszeit,MISC,,,de,1.0
+Weißer Heiligabend,Weißer Heiligabend,MISC,,,de,1.0
+Nur Hauch von Schnee,Nur Hauch von Schnee,MISC,,,de,1.0
+Wir schauen,Wir schauen,MISC,,,de,1.0
+Winter-Shopping,Winter-Shopping,MISC,,,de,1.0
+Plusgraden,Plusgraden,MISC,,,de,1.0
+Wintersport-Saison,Wintersport-Saison,MISC,,,de,1.0
+Skipisten,Skipisten,MISC,,,de,1.0
+Pollenflug,Pollenflug,MISC,0.0,0.0,de,1.0
+Rote Augen,Rote Augen,MISC,,,de,1.0
+Luftverkehr“,Luftverkehr“,MISC,,,de,1.0
+Magdeburg-Profi,Magdeburg-Profi,MISC,,,de,1.0
+Angreifers,Angreifers,MISC,,,de,1.0
+Union-Training,Union-Training,MISC,,,de,1.0
+Ljubicics Zukunft,Ljubicics Zukunft,MISC,,,de,1.0
+Olympischen Winterspiele von Cortina dAmpezzo,Olympischen Winterspiele von Cortina dAmpezzo,MISC,,,de,1.0
+Gold-Form,Gold-Form,MISC,,,de,1.0
+Deutsche Wintersportler,Deutsche Wintersportler,MISC,,,de,1.0
+Winter-Alarm,Winter-Alarm,MISC,,,de,1.0
+BILD fragte be…,BILD fragte be…,MISC,,,de,1.0
+Wetter-Experten,Wetter-Experten,MISC,,,de,1.0
+Zweitligisten,Zweitligisten,MISC,,,de,1.0
+Muße,Muße,MISC,,,de,1.0
+Mittelalter-Sale,Mittelalter-Sale,MISC,,,de,1.0
+Warmes Winterwetter,Warmes Winterwetter,MISC,,,de,1.0
+Mittelalter Festival,Mittelalter Festival,MISC,,,de,1.0
+me…,me…,MISC,,,de,1.0
+Profi-Eishockey,Profi-Eishockey,MISC,,,de,1.0
+Freizeit & Familie,Freizeit & Familie,MISC,,,de,1.0
+Hamster,Hamster,MISC,,,de,1.0
+Wind w…,Wind w…,MISC,,,de,1.0
+Verbrauche…,Verbrauche…,MISC,,,de,1.0
+Durchschnittspreis,Durchschnittspreis,MISC,,,de,1.0
+Herbst und Winter,Herbst und Winter,MISC,,,de,1.0
+ArenaNet,ArenaNet,MISC,,,de,1.0
+2weeks,2weeks,MISC,,,de,1.0
+Guild Wars 1,Guild Wars 1,MISC,,,de,1.0
+MMO Guild Wars,MMO Guild Wars,MISC,,,de,1.0
+Guild Wars,Guild Wars,MISC,,,de,1.0
+Krieg in Nahost,Krieg in Nahost,MISC,,,de,1.0
+Eur…,Eur…,MISC,,,de,1.0
+"WALTER WILLE
+","WALTER WILLE
+",MISC,,,de,1.0
+norditalienischen,norditalienischen,MISC,,,de,1.0
+Guildo,Guildo,MISC,,,de,1.0
+Angebote laufe…,Angebote laufe…,MISC,,,de,1.0
+Valve rabattiert Schreibtisch-Sport,Valve rabattiert Schreibtisch-Sport,MISC,,,de,1.0
+The UploadVR Showcase Winter 2025 Bundle,The UploadVR Showcase Winter 2025 Bundle,MISC,,,de,1.0
+The UploadVR Showcase Winter 2025 Bundle“,The UploadVR Showcase Winter 2025 Bundle“,MISC,,,de,1.0
+Warmes Winterwetter“,Warmes Winterwetter“,MISC,,,de,1.0
+BSW,BSW,MISC,,,de,1.0
+Diese Bohrkerne,Diese Bohrkerne,MISC,,,de,1.0
+Japan-Grabens,Japan-Grabens,MISC,,,de,1.0
+Pannenstatistik-Alarm,Pannenstatistik-Alarm,MISC,,,de,1.0
+Niedrigwasser“,Niedrigwasser“,MISC,,,de,1.0
+Tag d…,Tag d…,MISC,,,de,1.0
+Arabische Frühling,Arabische Frühling,MISC,,,de,1.0
+Frühling ä…,Frühling ä…,MISC,,,de,1.0
+Die Wahrheit bei Antiste,Die Wahrheit bei Antiste,MISC,,,de,1.0
+Winter-Updates,Winter-Updates,MISC,,,de,1.0
+Winter-Update,Winter-Update,MISC,,,de,1.0
+The Masquerade,The Masquerade,MISC,,,de,1.0
+Ma…,Ma…,MISC,,,de,1.0
+ADAC-Pannenstatistik 2024,ADAC-Pannenstatistik 2024,MISC,,,de,1.0
+Winter-Flucht,Winter-Flucht,MISC,,,de,1.0
+Weltcup-Sieg,Weltcup-Sieg,MISC,,,de,1.0
+Jena-Fans,Jena-Fans,MISC,,,de,1.0
+Niederlage…,Niederlage…,MISC,,,de,1.0
+veganes Za…,veganes Za…,MISC,,,de,1.0
+Erster Weihnachtsmarkt,Erster Weihnachtsmarkt,MISC,,,de,1.0
+Milder Winter,Milder Winter,MISC,,,de,1.0
+PamS,PamS,MISC,,,de,1.0
+Alpinen Skiweltcups,Alpinen Skiweltcups,MISC,,,de,1.0
+US-amerikanische,US-amerikanische,MISC,,,de,1.0
+Im Jahr zwei…,Im Jahr zwei…,MISC,,,de,1.0
+Vintage-Vonn,Vintage-Vonn,MISC,,,de,1.0
+BILD-Reporter,BILD-Reporter,MISC,,,de,1.0
+Schlechtwetter-Sommer“,Schlechtwetter-Sommer“,MISC,,,de,1.0
+Der Sportsender Dyn,Der Sportsender Dyn,MISC,,,de,1.0
 Anschluss,Anschluss,MISC,,,de,1.0
-Landtagswahlen,Landtagswahlen,MISC,-0.7,0.0,de,1.0
-Winzer rechnen heuer,Winzer rechnen heuer,MISC,,,de,1.0
-Gewitter und Regen,Gewitter und Regen,MISC,,,de,1.0
-MV,MV,MISC,0.0,0.0,de,1.0
-Streaming-Herbst“,Streaming-Herbst“,MISC,,,de,1.0
-Disney & Co.“,Disney & Co.“,MISC,,,de,1.0
-Netflix,Netflix,MISC,0.0,0.0,de,1.0
-Trump,Trump,MISC,,,de,1.0
-Frühling für … Ja,Frühling für … Ja,MISC,,,de,1.0
-Bundesmuseum“,Bundesmuseum“,MISC,,,de,1.0
-Instagram-Menschen,Instagram-Menschen,MISC,,,de,1.0
-britischen,britischen,MISC,,,de,1.0
 Türkis-Rot-Pink,Türkis-Rot-Pink,MISC,,,de,1.0
 Jedes Jahr,Jedes Jahr,MISC,,,de,1.0
 ein Jahr der Wetterextreme,ein Jahr der Wetterextreme,MISC,,,de,1.0
@@ -1083,128 +1096,23 @@ Kollektives Trauma“,Kollektives Trauma“,MISC,,,de,1.0
 Wettera…,Wettera…,MISC,,,de,1.0
 japanischen,japanischen,MISC,,,de,1.0
 The Dead of Winter,The Dead of Winter,MISC,,,de,1.0
-Temp…,Temp…,MISC,,,de,1.0
-pakistanischen,pakistanischen,MISC,,,de,1.0
-"Vogue""-Nachfolgerin","Vogue""-Nachfolgerin",MISC,,,de,1.0
-Verfügb…,Verfügb…,MISC,,,de,1.0
-j…,j…,MISC,,,de,1.0
-Sport“,Sport“,MISC,,,de,1.0
-Raps“,Raps“,MISC,,,de,1.0
-Gute Ernte,Gute Ernte,MISC,,,de,1.0
-Witt…,Witt…,MISC,,,de,1.0
-Gutes Wetter,Gutes Wetter,MISC,,,de,1.0
-Mengen topp,Mengen topp,MISC,,,de,1.0
-ein Jahr zum Vergessen,ein Jahr zum Vergessen,MISC,,,de,1.0
-Weinanbau“,Weinanbau“,MISC,,,de,1.0
-Autobahnkreuz“,Autobahnkreuz“,MISC,,,de,1.0
-australischen,australischen,MISC,,,de,1.0
-Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1.0
-Letztes Jahr war dur…,Letztes Jahr war dur…,MISC,,,de,1.0
-Wicht…,Wicht…,MISC,,,de,1.0
-25.08.2025,25.08.2025,MISC,,,de,1.0
-IAA,IAA,MISC,,,de,1.0
-Herbst der Reformen“,Herbst der Reformen“,MISC,,,de,1.0
-Die Regierungskoalition aus Union,Die Regierungskoalition aus Union,MISC,,,de,1.0
-Wochenmitte,Wochenmitte,MISC,0.0,0.0,de,1.0
-Rad z…,Rad z…,MISC,,,de,1.0
-Applaus,Applaus,MISC,,,de,1.0
-Campingplä…,Campingplä…,MISC,,,de,1.0
-Italiens Adria-Küste,Italiens Adria-Küste,MISC,,,de,1.0
-Neues Hochwasserschutzlager,Neues Hochwasserschutzlager,MISC,,,de,1.0
-Ragweed-Belastung,Ragweed-Belastung,MISC,,,de,1.0
-Ottjen-Alldag-Weg 7,Ottjen-Alldag-Weg 7,MISC,,,de,1.0
-Ragweed-Pflanze,Ragweed-Pflanze,MISC,,,de,1.0
-jedes Jahr,jedes Jahr,MISC,,,de,1.0
-vorläufigen Ergebnissen w…,vorläufigen Ergebnissen w…,MISC,,,de,1.0
-Die Getreideernte,Die Getreideernte,MISC,,,de,1.0
-Mein Leben am Strand“,Mein Leben am Strand“,MISC,,,de,1.0
-Erntebilanz“,Erntebilanz“,MISC,,,de,1.0
-Die Hektarerträge,Die Hektarerträge,MISC,,,de,1.0
-Arzneihersteller“,Arzneihersteller“,MISC,,,de,1.0
-Schwere Unwetter“,Schwere Unwetter“,MISC,,,de,1.0
-Weihnachtsmarkt-Anschlag“,Weihnachtsmarkt-Anschlag“,MISC,,,de,1.0
-Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1.0
-Grenze,Grenze,MISC,,,de,1.0
-Wenn der Herbst naht“,Wenn der Herbst naht“,MISC,,,de,1.0
-Das Gift der späten Jahre,Das Gift der späten Jahre,MISC,,,de,1.0
-25 Liter R,25 Liter R,MISC,,,de,1.0
-Wer a…,Wer a…,MISC,,,de,1.0
-Enttäuschungen,Enttäuschungen,MISC,,,de,1.0
-Das Leb…,Das Leb…,MISC,,,de,1.0
-SPD-Politiker,SPD-Politiker,MISC,,,de,1.0
-Gr…,Gr…,MISC,,,de,1.0
-La…,La…,MISC,,,de,1.0
-Wol…,Wol…,MISC,,,de,1.0
-Richter,Richter,MISC,,,de,1.0
-Dienst…,Dienst…,MISC,,,de,1.0
-österreichische,österreichische,MISC,,,de,1.0
-Vogue,Vogue,MISC,,,de,1.0
-jedes Jahr Ende Oktober,jedes Jahr Ende Oktober,MISC,,,de,1.0
-Live-Sport,Live-Sport,MISC,0.7,1.0,de,1.0
-Lockdown-Gefühle,Lockdown-Gefühle,MISC,,,de,1.0
-Ein Jahr nach dem Hochwasser,Ein Jahr nach dem Hochwasser,MISC,,,de,1.0
-Haiminger,Haiminger,MISC,,,de,1.0
-Starkregen-Überschwemmungen,Starkregen-Überschwemmungen,MISC,,,de,1.0
-Todesopfer bei Überflutungen,Todesopfer bei Überflutungen,MISC,,,de,1.0
-Tasse English Breakfast T…,Tasse English Breakfast T…,MISC,,,de,1.0
-Postkasten,Postkasten,MISC,,,de,1.0
-Gewitter“,Gewitter“,MISC,,,de,1.0
-Die Stefan Raab Show,Die Stefan Raab Show,MISC,,,de,1.0
-Fernsehen“,Fernsehen“,MISC,,,de,1.0
-trompet…,trompet…,MISC,,,de,1.0
-Chagall-Schülers,Chagall-Schülers,MISC,,,de,1.0
-Surrealismus Schnee von gestern,Surrealismus Schnee von gestern,MISC,,,de,1.0
-BILD09…,BILD09…,MISC,,,de,1.0
-Vergangenes Jahr,Vergangenes Jahr,MISC,,,de,1.0
-Agrar“,Agrar“,MISC,,,de,1.0
-Milliardären,Milliardären,MISC,,,de,1.0
-Ozeandünger,Ozeandünger,MISC,,,de,1.0
-Ebay.de,Ebay.de,MISC,,,de,1.0
-Amazon,Amazon,MISC,,,de,1.0
-Ferienwoche,Ferienwoche,MISC,,,de,1.0
-Was g…,Was g…,MISC,,,de,1.0
-Nä…,Nä…,MISC,,,de,1.0
-Todesopfer auf mindestens 19,Todesopfer auf mindestens 19,MISC,,,de,1.0
-Earth“,Earth“,MISC,,,de,1.0
-Wetters,Wetters,MISC,,,de,1.0
-Only Murders in the Building“,Only Murders in the Building“,MISC,,,de,1.0
-Dortmunder,Dortmunder,MISC,,,de,1.0
-Ein Jahr nach der Flut,Ein Jahr nach der Flut,MISC,,,de,1.0
-Vogelzug“,Vogelzug“,MISC,,,de,1.0
-Wenn klimawandel…,Wenn klimawandel…,MISC,,,de,1.0
-Klimawandel“,Klimawandel“,MISC,,,de,1.0
-Deutscher Apothekerverbände,Deutscher Apothekerverbände,MISC,,,de,1.0
-Bundesliga-Geschichte,Bundesliga-Geschichte,MISC,,,de,1.0
-feier…,feier…,MISC,,,de,1.0
-Minute u,Minute u,MISC,,,de,1.0
-Kölner,Kölner,MISC,,,de,1.0
-Nachspielzeit,Nachspielzeit,MISC,,,de,1.0
-Tagesverlauf kan,Tagesverlauf kan,MISC,,,de,1.0
-Jahrhundertkatastrophe,Jahrhundertkatastrophe,MISC,,,de,1.0
-Rund ein Jahr,Rund ein Jahr,MISC,,,de,1.0
-Beauty-Sekt,Beauty-Sekt,MISC,,,de,1.0
-Putins Invasion,Putins Invasion,MISC,,,de,1.0
-Woltemade,Woltemade,MISC,,,de,1.0
-Frisches Obst“,Frisches Obst“,MISC,,,de,1.0
-Frisches Obst,Frisches Obst,MISC,,,de,1.0
-Reparatur-Richtline,Reparatur-Richtline,MISC,,,de,1.0
-Frühling und,Frühling und,MISC,,,de,1.0
-Die guten Nachrichten,Die guten Nachrichten,MISC,,,de,1.0
-Li…,Li…,MISC,,,de,1.0
-Hochw…,Hochw…,MISC,,,de,1.0
-Polizeiruf 110,Polizeiruf 110,MISC,,,de,1.0
-Früh-Herbst,Früh-Herbst,MISC,,,de,1.0
-Die Märkte verhageln,Die Märkte verhageln,MISC,,,de,1.0
-Anti-Habeck“,Anti-Habeck“,MISC,,,de,1.0
-Regierungsv…,Regierungsv…,MISC,,,de,1.0
-Wachau-Marathon,Wachau-Marathon,MISC,,,de,1.0
-nächsten Zeit,nächsten Zeit,MISC,,,de,1.0
-XPLORE,XPLORE,MISC,,,de,1.0
-Mit Camper,Mit Camper,MISC,,,de,1.0
-BILDplay,BILDplay,MISC,,,de,1.0
-03.09.2025,03.09.2025,MISC,,,de,1.0
-Fr…,Fr…,MISC,,,de,1.0
-Wetter-Mix“,Wetter-Mix“,MISC,,,de,1.0
+Leopard Club Award,Leopard Club Award,MISC,,,de,1.0
+Instagram-Menschen,Instagram-Menschen,MISC,,,de,1.0
+Dead of Winter,Dead of Winter,MISC,,,de,1.0
+Mrd. Euro,Mrd. Euro,MISC,,,de,1.0
+Gesamtschaden,Gesamtschaden,MISC,,,de,1.0
+Todesopfer,Todesopfer,MISC,,,de,1.0
+CO₂-Emissionen,CO₂-Emissionen,MISC,,,de,1.0
+Penny,Penny,MISC,,,de,1.0
+Hochzeits-Festspiele,Hochzeits-Festspiele,MISC,,,de,1.0
+Leyla,Leyla,MISC,,,de,1.0
+Traumhochzeit,Traumhochzeit,MISC,,,de,1.0
+Mike und Leyla,Mike und Leyla,MISC,,,de,1.0
+Sonne am Sonntag,Sonne am Sonntag,MISC,,,de,1.0
+britischen,britischen,MISC,,,de,1.0
+Bundesmuseum“,Bundesmuseum“,MISC,,,de,1.0
+Interflug-Maschine,Interflug-Maschine,MISC,,,de,1.0
+Deutschland lo…,Deutschland lo…,MISC,,,de,1.0
 Der Bunte Marienkäfer,Der Bunte Marienkäfer,MISC,,,de,1.0
 Herbst vor der Tür,Herbst vor der Tür,MISC,,,de,1.0
 i…,i…,MISC,,,de,1.0
@@ -1216,21 +1124,135 @@ Nie…,Nie…,MISC,,,de,1.0
 Im Jahr 2015,Im Jahr 2015,MISC,,,de,1.0
 Motorradunfälle auf Rekordhoch,Motorradunfälle auf Rekordhoch,MISC,,,de,1.0
 CoV-Pandemiejahre,CoV-Pandemiejahre,MISC,,,de,1.0
-Deutschland lo…,Deutschland lo…,MISC,,,de,1.0
 Ferien-Stress,Ferien-Stress,MISC,,,de,1.0
-Unbeständiges Wetter,Unbeständiges Wetter,MISC,,,de,1.0
-Designern,Designern,MISC,,,de,1.0
-"Tatort""-","Tatort""-",MISC,,,de,1.0
-We…,We…,MISC,,,de,1.0
-Thüringens Weinbauern,Thüringens Weinbauern,MISC,,,de,1.0
-XXL-Skigebiet,XXL-Skigebiet,MISC,,,de,1.0
-5.Oktober,5.Oktober,MISC,,,de,1.0
-Die Schadholzmengen,Die Schadholzmengen,MISC,,,de,1.0
-Oberösterreichische,Oberösterreichische,MISC,,,de,1.0
-Fest steh…,Fest steh…,MISC,,,de,1.0
-Wag…,Wag…,MISC,,,de,1.0
-15 Jahre lang,15 Jahre lang,MISC,,,de,1.0
-überarbei…,überarbei…,MISC,,,de,1.0
+Frühling für … Ja,Frühling für … Ja,MISC,,,de,1.0
+Früh-Herbst,Früh-Herbst,MISC,,,de,1.0
+Vogue,Vogue,MISC,,,de,1.0
+"Vogue""-Nachfolgerin","Vogue""-Nachfolgerin",MISC,,,de,1.0
+österreichische,österreichische,MISC,,,de,1.0
+Landtagswahlen,Landtagswahlen,MISC,-0.7,0.0,de,1.0
+Winzer rechnen heuer,Winzer rechnen heuer,MISC,,,de,1.0
+Gewitter und Regen,Gewitter und Regen,MISC,,,de,1.0
+Streaming-Herbst“,Streaming-Herbst“,MISC,,,de,1.0
+Disney & Co.“,Disney & Co.“,MISC,,,de,1.0
+Netflix,Netflix,MISC,0.0,0.0,de,1.0
+Trump,Trump,MISC,,,de,1.0
+Berlin zwischen Wolken,Berlin zwischen Wolken,MISC,,,de,1.0
+SERIE,SERIE,MISC,,,de,1.0
+Fr…,Fr…,MISC,,,de,1.0
+Neues Hochwasserschutzlager,Neues Hochwasserschutzlager,MISC,,,de,1.0
+Enttäuschungen,Enttäuschungen,MISC,,,de,1.0
+Das Leb…,Das Leb…,MISC,,,de,1.0
+SPD-Politiker,SPD-Politiker,MISC,,,de,1.0
+La…,La…,MISC,,,de,1.0
+Wol…,Wol…,MISC,,,de,1.0
+Richter,Richter,MISC,,,de,1.0
+Dienst…,Dienst…,MISC,,,de,1.0
+Ragweed-Pflanze,Ragweed-Pflanze,MISC,,,de,1.0
+Ragweed-Belastung,Ragweed-Belastung,MISC,,,de,1.0
+j…,j…,MISC,,,de,1.0
+Verfügb…,Verfügb…,MISC,,,de,1.0
+Sport“,Sport“,MISC,,,de,1.0
+25 Liter R,25 Liter R,MISC,,,de,1.0
+Raps“,Raps“,MISC,,,de,1.0
+Gute Ernte,Gute Ernte,MISC,,,de,1.0
+Gutes Wetter,Gutes Wetter,MISC,,,de,1.0
+Witt…,Witt…,MISC,,,de,1.0
+Mengen topp,Mengen topp,MISC,,,de,1.0
+Weinanbau“,Weinanbau“,MISC,,,de,1.0
+ein Jahr zum Vergessen,ein Jahr zum Vergessen,MISC,,,de,1.0
+Autobahnkreuz“,Autobahnkreuz“,MISC,,,de,1.0
+australischen,australischen,MISC,,,de,1.0
+Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1.0
+Letztes Jahr war dur…,Letztes Jahr war dur…,MISC,,,de,1.0
+Wer a…,Wer a…,MISC,,,de,1.0
+Das Gift der späten Jahre,Das Gift der späten Jahre,MISC,,,de,1.0
+Ostern,Ostern,MISC,,,de,1.0
+pakistanischen,pakistanischen,MISC,,,de,1.0
+Vorja…,Vorja…,MISC,,,de,1.0
+"Sonne, Wolken","Sonne, Wolken",MISC,,,de,1.0
+europäische,europäische,MISC,,,de,1.0
+Wettermix am Wochenende - Herbst,Wettermix am Wochenende - Herbst,MISC,,,de,1.0
+Superzellen-Gewitter,Superzellen-Gewitter,MISC,,,de,1.0
+Hennef-Bülgenauel …,Hennef-Bülgenauel …,MISC,,,de,1.0
+L333,L333,MISC,,,de,1.0
+Ein bisschen Sommerwetter,Ein bisschen Sommerwetter,MISC,,,de,1.0
+Feuerwehreinsätze,Feuerwehreinsätze,MISC,0.7,0.0,de,1.0
+Temp…,Temp…,MISC,,,de,1.0
+Durchwachsener Sommer“,Durchwachsener Sommer“,MISC,,,de,1.0
+Ottjen-Alldag-Weg 7,Ottjen-Alldag-Weg 7,MISC,,,de,1.0
+Wenn der Herbst naht“,Wenn der Herbst naht“,MISC,,,de,1.0
+jedes Jahr,jedes Jahr,MISC,,,de,1.0
+Die Getreideernte,Die Getreideernte,MISC,,,de,1.0
+vorläufigen Ergebnissen w…,vorläufigen Ergebnissen w…,MISC,,,de,1.0
+Mein Leben am Strand“,Mein Leben am Strand“,MISC,,,de,1.0
+Erntebilanz“,Erntebilanz“,MISC,,,de,1.0
+Die Hektarerträge,Die Hektarerträge,MISC,,,de,1.0
+Arzneihersteller“,Arzneihersteller“,MISC,,,de,1.0
+Schwere Unwetter“,Schwere Unwetter“,MISC,,,de,1.0
+Weihnachtsmarkt-Anschlag“,Weihnachtsmarkt-Anschlag“,MISC,,,de,1.0
+Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1.0
+Grenze,Grenze,MISC,,,de,1.0
+Wetter-Mix“,Wetter-Mix“,MISC,,,de,1.0
+03.09.2025,03.09.2025,MISC,,,de,1.0
+25.08.2025,25.08.2025,MISC,,,de,1.0
+Frisches Obst“,Frisches Obst“,MISC,,,de,1.0
+Bundesliga-Geschichte,Bundesliga-Geschichte,MISC,,,de,1.0
+feier…,feier…,MISC,,,de,1.0
+Minute u,Minute u,MISC,,,de,1.0
+Kölner,Kölner,MISC,,,de,1.0
+Nachspielzeit,Nachspielzeit,MISC,,,de,1.0
+Tagesverlauf kan,Tagesverlauf kan,MISC,,,de,1.0
+Jahrhundertkatastrophe,Jahrhundertkatastrophe,MISC,,,de,1.0
+Rund ein Jahr,Rund ein Jahr,MISC,,,de,1.0
+Beauty-Sekt,Beauty-Sekt,MISC,,,de,1.0
+Putins Invasion,Putins Invasion,MISC,,,de,1.0
+Woltemade,Woltemade,MISC,,,de,1.0
+Frisches Obst,Frisches Obst,MISC,,,de,1.0
+Klimawandel“,Klimawandel“,MISC,,,de,1.0
+Reparatur-Richtline,Reparatur-Richtline,MISC,,,de,1.0
+Frühling und,Frühling und,MISC,,,de,1.0
+Die guten Nachrichten,Die guten Nachrichten,MISC,,,de,1.0
+Li…,Li…,MISC,,,de,1.0
+Only Murders in the Building“,Only Murders in the Building“,MISC,,,de,1.0
+Earth“,Earth“,MISC,,,de,1.0
+Live-Sport,Live-Sport,MISC,0.7,1.0,de,1.0
+Todesopfer auf mindestens 19,Todesopfer auf mindestens 19,MISC,,,de,1.0
+Lockdown-Gefühle,Lockdown-Gefühle,MISC,,,de,1.0
+Ein Jahr nach dem Hochwasser,Ein Jahr nach dem Hochwasser,MISC,,,de,1.0
+Haiminger,Haiminger,MISC,,,de,1.0
+Deutscher Apothekerverbände,Deutscher Apothekerverbände,MISC,,,de,1.0
+Wenn klimawandel…,Wenn klimawandel…,MISC,,,de,1.0
+Todesopfer bei Überflutungen,Todesopfer bei Überflutungen,MISC,,,de,1.0
+Kurioser Fall“,Kurioser Fall“,MISC,,,de,1.0
+Weinskandal,Weinskandal,MISC,,,de,1.0
+Herbststurm,Herbststurm,MISC,0.25,0.0,de,1.0
+Wetterkapriolen 2025,Wetterkapriolen 2025,MISC,,,de,1.0
+Stürmisches Wetter“,Stürmisches Wetter“,MISC,,,de,1.0
+Der Herbst,Der Herbst,MISC,,,de,1.0
+Stürmisches Wetter,Stürmisches Wetter,MISC,,,de,1.0
+Olympia-Saison,Olympia-Saison,MISC,,,de,1.0
+Italienischer,Italienischer,MISC,,,de,1.0
+1:0-Erfolg am Sonntag,1:0-Erfolg am Sonntag,MISC,,,de,1.0
+kanadischen,kanadischen,MISC,,,de,1.0
+Thüringens gr,Thüringens gr,MISC,,,de,1.0
+Herbststurm…,Herbststurm…,MISC,,,de,1.0
+Vogelzug“,Vogelzug“,MISC,,,de,1.0
+Diebe klauen,Diebe klauen,MISC,,,de,1.0
+Worms vom Sonntag…,Worms vom Sonntag…,MISC,,,de,1.0
+Ortes,Ortes,MISC,,,de,1.0
+Weinernte“,Weinernte“,MISC,,,de,1.0
+Tisch,Tisch,MISC,,,de,1.0
+Uschi Glas,Uschi Glas,MISC,,,de,1.0
+Tomatenmarmelade,Tomatenmarmelade,MISC,,,de,1.0
+Sonnenspeicher auf Papier,Sonnenspeicher auf Papier,MISC,,,de,1.0
+Champions-League-Auftakt,Champions-League-Auftakt,MISC,,,de,1.0
+Dortmunder,Dortmunder,MISC,,,de,1.0
+Ein Jahr nach der Flut,Ein Jahr nach der Flut,MISC,,,de,1.0
+Starkregen-Überschwemmungen,Starkregen-Überschwemmungen,MISC,,,de,1.0
+Tasse English Breakfast T…,Tasse English Breakfast T…,MISC,,,de,1.0
+BILDplay,BILDplay,MISC,,,de,1.0
+Kissing Disease,Kissing Disease,MISC,,,de,1.0
 Agenda 2010,Agenda 2010,MISC,,,de,1.0
 Strickpullover,Strickpullover,MISC,,,de,1.0
 norwegische,norwegische,MISC,,,de,1.0
@@ -1242,48 +1264,92 @@ Me Too“-Moment,Me Too“-Moment,MISC,,,de,1.0
 Bürger,Bürger,MISC,,,de,1.0
 Ahr-Katastrophe,Ahr-Katastrophe,MISC,,,de,1.0
 IMAGO/Michael Bihlmayer/IMAGO/Bihlmayerfotografie,IMAGO/Michael Bihlmayer/IMAGO/Bihlmayerfotografie,MISC,,,de,1.0
-Kissing Disease,Kissing Disease,MISC,,,de,1.0
 Curry,Curry,MISC,,,de,1.0
+15 Jahre lang,15 Jahre lang,MISC,,,de,1.0
 Meine…,Meine…,MISC,,,de,1.0
-Freibadbesucher und Ausflügler,Freibadbesucher und Ausflügler,MISC,,,de,1.0
-Äpfel lieben Sonne,Äpfel lieben Sonne,MISC,,,de,1.0
-Potsdamer Forscher,Potsdamer Forscher,MISC,,,de,1.0
+We…,We…,MISC,,,de,1.0
+Designern,Designern,MISC,,,de,1.0
+Die Märkte verhageln,Die Märkte verhageln,MISC,,,de,1.0
+Unbeständiges Wetter,Unbeständiges Wetter,MISC,,,de,1.0
+Anti-Habeck“,Anti-Habeck“,MISC,,,de,1.0
+Regierungsv…,Regierungsv…,MISC,,,de,1.0
+Wachau-Marathon,Wachau-Marathon,MISC,,,de,1.0
+nächsten Zeit,nächsten Zeit,MISC,,,de,1.0
+XPLORE,XPLORE,MISC,,,de,1.0
+Mit Camper,Mit Camper,MISC,,,de,1.0
+überarbei…,überarbei…,MISC,,,de,1.0
+Wag…,Wag…,MISC,,,de,1.0
+Postkasten,Postkasten,MISC,,,de,1.0
+Ebay.de,Ebay.de,MISC,,,de,1.0
+Gewitter“,Gewitter“,MISC,,,de,1.0
+Die Stefan Raab Show,Die Stefan Raab Show,MISC,,,de,1.0
+Fernsehen“,Fernsehen“,MISC,,,de,1.0
+trompet…,trompet…,MISC,,,de,1.0
+Chagall-Schülers,Chagall-Schülers,MISC,,,de,1.0
+Surrealismus Schnee von gestern,Surrealismus Schnee von gestern,MISC,,,de,1.0
+BILD09…,BILD09…,MISC,,,de,1.0
+Vergangenes Jahr,Vergangenes Jahr,MISC,,,de,1.0
+Agrar“,Agrar“,MISC,,,de,1.0
+Milliardären,Milliardären,MISC,,,de,1.0
+Ozeandünger,Ozeandünger,MISC,,,de,1.0
+Ferienwoche,Ferienwoche,MISC,,,de,1.0
+Fest steh…,Fest steh…,MISC,,,de,1.0
+Was g…,Was g…,MISC,,,de,1.0
+Nä…,Nä…,MISC,,,de,1.0
+Hochw…,Hochw…,MISC,,,de,1.0
+Wetters,Wetters,MISC,,,de,1.0
+Polizeiruf 110,Polizeiruf 110,MISC,,,de,1.0
+"Tatort""-","Tatort""-",MISC,,,de,1.0
+Thüringens Weinbauern,Thüringens Weinbauern,MISC,,,de,1.0
+XXL-Skigebiet,XXL-Skigebiet,MISC,,,de,1.0
+5.Oktober,5.Oktober,MISC,,,de,1.0
+Die Schadholzmengen,Die Schadholzmengen,MISC,,,de,1.0
+Oberösterreichische,Oberösterreichische,MISC,,,de,1.0
+Wicht…,Wicht…,MISC,,,de,1.0
+IAA,IAA,MISC,,,de,1.0
+Sommer-Comeback,Sommer-Comeback,MISC,0.0,0.0,de,1.0
+Unreal Engine 5,Unreal Engine 5,MISC,,,de,1.0
+Britische,Britische,MISC,,,de,1.0
+israelische,israelische,MISC,,,de,1.0
 palästinensisches,palästinensisches,MISC,,,de,1.0
+Jahr 1913,Jahr 1913,MISC,,,de,1.0
 U…,U…,MISC,,,de,1.0
 Salbeifeldern,Salbeifeldern,MISC,,,de,1.0
 Obstbaubet…,Obstbaubet…,MISC,,,de,1.0
 Bodensee-Bauern,Bodensee-Bauern,MISC,,,de,1.0
 Essen m,Essen m,MISC,,,de,1.0
 Hitze“,Hitze“,MISC,,,de,1.0
-Spiele,Spiele,MISC,,,de,1.0
 Aerosoft,Aerosoft,MISC,0.7,0.0,de,1.0
-Unreal Engine 5,Unreal Engine 5,MISC,,,de,1.0
 So…,So…,MISC,,,de,1.0
+Das Wetter bei uns,Das Wetter bei uns,MISC,,,de,1.0
 sexy,sexy,MISC,,,de,1.0
 Der Weinherbst,Der Weinherbst,MISC,,,de,1.0
 E-Roller,E-Roller,MISC,,,de,1.0
 Ein Mann düst,Ein Mann düst,MISC,,,de,1.0
 GLP-Politiker,GLP-Politiker,MISC,,,de,1.0
 Wirtschaftswende,Wirtschaftswende,MISC,,,de,1.0
-Haselnusspreise,Haselnusspreise,MISC,,,de,1.0
 Müsli,Müsli,MISC,0.0,0.0,de,1.0
+Haselnusspreise,Haselnusspreise,MISC,,,de,1.0
 Haselnüsse,Haselnüsse,MISC,,,de,1.0
 Sprecherin d…,Sprecherin d…,MISC,,,de,1.0
 Ernte“,Ernte“,MISC,,,de,1.0
-Postler radeln,Postler radeln,MISC,,,de,1.0
+Live-Karten,Live-Karten,MISC,-0.4107142857142857,0.0,de,1.0
+türkische,türkische,MISC,,,de,1.0
 Weihnachtspost,Weihnachtspost,MISC,,,de,1.0
-Jahr 1913,Jahr 1913,MISC,,,de,1.0
-israelische,israelische,MISC,,,de,1.0
-Sommer-Grand-Prix,Sommer-Grand-Prix,MISC,,,de,1.0
-Britische,Britische,MISC,,,de,1.0
+Shutterstock.com,Shutterstock.com,MISC,,,de,1.0
+Urlaub“,Urlaub“,MISC,,,de,1.0
+Das Wochenende,Das Wochenende,MISC,,,de,1.0
+Gewi…,Gewi…,MISC,,,de,1.0
+Temperaturen“,Temperaturen“,MISC,,,de,1.0
+Ge…,Ge…,MISC,,,de,1.0
 Pfirsich-Spritzer,Pfirsich-Spritzer,MISC,,,de,1.0
 Caroline Becker15,Caroline Becker15,MISC,,,de,1.0
 Dürre,Dürre,MISC,,,de,1.0
 Urlaubsreisen“,Urlaubsreisen“,MISC,,,de,1.0
 Äp…,Äp…,MISC,,,de,1.0
 n…,n…,MISC,,,de,1.0
-Shutterstock.com,Shutterstock.com,MISC,,,de,1.0
 Deutschla…,Deutschla…,MISC,,,de,1.0
+Badewetter“,Badewetter“,MISC,,,de,1.0
 Bartenderin des Jahres,Bartenderin des Jahres,MISC,,,de,1.0
 Gusto,Gusto,MISC,,,de,1.0
 niederländischen,niederländischen,MISC,,,de,1.0
@@ -1295,14 +1361,13 @@ son…,son…,MISC,,,de,1.0
 Sommerwetter“,Sommerwetter“,MISC,,,de,1.0
 Sixtinischen K…,Sixtinischen K…,MISC,,,de,1.0
 Grill-Diplomaten,Grill-Diplomaten,MISC,,,de,1.0
-Badewetter“,Badewetter“,MISC,,,de,1.0
-türkische,türkische,MISC,,,de,1.0
-Das Wetter bei uns,Das Wetter bei uns,MISC,,,de,1.0
-Live-Karten,Live-Karten,MISC,-0.4107142857142857,0.0,de,1.0
+Postler radeln,Postler radeln,MISC,,,de,1.0
 nordischen Ski-WM,nordischen Ski-WM,MISC,,,de,1.0
-WM-Titel,WM-Titel,MISC,,,de,1.0
-Bundesregierung“,Bundesregierung“,MISC,,,de,1.0
-Nager“,Nager“,MISC,,,de,1.0
+Bestseller-Modell,Bestseller-Modell,MISC,,,de,1.0
+"Multitasking
+","Multitasking
+",MISC,,,de,1.0
+Nutrias,Nutrias,MISC,,,de,1.0
 Regen-Sommer vermiese,Regen-Sommer vermiese,MISC,,,de,1.0
 Regen-Sommer,Regen-Sommer,MISC,,,de,1.0
 Gastronomie“,Gastronomie“,MISC,,,de,1.0
@@ -1313,10 +1378,8 @@ Optimier…,Optimier…,MISC,,,de,1.0
 Google Translate,Google Translate,MISC,,,de,1.0
 Das alte Tiflis,Das alte Tiflis,MISC,,,de,1.0
 soziale,soziale,MISC,,,de,1.0
-"Multitasking
-","Multitasking
-",MISC,,,de,1.0
 Mac mit Touchscreen“,Mac mit Touchscreen“,MISC,,,de,1.0
+Nabu,Nabu,MISC,,,de,1.0
 iPad,iPad,MISC,1.0,0.0,de,1.0
 Mac,Mac,MISC,,,de,1.0
 iPadOS 26,iPadOS 26,MISC,,,de,1.0
@@ -1328,10 +1391,12 @@ Bayern-Profi,Bayern-Profi,MISC,,,de,1.0
 bayerische,bayerische,MISC,,,de,1.0
 Bayern Thalers,Bayern Thalers,MISC,,,de,1.0
 Krügerrand“,Krügerrand“,MISC,,,de,1.0
-Nutrias,Nutrias,MISC,,,de,1.0
-Nabu,Nabu,MISC,,,de,1.0
-Ski-Weltmeisterschaften,Ski-Weltmeisterschaften,MISC,,,de,1.0
+Nager“,Nager“,MISC,,,de,1.0
 Der Sommer,Der Sommer,MISC,,,de,1.0
+Sommer-Grand-Prix,Sommer-Grand-Prix,MISC,,,de,1.0
+Getreideernte“,Getreideernte“,MISC,,,de,1.0
+WM-Titel,WM-Titel,MISC,,,de,1.0
+Ski-Weltmeisterschaften,Ski-Weltmeisterschaften,MISC,,,de,1.0
 Äpfel“,Äpfel“,MISC,,,de,1.0
 Ragweed-Blüte,Ragweed-Blüte,MISC,,,de,1.0
 Gartenarbeit,Gartenarbeit,MISC,0.0,0.0,de,1.0
@@ -1341,8 +1406,8 @@ Soziales“,Soziales“,MISC,,,de,1.0
 Gute Apfelerträge in Hessen,Gute Apfelerträge in Hessen,MISC,,,de,1.0
 Die nächsten Tage,Die nächsten Tage,MISC,,,de,1.0
 Sonne“,Sonne“,MISC,,,de,1.0
-Getreideernte“,Getreideernte“,MISC,,,de,1.0
 Urlaub im Herbst 2025,Urlaub im Herbst 2025,MISC,,,de,1.0
+D Busquets,D Busquets,MISC,0.0,0.0,de,1.0
 Park & Pipe“,Park & Pipe“,MISC,,,de,1.0
 Kühe,Kühe,MISC,,,de,1.0
 MTV Video Music Awards,MTV Video Music Awards,MISC,,,de,1.0
@@ -1354,15 +1419,23 @@ Im Jahr 2023,Im Jahr 2023,MISC,,,de,1.0
 Monsun-Regenfälle,Monsun-Regenfälle,MISC,,,de,1.0
 Feldern,Feldern,MISC,0.0,0.0,de,1.0
 Man…,Man…,MISC,,,de,1.0
-D Busquets,D Busquets,MISC,0.0,0.0,de,1.0
-Ge…,Ge…,MISC,,,de,1.0
-Temperaturen“,Temperaturen“,MISC,,,de,1.0
-Gewi…,Gewi…,MISC,,,de,1.0
+Bestseller-Eiswürfelmaschine,Bestseller-Eiswürfelmaschine,MISC,,,de,1.0
+Ric…,Ric…,MISC,,,de,1.0
+Herbst der Reformen“,Herbst der Reformen“,MISC,,,de,1.0
+Berliner Frühling,Berliner Frühling,MISC,,,de,1.0
+Sachsen-Anh…,Sachsen-Anh…,MISC,,,de,1.0
+Gutes Jahr für Imker,Gutes Jahr für Imker,MISC,,,de,1.0
+Bier“,Bier“,MISC,,,de,1.0
+Laternenfest,Laternenfest,MISC,0.0,0.0,de,1.0
+kommenden Jahr,kommenden Jahr,MISC,,,de,1.0
+Szenario,Szenario,MISC,,,de,1.0
+Schuld sind der Klimawandel,Schuld sind der Klimawandel,MISC,,,de,1.0
 Wasserwirtschaf…,Wasserwirtschaf…,MISC,,,de,1.0
+Das Jahrhunderthochwasser,Das Jahrhunderthochwasser,MISC,,,de,1.0
 Katastrophe,Katastrophe,MISC,,,de,1.0
 Meine Mutter,Meine Mutter,MISC,,,de,1.0
-Berliner Frühling,Berliner Frühling,MISC,,,de,1.0
 Prager Frühling,Prager Frühling,MISC,,,de,1.0
+Starkregen u,Starkregen u,MISC,,,de,1.0
 Jahr 2033,Jahr 2033,MISC,,,de,1.0
 Freestyle-Queen,Freestyle-Queen,MISC,,,de,1.0
 Deutschen Handba…,Deutschen Handba…,MISC,,,de,1.0
@@ -1374,21 +1447,23 @@ Extreme Hitze,Extreme Hitze,MISC,,,de,1.0
 libanesischen,libanesischen,MISC,,,de,1.0
 Teure Eintrittspreise,Teure Eintrittspreise,MISC,,,de,1.0
 Hochtouren“,Hochtouren“,MISC,,,de,1.0
-Euro Hochwasserhilfe,Euro Hochwasserhilfe,MISC,,,de,1.0
+Die Tage von Starkregen,Die Tage von Starkregen,MISC,,,de,1.0
+Brandenburg auf kühle…,Brandenburg auf kühle…,MISC,,,de,1.0
 Radrennen,Radrennen,MISC,,,de,1.0
-Mord und Raub,Mord und Raub,MISC,,,de,1.0
-En…,En…,MISC,,,de,1.0
-Die neue Sorge der deutschen Industrie,Die neue Sorge der deutschen Industrie,MISC,,,de,1.0
-Regenwasser-Klimamanagement,Regenwasser-Klimamanagement,MISC,,,de,1.0
-Sonne und Regen,Sonne und Regen,MISC,,,de,1.0
-Rolle,Rolle,MISC,,,de,1.0
-Das Jahrhunderthochwasser,Das Jahrhunderthochwasser,MISC,,,de,1.0
-Schuld sind der Klimawandel,Schuld sind der Klimawandel,MISC,,,de,1.0
-Das Wochenende,Das Wochenende,MISC,,,de,1.0
-Szenario,Szenario,MISC,,,de,1.0
-Herbst der Reformen,Herbst der Reformen,MISC,,,de,1.0
 Altes Land,Altes Land,MISC,2.55,0.0,de,1.0
+Die Regierungskoalition aus Union,Die Regierungskoalition aus Union,MISC,,,de,1.0
+Wochenmitte,Wochenmitte,MISC,0.0,0.0,de,1.0
+Rad z…,Rad z…,MISC,,,de,1.0
+Applaus,Applaus,MISC,,,de,1.0
+Campingplä…,Campingplä…,MISC,,,de,1.0
+Italiens Adria-Küste,Italiens Adria-Küste,MISC,,,de,1.0
+Freibadbesucher und Ausflügler,Freibadbesucher und Ausflügler,MISC,,,de,1.0
+Äpfel lieben Sonne,Äpfel lieben Sonne,MISC,,,de,1.0
+Potsdamer Forscher,Potsdamer Forscher,MISC,,,de,1.0
+Bundesregierung“,Bundesregierung“,MISC,,,de,1.0
+Herbst der Reformen,Herbst der Reformen,MISC,,,de,1.0
 ARA-Hubschrauber,ARA-Hubschrauber,MISC,,,de,1.0
+20-Grad-Marke o…,20-Grad-Marke o…,MISC,,,de,1.0
 ARA-Flugrettung,ARA-Flugrettung,MISC,,,de,1.0
 SPD-Seite,SPD-Seite,MISC,,,de,1.0
 reformfähig,reformfähig,MISC,,,de,1.0
@@ -1400,19 +1475,16 @@ AKW Gösgen,AKW Gösgen,MISC,,,de,1.0
 Die Vermessung der Welt,Die Vermessung der Welt,MISC,,,de,1.0
 Audi 100,Audi 100,MISC,,,de,1.0
 wi… Meine ideale Vorstellung,wi… Meine ideale Vorstellung,MISC,,,de,1.0
-20-Grad-Marke o…,20-Grad-Marke o…,MISC,,,de,1.0
-Brandenburg auf kühle…,Brandenburg auf kühle…,MISC,,,de,1.0
-Starkregen u,Starkregen u,MISC,,,de,1.0
-Die Tage von Starkregen,Die Tage von Starkregen,MISC,,,de,1.0
-Sachsen-Anh…,Sachsen-Anh…,MISC,,,de,1.0
-Gutes Jahr für Imker,Gutes Jahr für Imker,MISC,,,de,1.0
-Bier“,Bier“,MISC,,,de,1.0
-Laternenfest,Laternenfest,MISC,0.0,0.0,de,1.0
-kommenden Jahr,kommenden Jahr,MISC,,,de,1.0
-modera…,modera…,MISC,,,de,1.0
-Presse-Unterrichtung,Presse-Unterrichtung,MISC,,,de,1.0
-Der Schneesturm“,Der Schneesturm“,MISC,,,de,1.0
-Guten Abend,Guten Abend,MISC,,,de,1.0
+Euro Hochwasserhilfe,Euro Hochwasserhilfe,MISC,,,de,1.0
+Mord und Raub,Mord und Raub,MISC,,,de,1.0
+Tanja,Tanja,MISC,,,de,1.0
+Five Nights at Freddy's,Five Nights at Freddy's,MISC,,,de,1.0
+Bierzutat“,Bierzutat“,MISC,,,de,1.0
+Saison fü,Saison fü,MISC,,,de,1.0
+Federweißer-Saison,Federweißer-Saison,MISC,,,de,1.0
+Rheinauen“,Rheinauen“,MISC,,,de,1.0
+Weinjahrgangs 2025,Weinjahrgangs 2025,MISC,,,de,1.0
+Ha…,Ha…,MISC,,,de,1.0
 R…,R…,MISC,,,de,1.0
 "Bouquet
 ","Bouquet
@@ -1420,8 +1492,8 @@ R…,R…,MISC,,,de,1.0
 schwedischen,schwedischen,MISC,,,de,1.0
 Samstag u,Samstag u,MISC,,,de,1.0
 Neue Horrorgames,Neue Horrorgames,MISC,,,de,1.0
-Five Nights at Freddy's,Five Nights at Freddy's,MISC,,,de,1.0
 Killing Floor 3,Killing Floor 3,MISC,,,de,1.0
+Juli-Regen,Juli-Regen,MISC,,,de,1.0
 Horror,Horror,MISC,,,de,1.0
 Die Forschenden,Die Forschenden,MISC,,,de,1.0
 DFB-Pokal“,DFB-Pokal“,MISC,,,de,1.0
@@ -1433,74 +1505,51 @@ Heimspiele“,Heimspiele“,MISC,,,de,1.0
 Amateurfußball,Amateurfußball,MISC,,,de,1.0
 Hochwasser-Katastrophe,Hochwasser-Katastrophe,MISC,,,de,1.0
 Die Elbfähre «Tanja,Die Elbfähre «Tanja,MISC,,,de,1.0
-Tanja,Tanja,MISC,,,de,1.0
-Ric…,Ric…,MISC,,,de,1.0
-Bestseller-Modell,Bestseller-Modell,MISC,,,de,1.0
-Bestseller-Eiswürfelmaschine,Bestseller-Eiswürfelmaschine,MISC,,,de,1.0
-Urlaub“,Urlaub“,MISC,,,de,1.0
-Ha…,Ha…,MISC,,,de,1.0
-Weinjahrgangs 2025,Weinjahrgangs 2025,MISC,,,de,1.0
-Rheinauen“,Rheinauen“,MISC,,,de,1.0
-Saison des Jahres regelmäßig koche,Saison des Jahres regelmäßig koche,MISC,,,de,1.0
+Hopfenernte,Hopfenernte,MISC,,,de,1.0
+Hochsommer“,Hochsommer“,MISC,,,de,1.0
+En…,En…,MISC,,,de,1.0
+Lange Pause“,Lange Pause“,MISC,,,de,1.0
+Die neue Sorge der deutschen Industrie,Die neue Sorge der deutschen Industrie,MISC,,,de,1.0
+Regenwasser-Klimamanagement,Regenwasser-Klimamanagement,MISC,,,de,1.0
+Sonne und Regen,Sonne und Regen,MISC,,,de,1.0
+modera…,modera…,MISC,,,de,1.0
+Rolle,Rolle,MISC,,,de,1.0
+Presse-Unterrichtung,Presse-Unterrichtung,MISC,,,de,1.0
+Der Schneesturm“,Der Schneesturm“,MISC,,,de,1.0
+Guten Abend,Guten Abend,MISC,,,de,1.0
 Upcy…,Upcy…,MISC,,,de,1.0
 veranschaulicht d…,veranschaulicht d…,MISC,,,de,1.0
 v…,v…,MISC,,,de,1.0
-Lange Pause“,Lange Pause“,MISC,,,de,1.0
 Die Bundesliga-Fußballerinnen,Die Bundesliga-Fußballerinnen,MISC,,,de,1.0
+Du überall nach Schatten,Du überall nach Schatten,MISC,,,de,1.0
 Berlin im August,Berlin im August,MISC,,,de,1.0
 Pfingsten,Pfingsten,MISC,,,de,1.0
 Hochwasser-Folgen,Hochwasser-Folgen,MISC,,,de,1.0
 Jahr weite Teile der Ernte,Jahr weite Teile der Ernte,MISC,,,de,1.0
 indischer,indischer,MISC,,,de,1.0
+Saison des Jahres regelmäßig koche,Saison des Jahres regelmäßig koche,MISC,,,de,1.0
 Regency-Romance-Phänomen,Regency-Romance-Phänomen,MISC,,,de,1.0
-Federweißer-Saison,Federweißer-Saison,MISC,,,de,1.0
 Obstbaubetriebe“,Obstbaubetriebe“,MISC,,,de,1.0
 Federweißen,Federweißen,MISC,,,de,1.0
 Trotzdem kriegst Du von der Hitze,Trotzdem kriegst Du von der Hitze,MISC,,,de,1.0
 Dir Wasser auf öffentlichen Klos,Dir Wasser auf öffentlichen Klos,MISC,,,de,1.0
-Du überall nach Schatten,Du überall nach Schatten,MISC,,,de,1.0
-Hochsommer“,Hochsommer“,MISC,,,de,1.0
-Juli-Regen,Juli-Regen,MISC,,,de,1.0
-Hopfenernte,Hopfenernte,MISC,,,de,1.0
-Bierzutat“,Bierzutat“,MISC,,,de,1.0
-Saison fü,Saison fü,MISC,,,de,1.0
-Champions-League-Auftakt,Champions-League-Auftakt,MISC,,,de,1.0
-Sonnenspeicher auf Papier,Sonnenspeicher auf Papier,MISC,,,de,1.0
-Tomatenmarmelade,Tomatenmarmelade,MISC,,,de,1.0
-Herbst zu lieben,Herbst zu lieben,MISC,,,de,1.0
-lnw,lnw,MISC,,,de,1.0
-Köln/Münster,Köln/Münster,MISC,,,de,1.0
-September-Regen,September-Regen,MISC,,,de,1.0
-Alice,Alice,MISC,,,de,1.0
-Balkon…,Balkon…,MISC,,,de,1.0
-Winterflugplan 2025/26,Winterflugplan 2025/26,MISC,,,de,1.0
-Bl…,Bl…,MISC,,,de,1.0
-Winterland The Colors of Snow,Winterland The Colors of Snow,MISC,,,de,1.0
-The Colors of Snow,The Colors of Snow,MISC,,,de,1.0
-Cannabis-Legalisierung,Cannabis-Legalisierung,MISC,,,de,1.0
-Die Fakten im Überblick,Die Fakten im Überblick,MISC,,,de,1.0
-Ernäh…,Ernäh…,MISC,,,de,1.0
-Stadtacker Potsdam“,Stadtacker Potsdam“,MISC,,,de,1.0
-Wintertourismus“,Wintertourismus“,MISC,,,de,1.0
-Nur alle paar Jahre blüht,Nur alle paar Jahre blüht,MISC,,,de,1.0
-israelischen,israelischen,MISC,,,de,1.0
-Winter-Vorbereitungen“,Winter-Vorbereitungen“,MISC,,,de,1.0
-Winter-Vorbereitungen,Winter-Vorbereitungen,MISC,,,de,1.0
-Biathlon-Stars,Biathlon-Stars,MISC,,,de,1.0
-Bayerischem,Bayerischem,MISC,,,de,1.0
-Heimisches Obst“,Heimisches Obst“,MISC,,,de,1.0
-Fens…,Fens…,MISC,,,de,1.0
-Smart-Home-Gadgets,Smart-Home-Gadgets,MISC,,,de,1.0
-Die Ernte der dicken Früchte,Die Ernte der dicken Früchte,MISC,,,de,1.0
-kälteren Zeit des Jahres,kälteren Zeit des Jahres,MISC,,,de,1.0
-Bienen-Arten,Bienen-Arten,MISC,,,de,1.0
-Dieses Jahr ernten die deutschen Weinbaubetriebe,Dieses Jahr ernten die deutschen Weinbaubetriebe,MISC,,,de,1.0
+Todessturz in Chile,Todessturz in Chile,MISC,,,de,1.0
+britischer,britischer,MISC,,,de,1.0
+Der Countdown,Der Countdown,MISC,,,de,1.0
+Assetto Corsa,Assetto Corsa,MISC,,,de,1.0
+Der Krieg,Der Krieg,MISC,,,de,1.0
+Jahreszeit,Jahreszeit,MISC,,,de,1.0
+Alte Buchen…,Alte Buchen…,MISC,,,de,1.0
+Hörerlebnis“,Hörerlebnis“,MISC,,,de,1.0
+Neue Audio-Tour,Neue Audio-Tour,MISC,,,de,1.0
+Arabischen Frühling“,Arabischen Frühling“,MISC,,,de,1.0
+GenZ 212“,GenZ 212“,MISC,,,de,1.0
 Fußball-WM,Fußball-WM,MISC,,,de,1.0
 ZEIT,ZEIT,MISC,,,de,1.0
 Der spinnenartige Bauroboter Charlotte,Der spinnenartige Bauroboter Charlotte,MISC,,,de,1.0
 Gran Turismo,Gran Turismo,MISC,,,de,1.0
-Assetto Corsa,Assetto Corsa,MISC,,,de,1.0
 iRacing,iRacing,MISC,,,de,1.0
+Spinnen im Winter,Spinnen im Winter,MISC,,,de,1.0
 "True2Track""-System","True2Track""-System",MISC,,,de,1.0
 Brennendes Laub,Brennendes Laub,MISC,,,de,1.0
 Brände“,Brände“,MISC,,,de,1.0
@@ -1512,129 +1561,25 @@ Die Moselwinzer,Die Moselwinzer,MISC,,,de,1.0
 Wein-Bilanz,Wein-Bilanz,MISC,,,de,1.0
 Wintervorbereitungen“,Wintervorbereitungen“,MISC,,,de,1.0
 Lieferservice,Lieferservice,MISC,,,de,1.0
-Motorradfahrer“,Motorradfahrer“,MISC,,,de,1.0
+Fak…,Fak…,MISC,,,de,1.0
+Herbst a…,Herbst a…,MISC,,,de,1.0
 Herbst in Bayern,Herbst in Bayern,MISC,,,de,1.0
-It’s over,It’s over,MISC,,,de,1.0
-Gutes tu…,Gutes tu…,MISC,,,de,1.0
-Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1.0
-Deutschen Weininstitut,Deutschen Weininstitut,MISC,,,de,1.0
-BILD,BILD,MISC,,,de,1.0
-Winter stattfind…,Winter stattfind…,MISC,,,de,1.0
-Dramatische Rettung,Dramatische Rettung,MISC,,,de,1.0
-Die Schwarze Elster,Die Schwarze Elster,MISC,,,de,1.0
-Deutsche Weinbauern,Deutsche Weinbauern,MISC,,,de,1.0
-Australische,Australische,MISC,,,de,1.0
-WM in Saudi-Arabien,WM in Saudi-Arabien,MISC,,,de,1.0
-WOW,WOW,MISC,,,de,1.0
-Der Zeuge,Der Zeuge,MISC,,,de,1.0
-Eiskeller-Prozess,Eiskeller-Prozess,MISC,,,de,1.0
-Britische Lehman-Insolvenz,Britische Lehman-Insolvenz,MISC,,,de,1.0
-Runway-Kombi,Runway-Kombi,MISC,,,de,1.0
-Endzeit-Texte,Endzeit-Texte,MISC,,,de,1.0
-Meister der Apokalypse“,Meister der Apokalypse“,MISC,,,de,1.0
-Bürgergeld wir…,Bürgergeld wir…,MISC,,,de,1.0
-Halloween-Kürbisse,Halloween-Kürbisse,MISC,,,de,1.0
-Kürbis-König,Kürbis-König,MISC,,,de,1.0
-Kino-Programm,Kino-Programm,MISC,,,de,1.0
-Wen,Wen,MISC,,,de,1.0
-Außenwelt,Außenwelt,MISC,,,de,1.0
-Schnee und eisiger Sturm,Schnee und eisiger Sturm,MISC,,,de,1.0
-Arabellion im Jahr 2011,Arabellion im Jahr 2011,MISC,,,de,1.0
-Generation Z,Generation Z,MISC,,,de,1.0
-Du siehst manchmal den Wald,Du siehst manchmal den Wald,MISC,,,de,1.0
-Herbst-Suchbild,Herbst-Suchbild,MISC,0.0,0.0,de,1.0
-Videos,Videos,MISC,,,de,1.0
-Everest-Region,Everest-Region,MISC,,,de,1.0
-Gelsenkirchen - Mann,Gelsenkirchen - Mann,MISC,,,de,1.0
-Tour nieselte,Tour nieselte,MISC,,,de,1.0
-WM im Winter,WM im Winter,MISC,,,de,1.0
-Die Völker Kopiere,Die Völker Kopiere,MISC,,,de,1.0
-Welt-Fußball-Führung,Welt-Fußball-Führung,MISC,,,de,1.0
-Parlamentswahlen 2026,Parlamentswahlen 2026,MISC,,,de,1.0
-Ungarische,Ungarische,MISC,,,de,1.0
-Sofa,Sofa,MISC,,,de,1.0
-Couch-Saison,Couch-Saison,MISC,,,de,1.0
-Tagesspiegel-Serientest,Tagesspiegel-Serientest,MISC,,,de,1.0
-Abschal­tungen,Abschal­tungen,MISC,,,de,1.0
-Ausschrei­bungen,Ausschrei­bungen,MISC,,,de,1.0
-Sende­gebiete,Sende­gebiete,MISC,,,de,1.0
-Inter­essantes,Inter­essantes,MISC,,,de,1.0
-Neuheiten,Neuheiten,MISC,,,de,1.0
-DAB+,DAB+,MISC,,,de,1.0
-Aces,Aces,MISC,,,de,1.0
-Ruhiges Herbstwetter,Ruhiges Herbstwetter,MISC,,,de,1.0
-Wetter-Situation am Samstag,Wetter-Situation am Samstag,MISC,,,de,1.0
-Ibiza & Formentera,Ibiza & Formentera,MISC,,,de,1.0
-Apple Watch,Apple Watch,MISC,,,de,1.0
-Apple Watches,Apple Watches,MISC,,,de,1.0
-Erdrutsche a…,Erdrutsche a…,MISC,,,de,1.0
-investi…,investi…,MISC,,,de,1.0
-Fiasko,Fiasko,MISC,,,de,1.0
-Die Völker,Die Völker,MISC,,,de,1.0
-Fleißige Insekten“,Fleißige Insekten“,MISC,,,de,1.0
-GenZ 212“,GenZ 212“,MISC,,,de,1.0
-Arabischen Frühling“,Arabischen Frühling“,MISC,,,de,1.0
-Alte Buchen…,Alte Buchen…,MISC,,,de,1.0
-Sturmflut“,Sturmflut“,MISC,,,de,1.0
-Gefahr für Igel,Gefahr für Igel,MISC,,,de,1.0
-Das Wochenende in Hessen,Das Wochenende in Hessen,MISC,,,de,1.0
-Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1.0
-Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1.0
-Familien-Ausflug,Familien-Ausflug,MISC,,,de,1.0
-Joshua“,Joshua“,MISC,,,de,1.0
-Zwölf Jahre nach dem Hochwasser,Zwölf Jahre nach dem Hochwasser,MISC,,,de,1.0
-Krisenfall“,Krisenfall“,MISC,,,de,1.0
-Ein Herbsts…,Ein Herbsts…,MISC,,,de,1.0
-Regen“,Regen“,MISC,,,de,1.0
-Sturm,Sturm,MISC,-0.35714285714285715,0.0,de,1.0
-M…,M…,MISC,0.0,0.0,de,1.0
-Mensc…,Mensc…,MISC,,,de,1.0
-Paella,Paella,MISC,0.0,0.0,de,1.0
-Spanischer,Spanischer,MISC,,,de,1.0
-Exponiert k,Exponiert k,MISC,,,de,1.0
-Sturm und Schnee,Sturm und Schnee,MISC,,,de,1.0
-Böen“,Böen“,MISC,,,de,1.0
-palästinensische,palästinensische,MISC,,,de,1.0
-Israelische,Israelische,MISC,,,de,1.0
-Bun…,Bun…,MISC,,,de,1.0
-BILD-Weinkolumnisten,BILD-Weinkolumnisten,MISC,,,de,1.0
-GEO,GEO,MISC,,,de,1.0
-Lasst welke Blätter,Lasst welke Blätter,MISC,,,de,1.0
-Fischmarkt“,Fischmarkt“,MISC,,,de,1.0
-Neue Audio-Tour,Neue Audio-Tour,MISC,,,de,1.0
-Sturm Benjamin,Sturm Benjamin,MISC,,,de,1.0
-gute Zeit,gute Zeit,MISC,,,de,1.0
-Moritzburger Schlossteiches,Moritzburger Schlossteiches,MISC,,,de,1.0
-Besuchermagnet,Besuchermagnet,MISC,,,de,1.0
-Uhren,Uhren,MISC,,,de,1.0
-Kilome…,Kilome…,MISC,,,de,1.0
-Tiere“,Tiere“,MISC,,,de,1.0
-dieses Jahr,dieses Jahr,MISC,,,de,1.0
-Jahr 1812,Jahr 1812,MISC,,,de,1.0
-Angriff auf Moskau,Angriff auf Moskau,MISC,,,de,1.0
-Einbruchs-Hochsaison Tipps,Einbruchs-Hochsaison Tipps,MISC,,,de,1.0
-Herbst ist Einbruchzeit“,Herbst ist Einbruchzeit“,MISC,,,de,1.0
-Ka…,Ka…,MISC,,,de,1.0
-Bahnverkehrs,Bahnverkehrs,MISC,,,de,1.0
-vo...,vo...,MISC,,,de,1.0
-rumänischer,rumänischer,MISC,,,de,1.0
-Furtwängler-„Tatort“,Furtwängler-„Tatort“,MISC,,,de,1.0
-Agatha-Chris…,Agatha-Chris…,MISC,,,de,1.0
-Herbs…,Herbs…,MISC,,,de,1.0
-beste Zeit,beste Zeit,MISC,,,de,1.0
-russischer,russischer,MISC,,,de,1.0
-Reform“,Reform“,MISC,,,de,1.0
-Hause aus bald,Hause aus bald,MISC,,,de,1.0
-Corona-Zeit,Corona-Zeit,MISC,,,de,1.0
-Didebashvili,Didebashvili,MISC,,,de,1.0
-Herbstes,Herbstes,MISC,,,de,1.0
-Mittwoch i…,Mittwoch i…,MISC,,,de,1.0
-grossen deutschen Anbaugebiete unter dem nassen Wetter,grossen deutschen Anbaugebiete unter dem nassen Wetter,MISC,,,de,1.0
+Loop-One-Festival“,Loop-One-Festival“,MISC,,,de,1.0
+Wildunfälle,Wildunfälle,MISC,,,de,1.0
+Tieren“,Tieren“,MISC,,,de,1.0
+"Blütenform
+","Blütenform
+",MISC,,,de,1.0
+DNA-Kristalle,DNA-Kristalle,MISC,,,de,1.0
+Eich…,Eich…,MISC,,,de,1.0
+eingegroovt,eingegroovt,MISC,,,de,1.0
+CrowdFarming,CrowdFarming,MISC,,,de,1.0
+Menschen i…,Menschen i…,MISC,,,de,1.0
 Saarlan…,Saarlan…,MISC,,,de,1.0
 Herbst-Schmuddelwetter,Herbst-Schmuddelwetter,MISC,,,de,1.0
 Echo,Echo,MISC,,,de,1.0
-Loop-One-Festival“,Loop-One-Festival“,MISC,,,de,1.0
 Sister Europe,Sister Europe,MISC,,,de,1.0
+Tischtennis-EM,Tischtennis-EM,MISC,,,de,1.0
 Willkommen im schrägen Universum,Willkommen im schrägen Universum,MISC,,,de,1.0
 golden“,golden“,MISC,,,de,1.0
 Samy x Conductor,Samy x Conductor,MISC,,,de,1.0
@@ -1650,87 +1595,191 @@ kroatischen,kroatischen,MISC,,,de,1.0
 Mannschafts-EM,Mannschafts-EM,MISC,,,de,1.0
 deutschen Tischtennis-Frauen,deutschen Tischtennis-Frauen,MISC,,,de,1.0
 Tischtennis-Team-EM,Tischtennis-Team-EM,MISC,,,de,1.0
-Tischtennis-EM,Tischtennis-EM,MISC,,,de,1.0
-Herbst a…,Herbst a…,MISC,,,de,1.0
-Spinnen im Winter,Spinnen im Winter,MISC,,,de,1.0
-Fak…,Fak…,MISC,,,de,1.0
-Der Krieg,Der Krieg,MISC,,,de,1.0
-Jahreszeit,Jahreszeit,MISC,,,de,1.0
-Hörerlebnis“,Hörerlebnis“,MISC,,,de,1.0
-Menschen i…,Menschen i…,MISC,,,de,1.0
-CrowdFarming,CrowdFarming,MISC,,,de,1.0
-eingegroovt,eingegroovt,MISC,,,de,1.0
-Landwirtschafts-Monster,Landwirtschafts-Monster,MISC,,,de,1.0
+Motorradfahrer“,Motorradfahrer“,MISC,,,de,1.0
+It’s over,It’s over,MISC,,,de,1.0
+nächsten Tagen bestimme…,nächsten Tagen bestimme…,MISC,,,de,1.0
+Abschal­tungen,Abschal­tungen,MISC,,,de,1.0
+Smart-Home-Gadgets,Smart-Home-Gadgets,MISC,,,de,1.0
+BILD,BILD,MISC,,,de,1.0
+Bienen-Arten,Bienen-Arten,MISC,,,de,1.0
+Winter stattfind…,Winter stattfind…,MISC,,,de,1.0
+WM im Winter,WM im Winter,MISC,,,de,1.0
+Welt-Fußball-Führung,Welt-Fußball-Führung,MISC,,,de,1.0
+Parlamentswahlen 2026,Parlamentswahlen 2026,MISC,,,de,1.0
+Ungarische,Ungarische,MISC,,,de,1.0
+Sofa,Sofa,MISC,,,de,1.0
+Couch-Saison,Couch-Saison,MISC,,,de,1.0
+Tagesspiegel-Serientest,Tagesspiegel-Serientest,MISC,,,de,1.0
+Ausschrei­bungen,Ausschrei­bungen,MISC,,,de,1.0
+Heimisches Obst“,Heimisches Obst“,MISC,,,de,1.0
+Sende­gebiete,Sende­gebiete,MISC,,,de,1.0
+Inter­essantes,Inter­essantes,MISC,,,de,1.0
+Neuheiten,Neuheiten,MISC,,,de,1.0
+DAB+,DAB+,MISC,,,de,1.0
+Aces,Aces,MISC,,,de,1.0
+Ruhiges Herbstwetter,Ruhiges Herbstwetter,MISC,,,de,1.0
+Wetter-Situation am Samstag,Wetter-Situation am Samstag,MISC,,,de,1.0
+Ibiza & Formentera,Ibiza & Formentera,MISC,,,de,1.0
+Apple Watch,Apple Watch,MISC,,,de,1.0
+Apple Watches,Apple Watches,MISC,,,de,1.0
+Erdrutsche a…,Erdrutsche a…,MISC,,,de,1.0
+Fens…,Fens…,MISC,,,de,1.0
+Bayerischem,Bayerischem,MISC,,,de,1.0
+Gutes tu…,Gutes tu…,MISC,,,de,1.0
+Winterflugplan 2025/26,Winterflugplan 2025/26,MISC,,,de,1.0
+Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1.0
+Deutschen Weininstitut,Deutschen Weininstitut,MISC,,,de,1.0
+Dieses Jahr ernten die deutschen Weinbaubetriebe,Dieses Jahr ernten die deutschen Weinbaubetriebe,MISC,,,de,1.0
+kälteren Zeit des Jahres,kälteren Zeit des Jahres,MISC,,,de,1.0
+Herbst zu lieben,Herbst zu lieben,MISC,,,de,1.0
+Die Ernte der dicken Früchte,Die Ernte der dicken Früchte,MISC,,,de,1.0
+lnw,lnw,MISC,,,de,1.0
+Köln/Münster,Köln/Münster,MISC,,,de,1.0
+September-Regen,September-Regen,MISC,,,de,1.0
+Alice,Alice,MISC,,,de,1.0
+Balkon…,Balkon…,MISC,,,de,1.0
+Bl…,Bl…,MISC,,,de,1.0
+Biathlon-Stars,Biathlon-Stars,MISC,,,de,1.0
+Winterland The Colors of Snow,Winterland The Colors of Snow,MISC,,,de,1.0
+The Colors of Snow,The Colors of Snow,MISC,,,de,1.0
+Cannabis-Legalisierung,Cannabis-Legalisierung,MISC,,,de,1.0
+Die Fakten im Überblick,Die Fakten im Überblick,MISC,,,de,1.0
+Ernäh…,Ernäh…,MISC,,,de,1.0
+Stadtacker Potsdam“,Stadtacker Potsdam“,MISC,,,de,1.0
+Wintertourismus“,Wintertourismus“,MISC,,,de,1.0
+Nur alle paar Jahre blüht,Nur alle paar Jahre blüht,MISC,,,de,1.0
+israelischen,israelischen,MISC,,,de,1.0
+Winter-Vorbereitungen“,Winter-Vorbereitungen“,MISC,,,de,1.0
+Winter-Vorbereitungen,Winter-Vorbereitungen,MISC,,,de,1.0
+Qualifying,Qualifying,MISC,,,de,1.0
+Deutsches Weininstitut,Deutsches Weininstitut,MISC,,,de,1.0
+Fiasko,Fiasko,MISC,,,de,1.0
+gute Zeit,gute Zeit,MISC,,,de,1.0
+Gefrierbeuteln,Gefrierbeuteln,MISC,,,de,1.0
+Linienbus,Linienbus,MISC,0.0,0.0,de,1.0
+Sturmtief“,Sturmtief“,MISC,,,de,1.0
+Grad herrs…,Grad herrs…,MISC,,,de,1.0
+Wochenstar…,Wochenstar…,MISC,,,de,1.0
+Mord im Alten Land,Mord im Alten Land,MISC,,,de,1.0
+Herbstmodus“,Herbstmodus“,MISC,,,de,1.0
+Was macht der Klimawandel,Was macht der Klimawandel,MISC,,,de,1.0
+Nervenkitzel,Nervenkitzel,MISC,,,de,1.0
+Gefahr im Herbst,Gefahr im Herbst,MISC,,,de,1.0
+jedes Jahr Ende Oktober,jedes Jahr Ende Oktober,MISC,,,de,1.0
+Moritzburger Schlossteiches,Moritzburger Schlossteiches,MISC,,,de,1.0
+Kurzes Intermezzo,Kurzes Intermezzo,MISC,,,de,1.0
+Besuchermagnet,Besuchermagnet,MISC,,,de,1.0
+Uhren,Uhren,MISC,,,de,1.0
+Kilome…,Kilome…,MISC,,,de,1.0
+Tiere“,Tiere“,MISC,,,de,1.0
+dieses Jahr,dieses Jahr,MISC,,,de,1.0
+Jahr 1812,Jahr 1812,MISC,,,de,1.0
+Angriff auf Moskau,Angriff auf Moskau,MISC,,,de,1.0
+Einbruchs-Hochsaison Tipps,Einbruchs-Hochsaison Tipps,MISC,,,de,1.0
+Herbst ist Einbruchzeit“,Herbst ist Einbruchzeit“,MISC,,,de,1.0
+Ka…,Ka…,MISC,,,de,1.0
+Bahnverkehrs,Bahnverkehrs,MISC,,,de,1.0
+Regimentsappell“,Regimentsappell“,MISC,,,de,1.0
+Wintergruß“,Wintergruß“,MISC,,,de,1.0
+rumänischer,rumänischer,MISC,,,de,1.0
+ju…,ju…,MISC,,,de,1.0
+Olympischen Winterspiele,Olympischen Winterspiele,MISC,,,de,1.0
+Weltcup-Saison,Weltcup-Saison,MISC,,,de,1.0
+Date Ideen,Date Ideen,MISC,,,de,1.0
+Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1.0
+Zweitliga-Meister,Zweitliga-Meister,MISC,,,de,1.0
+Ballermann,Ballermann,MISC,,,de,1.0
+Partyschlager“,Partyschlager“,MISC,,,de,1.0
+Ballermann-Saison,Ballermann-Saison,MISC,,,de,1.0
+Treimischer Teichen,Treimischer Teichen,MISC,,,de,1.0
+Sa…,Sa…,MISC,,,de,1.0
+Fröhliche Hungerspiele,Fröhliche Hungerspiele,MISC,,,de,1.0
+römische,römische,MISC,,,de,1.0
+Das Tiefdruckgebiet «Joshua,Das Tiefdruckgebiet «Joshua,MISC,,,de,1.0
+Wein“,Wein“,MISC,,,de,1.0
+Freak Circus,Freak Circus,MISC,,,de,1.0
+Umstrittenes Fest“,Umstrittenes Fest“,MISC,,,de,1.0
+he...,he...,MISC,,,de,1.0
+Wechselhaft und windiges Wetter +++ Auf der Wasserkuppe,Wechselhaft und windiges Wetter +++ Auf der Wasserkuppe,MISC,,,de,1.0
+Der Start,Der Start,MISC,,,de,1.0
+Rückzugsmöglichkei…,Rückzugsmöglichkei…,MISC,,,de,1.0
+Wetterlage“,Wetterlage“,MISC,,,de,1.0
+Zwei Jahre,Zwei Jahre,MISC,,,de,1.0
+Stürmischer Wochenstart,Stürmischer Wochenstart,MISC,,,de,1.0
+Bewirtschaftetes Land,Bewirtschaftetes Land,MISC,,,de,1.0
+vo...,vo...,MISC,,,de,1.0
+Furtwängler-„Tatort“,Furtwängler-„Tatort“,MISC,,,de,1.0
+Jahr b…,Jahr b…,MISC,,,de,1.0
+Harry Potter-Filmen …,Harry Potter-Filmen …,MISC,,,de,1.0
+palästinensische,palästinensische,MISC,,,de,1.0
+Israelische,Israelische,MISC,,,de,1.0
+Bun…,Bun…,MISC,,,de,1.0
+BILD-Weinkolumnisten,BILD-Weinkolumnisten,MISC,,,de,1.0
+GEO,GEO,MISC,,,de,1.0
+Didebashvili,Didebashvili,MISC,,,de,1.0
+Herbstes,Herbstes,MISC,,,de,1.0
+Mittwoch i…,Mittwoch i…,MISC,,,de,1.0
+grossen deutschen Anbaugebiete unter dem nassen Wetter,grossen deutschen Anbaugebiete unter dem nassen Wetter,MISC,,,de,1.0
 Wintersportsaison,Wintersportsaison,MISC,,,de,1.0
 Das große Skigebiet Feldberg im Hochschwarzwald,Das große Skigebiet Feldberg im Hochschwarzwald,MISC,,,de,1.0
-Harry Potter-Filmen …,Harry Potter-Filmen …,MISC,,,de,1.0
 "Harry Potter""-Kuscheldecke","Harry Potter""-Kuscheldecke",MISC,,,de,1.0
+Sturm und Schnee,Sturm und Schnee,MISC,,,de,1.0
 Monster Muse,Monster Muse,MISC,,,de,1.0
 Harry Potter-Strickkleid,Harry Potter-Strickkleid,MISC,,,de,1.0
+Harry Potter“-Strickkleid,Harry Potter“-Strickkleid,MISC,,,de,1.0
 "Harry Potter""-Strickkleid","Harry Potter""-Strickkleid",MISC,,,de,1.0
 Brunnenkresse Saison,Brunnenkresse Saison,MISC,,,de,1.0
 Festival De Otoño Cuauhtemoc21.10.2025,Festival De Otoño Cuauhtemoc21.10.2025,MISC,,,de,1.0
 Grill-Attraktion,Grill-Attraktion,MISC,,,de,1.0
+Landwirtschafts-Monster,Landwirtschafts-Monster,MISC,,,de,1.0
 XXL-Grill,XXL-Grill,MISC,,,de,1.0
-Eich…,Eich…,MISC,,,de,1.0
 Agri-Photovoltaik,Agri-Photovoltaik,MISC,,,de,1.0
 Solarmodule über Weinbergen,Solarmodule über Weinbergen,MISC,,,de,1.0
-Jahr b…,Jahr b…,MISC,,,de,1.0
-Deutsches Weininstitut,Deutsches Weininstitut,MISC,,,de,1.0
-nächsten Tagen bestimme…,nächsten Tagen bestimme…,MISC,,,de,1.0
-Qualifying,Qualifying,MISC,,,de,1.0
-Wildunfälle,Wildunfälle,MISC,,,de,1.0
-Tieren“,Tieren“,MISC,,,de,1.0
-"Blütenform
-","Blütenform
-",MISC,,,de,1.0
-DNA-Kristalle,DNA-Kristalle,MISC,,,de,1.0
-Schneesturm auf Mount Everest,Schneesturm auf Mount Everest,MISC,,,de,1.0
-Blick auf den Frühling,Blick auf den Frühling,MISC,,,de,1.0
-Uschi Glas,Uschi Glas,MISC,,,de,1.0
-Mini-Schwammerl im Hochgebirge,Mini-Schwammerl im Hochgebirge,MISC,,,de,1.0
-Zentral-BC,Zentral-BC,MISC,,,de,1.0
-Blättermeer,Blättermeer,MISC,,,de,1.0
-Wärmewende“,Wärmewende“,MISC,,,de,1.0
-Salatköpfe u…,Salatköpfe u…,MISC,,,de,1.0
-Zeit“,Zeit“,MISC,,,de,1.0
-Londoner,Londoner,MISC,,,de,1.0
-Wetteraussicht“,Wetteraussicht“,MISC,,,de,1.0
-Ukra…,Ukra…,MISC,,,de,1.0
-nass-kühlen,nass-kühlen,MISC,,,de,1.0
-Ru…,Ru…,MISC,,,de,1.0
-Cup,Cup,MISC,,,de,1.0
-Multiplayer-Survival,Multiplayer-Survival,MISC,,,de,1.0
-Samorost 2,Samorost 2,MISC,,,de,1.0
-Project Winter,Project Winter,MISC,,,de,1.0
-Gratis-Spiele,Gratis-Spiele,MISC,,,de,1.0
-Erntebeginn“,Erntebeginn“,MISC,,,de,1.0
-Die Herbstdeichschauen,Die Herbstdeichschauen,MISC,,,de,1.0
-Chr…,Chr…,MISC,,,de,1.0
-Pluszeichen“,Pluszeichen“,MISC,,,de,1.0
-Schweizer Weinbauern,Schweizer Weinbauern,MISC,,,de,1.0
-Tag“,Tag“,MISC,,,de,1.0
-Staudä…,Staudä…,MISC,,,de,1.0
-Ein letztes Mal Sommer-Feeling,Ein letztes Mal Sommer-Feeling,MISC,,,de,1.0
-Im Jahr 2024,Im Jahr 2024,MISC,,,de,1.0
-Arabischen Frühling,Arabischen Frühling,MISC,,,de,1.0
-Wolfsburg-Star,Wolfsburg-Star,MISC,,,de,1.0
-Ballon d’Or,Ballon d’Or,MISC,,,de,1.0
-Made in Germany,Made in Germany,MISC,,,de,1.0
-Ernstfall“,Ernstfall“,MISC,,,de,1.0
+Böen“,Böen“,MISC,,,de,1.0
+Exponiert k,Exponiert k,MISC,,,de,1.0
+Agatha-Chris…,Agatha-Chris…,MISC,,,de,1.0
+Das Wochenende in Hessen,Das Wochenende in Hessen,MISC,,,de,1.0
+Herbs…,Herbs…,MISC,,,de,1.0
+beste Zeit,beste Zeit,MISC,,,de,1.0
+russischer,russischer,MISC,,,de,1.0
+Hause aus bald,Hause aus bald,MISC,,,de,1.0
+Corona-Zeit,Corona-Zeit,MISC,,,de,1.0
+Reform“,Reform“,MISC,,,de,1.0
+Sturm Benjamin,Sturm Benjamin,MISC,,,de,1.0
+Fischmarkt“,Fischmarkt“,MISC,,,de,1.0
+Sturmflut“,Sturmflut“,MISC,,,de,1.0
+Lasst welke Blätter,Lasst welke Blätter,MISC,,,de,1.0
+Gefahr für Igel,Gefahr für Igel,MISC,,,de,1.0
+Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1.0
+Spanischer,Spanischer,MISC,,,de,1.0
+Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1.0
+Familien-Ausflug,Familien-Ausflug,MISC,,,de,1.0
+Joshua“,Joshua“,MISC,,,de,1.0
+Zwölf Jahre nach dem Hochwasser,Zwölf Jahre nach dem Hochwasser,MISC,,,de,1.0
+Krisenfall“,Krisenfall“,MISC,,,de,1.0
+Ein Herbsts…,Ein Herbsts…,MISC,,,de,1.0
+Regen“,Regen“,MISC,,,de,1.0
+Sturm,Sturm,MISC,-0.2702702702702703,0.0,de,1.0
+M…,M…,MISC,0.0,0.0,de,1.0
+Mensc…,Mensc…,MISC,,,de,1.0
+Paella,Paella,MISC,0.0,0.0,de,1.0
+investi…,investi…,MISC,,,de,1.0
+Die Völker,Die Völker,MISC,,,de,1.0
+Spätsommer-Suchbild,Spätsommer-Suchbild,MISC,,,de,1.0
+Voigt,Voigt,MISC,,,de,1.0
 BASIC thinking,BASIC thinking,MISC,,,de,1.0
 Das sind die besten Wintereifen,Das sind die besten Wintereifen,MISC,,,de,1.0
 US-amerikanischen,US-amerikanischen,MISC,,,de,1.0
 Hochwasser …,Hochwasser …,MISC,,,de,1.0
-Winzer,Winzer,MISC,,,de,1.0
+Winzer,Winzer,MISC,0.0,0.0,de,1.0
 Der Regen,Der Regen,MISC,,,de,1.0
 PV-Anlagen auf Flachdächern,PV-Anlagen auf Flachdächern,MISC,,,de,1.0
 PV-Anlage,PV-Anlage,MISC,,,de,1.0
 Karlsruhe,Karlsruhe,MISC,,,de,1.0
 Eintracht-Athleten,Eintracht-Athleten,MISC,,,de,1.0
 r…,r…,MISC,,,de,1.0
-Voigt,Voigt,MISC,,,de,1.0
 Konferenz“,Konferenz“,MISC,,,de,1.0
+Made in Germany,Made in Germany,MISC,,,de,1.0
 Voriges Jahr,Voriges Jahr,MISC,,,de,1.0
 Apfel-Schwemme,Apfel-Schwemme,MISC,,,de,1.0
 US-Zölle,US-Zölle,MISC,,,de,1.0
@@ -1739,119 +1788,13 @@ Regenjacke und Regen,Regenjacke und Regen,MISC,,,de,1.0
 Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1.0
 Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1.0
 Abi-Kasse,Abi-Kasse,MISC,,,de,1.0
-Birnen,Birnen,MISC,,,de,1.0
-amerikanische,amerikanische,MISC,,,de,1.0
-Spontan-Urlaub,Spontan-Urlaub,MISC,,,de,1.0
-Sommerspielen 2028,Sommerspielen 2028,MISC,,,de,1.0
-Herbst-Feeling,Herbst-Feeling,MISC,,,de,1.0
-Spätsommer-Suchbild,Spätsommer-Suchbild,MISC,,,de,1.0
-britischer,britischer,MISC,,,de,1.0
-Sommer-Comeback,Sommer-Comeback,MISC,0.0,0.0,de,1.0
-Todessturz in Chile,Todessturz in Chile,MISC,,,de,1.0
-Weinskandal,Weinskandal,MISC,,,de,1.0
-Herbststurm,Herbststurm,MISC,0.25,0.0,de,1.0
-Wetterkapriolen 2025,Wetterkapriolen 2025,MISC,,,de,1.0
-Stürmisches Wetter“,Stürmisches Wetter“,MISC,,,de,1.0
-Der Herbst,Der Herbst,MISC,,,de,1.0
-Stürmisches Wetter,Stürmisches Wetter,MISC,,,de,1.0
-Olympia-Saison,Olympia-Saison,MISC,,,de,1.0
-Italienischer,Italienischer,MISC,,,de,1.0
-1:0-Erfolg am Sonntag,1:0-Erfolg am Sonntag,MISC,,,de,1.0
-kanadischen,kanadischen,MISC,,,de,1.0
-Thüringens gr,Thüringens gr,MISC,,,de,1.0
-Kurioser Fall“,Kurioser Fall“,MISC,,,de,1.0
-Herbststurm…,Herbststurm…,MISC,,,de,1.0
-Diebe klauen,Diebe klauen,MISC,,,de,1.0
-Worms vom Sonntag…,Worms vom Sonntag…,MISC,,,de,1.0
-Ortes,Ortes,MISC,,,de,1.0
-Tisch,Tisch,MISC,,,de,1.0
-Weinernte“,Weinernte“,MISC,,,de,1.0
-Apfel des Jahres,Apfel des Jahres,MISC,,,de,1.0
-Österreichischen Olympischen Comites,Österreichischen Olympischen Comites,MISC,,,de,1.0
-Shutdown“,Shutdown“,MISC,,,de,1.0
-New Zealand Transport Agency1,New Zealand Transport Agency1,MISC,,,de,1.0
-Tiktok-Deal,Tiktok-Deal,MISC,,,de,1.0
-Xi,Xi,MISC,,,de,1.0
-Die WELT,Die WELT,MISC,,,de,1.0
-nächsten Jahr,nächsten Jahr,MISC,,,de,1.0
-Olympischen Winterspielen,Olympischen Winterspielen,MISC,,,de,1.0
-Winter-Olympia,Winter-Olympia,MISC,,,de,1.0
-Winterspiele in Italien“,Winterspiele in Italien“,MISC,,,de,1.0
-Niedersa…,Niedersa…,MISC,,,de,1.0
-Oldenburgia,Oldenburgia,MISC,0.6999999999999998,0.0,de,1.0
-Weltkindertag“,Weltkindertag“,MISC,,,de,1.0
-Déjeuner  ,Déjeuner  ,MISC,,,de,1.0
-Beaver,Beaver,MISC,,,de,1.0
-Hochwasserübung“,Hochwasserübung“,MISC,,,de,1.0
-Intermezzo i…,Intermezzo i…,MISC,,,de,1.0
-Wetterwechs…,Wetterwechs…,MISC,,,de,1.0
-Hohe Temperaturen“,Hohe Temperaturen“,MISC,,,de,1.0
-Son…,Son…,MISC,0.0,1.0,de,1.0
-Sommerfinale“,Sommerfinale“,MISC,,,de,1.0
-Der bunte Herbst,Der bunte Herbst,MISC,,,de,1.0
-Höhenangst,Höhenangst,MISC,,,de,1.0
-Raps,Raps,MISC,0.0,0.0,de,1.0
-stern,stern,MISC,,,de,1.0
-RLP,RLP,MISC,,,de,1.0
+Ballon d’Or,Ballon d’Or,MISC,,,de,1.0
+Arabischen Frühling,Arabischen Frühling,MISC,,,de,1.0
+Mini-Schwammerl im Hochgebirge,Mini-Schwammerl im Hochgebirge,MISC,,,de,1.0
+Ernstfall“,Ernstfall“,MISC,,,de,1.0
 Kunstgriff Dithmarschen,Kunstgriff Dithmarschen,MISC,,,de,1.0
-Top-Weinjahrgang,Top-Weinjahrgang,MISC,,,de,1.0
-rheinhessische,rheinhessische,MISC,,,de,1.0
-Oktober-Wochenende,Oktober-Wochenende,MISC,,,de,1.0
-Herbst lieben,Herbst lieben,MISC,,,de,1.0
-Tag der Kopiere,Tag der Kopiere,MISC,,,de,1.0
-Das freundliche Herbstwetter,Das freundliche Herbstwetter,MISC,,,de,1.0
-Die Schwestern Grimm,Die Schwestern Grimm,MISC,,,de,1.0
-Die Grimm,Die Grimm,MISC,,,de,1.0
-Fantasy-Abenteuerserie,Fantasy-Abenteuerserie,MISC,,,de,1.0
-Die Schwestern Grimm“,Die Schwestern Grimm“,MISC,,,de,1.0
-Apple TV+,Apple TV+,MISC,,,de,1.0
-jed…,jed…,MISC,,,de,1.0
-Gru…,Gru…,MISC,,,de,1.0
-Nutria-Invasion,Nutria-Invasion,MISC,,,de,1.0
-Tag der Deutschen Einheit,Tag der Deutschen Einheit,MISC,,,de,1.0
-Landeserntedankfest,Landeserntedankfest,MISC,-1.0,0.0,de,1.0
-Nager-Reviere,Nager-Reviere,MISC,,,de,1.0
-Die invasive Art,Die invasive Art,MISC,,,de,1.0
-Invasive Nutrias“,Invasive Nutrias“,MISC,,,de,1.0
-T46,T46,MISC,,,de,1.0
-deutschen Teams,deutschen Teams,MISC,,,de,1.0
-WM-Bronze,WM-Bronze,MISC,,,de,1.0
-IPO-Pläne,IPO-Pläne,MISC,,,de,1.0
-DeepL,DeepL,MISC,,,de,1.0
-Tag für Tag mi…,Tag für Tag mi…,MISC,,,de,1.0
-Getreidebauern,Getreidebauern,MISC,,,de,1.0
-Ör… Ahoi Pirates!,Ör… Ahoi Pirates!,MISC,,,de,1.0
-Tschechischer,Tschechischer,MISC,,,de,1.0
-Sonne statt Schnee,Sonne statt Schnee,MISC,,,de,1.0
-Holocaust,Holocaust,MISC,,,de,1.0
-off…,off…,MISC,,,de,1.0
-Witterung,Witterung,MISC,,,de,1.0
-Die Hochwasserschutzanlage,Die Hochwasserschutzanlage,MISC,,,de,1.0
-12 Mio. Euro,12 Mio. Euro,MISC,,,de,1.0
-Campingplatzes,Campingplatzes,MISC,,,de,1.0
-ostfriesischen,ostfriesischen,MISC,,,de,1.0
-Das Sturmtief,Das Sturmtief,MISC,,,de,1.0
-05.10.2025,05.10.2025,MISC,,,de,1.0
-Fährausfälle“,Fährausfälle“,MISC,,,de,1.0
-Ungemütliches,Ungemütliches,MISC,,,de,1.0
-Wie d…,Wie d…,MISC,,,de,1.0
-Obe…,Obe…,MISC,,,de,1.0
-Stürmische Nacht,Stürmische Nacht,MISC,,,de,1.0
-Wenn im Herbst das Laub,Wenn im Herbst das Laub,MISC,,,de,1.0
-Frü…,Frü…,MISC,,,de,1.0
-Oktober-Sonntag,Oktober-Sonntag,MISC,,,de,1.0
-Auto­fah…,Auto­fah…,MISC,,,de,1.0
-Spätes­tens,Spätes­tens,MISC,,,de,1.0
-ADAC-Bestenlisten,ADAC-Bestenlisten,MISC,,,de,1.0
-Bestpreis,Bestpreis,MISC,,,de,1.0
-ADAC-Winterreifen,ADAC-Winterreifen,MISC,,,de,1.0
-Wechselhaftes Herbstwet,Wechselhaftes Herbstwet,MISC,,,de,1.0
-kommunistischen,kommunistischen,MISC,,,de,1.0
-Hopfenpflanzer“,Hopfenpflanzer“,MISC,,,de,1.0
-Jahr für Landwirte,Jahr für Landwirte,MISC,,,de,1.0
-Erntedank in Bayern“,Erntedank in Bayern“,MISC,,,de,1.0
-Das deutsche Gewichtheben,Das deutsche Gewichtheben,MISC,,,de,1.0
-Toten“,Toten“,MISC,,,de,1.0
+Zentral-BC,Zentral-BC,MISC,,,de,1.0
+Groß-Aggschussgrabe…,Groß-Aggschussgrabe…,MISC,,,de,1.0
 Safety-Modus,Safety-Modus,MISC,0.0,0.0,de,1.0
 … ...,… ...,MISC,,,de,1.0
 Back to High S,Back to High S,MISC,,,de,1.0
@@ -1863,8 +1806,8 @@ Reformdebatte“,Reformdebatte“,MISC,,,de,1.0
 Rückschnitt,Rückschnitt,MISC,,,de,1.0
 AP Kamera One volcaho,AP Kamera One volcaho,MISC,,,de,1.0
 Todesopfer - Hochwasser-Drama,Todesopfer - Hochwasser-Drama,MISC,,,de,1.0
-Groß-Aggschussgrabe…,Groß-Aggschussgrabe…,MISC,,,de,1.0
 Sanierungsarbeiten,Sanierungsarbeiten,MISC,,,de,1.0
+Top-Weinjahrgang,Top-Weinjahrgang,MISC,,,de,1.0
 Wetterlage,Wetterlage,MISC,,,de,1.0
 Goldener Herbst,Goldener Herbst,MISC,,,de,1.0
 Der Einfluss eines Hochdruckgebietes,Der Einfluss eines Hochdruckgebietes,MISC,,,de,1.0
@@ -1874,10 +1817,125 @@ Indonesische,Indonesische,MISC,,,de,1.0
 Men…,Men…,MISC,,,de,1.0
 Die neue Woche,Die neue Woche,MISC,,,de,1.0
 Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1.0
+Sonne statt Schnee,Sonne statt Schnee,MISC,,,de,1.0
+rheinhessische,rheinhessische,MISC,,,de,1.0
+Im Jahr 2024,Im Jahr 2024,MISC,,,de,1.0
+Blättermeer,Blättermeer,MISC,,,de,1.0
 Ein Jahr nach Flutkatastrophe,Ein Jahr nach Flutkatastrophe,MISC,,,de,1.0
+Hohe Temperaturen“,Hohe Temperaturen“,MISC,,,de,1.0
+Olympischen Winterspielen,Olympischen Winterspielen,MISC,,,de,1.0
+Winter-Olympia,Winter-Olympia,MISC,,,de,1.0
+Winterspiele in Italien“,Winterspiele in Italien“,MISC,,,de,1.0
+Niedersa…,Niedersa…,MISC,,,de,1.0
+Oldenburgia,Oldenburgia,MISC,0.6999999999999998,0.0,de,1.0
+Weltkindertag“,Weltkindertag“,MISC,,,de,1.0
+Déjeuner  ,Déjeuner  ,MISC,,,de,1.0
+Beaver,Beaver,MISC,,,de,1.0
+Hochwasserübung“,Hochwasserübung“,MISC,,,de,1.0
+Intermezzo i…,Intermezzo i…,MISC,,,de,1.0
+Wetterwechs…,Wetterwechs…,MISC,,,de,1.0
+Son…,Son…,MISC,0.0,1.0,de,1.0
+Die WELT,Die WELT,MISC,,,de,1.0
+Sommerfinale“,Sommerfinale“,MISC,,,de,1.0
+Der bunte Herbst,Der bunte Herbst,MISC,,,de,1.0
+Höhenangst,Höhenangst,MISC,,,de,1.0
+Raps,Raps,MISC,0.0,0.0,de,1.0
+stern,stern,MISC,,,de,1.0
+RLP,RLP,MISC,,,de,1.0
+New Zealand Transport Agency1,New Zealand Transport Agency1,MISC,,,de,1.0
+Österreichischen Olympischen Comites,Österreichischen Olympischen Comites,MISC,,,de,1.0
+Sommerspielen 2028,Sommerspielen 2028,MISC,,,de,1.0
+Apfel des Jahres,Apfel des Jahres,MISC,,,de,1.0
+Herbst-Feeling,Herbst-Feeling,MISC,,,de,1.0
+nächsten Jahr,nächsten Jahr,MISC,,,de,1.0
+Xi,Xi,MISC,,,de,1.0
+Wärmewende“,Wärmewende“,MISC,,,de,1.0
+Gratis-Spiele,Gratis-Spiele,MISC,,,de,1.0
+Salatköpfe u…,Salatköpfe u…,MISC,,,de,1.0
+Zeit“,Zeit“,MISC,,,de,1.0
+Londoner,Londoner,MISC,,,de,1.0
+Wetteraussicht“,Wetteraussicht“,MISC,,,de,1.0
+Ukra…,Ukra…,MISC,,,de,1.0
+nass-kühlen,nass-kühlen,MISC,,,de,1.0
+Ru…,Ru…,MISC,,,de,1.0
+Cup,Cup,MISC,,,de,1.0
+Multiplayer-Survival,Multiplayer-Survival,MISC,,,de,1.0
+Samorost 2,Samorost 2,MISC,,,de,1.0
+Project Winter,Project Winter,MISC,,,de,1.0
+Erntebeginn“,Erntebeginn“,MISC,,,de,1.0
+Tiktok-Deal,Tiktok-Deal,MISC,,,de,1.0
+Die Herbstdeichschauen,Die Herbstdeichschauen,MISC,,,de,1.0
+Chr…,Chr…,MISC,,,de,1.0
+Pluszeichen“,Pluszeichen“,MISC,,,de,1.0
+Schweizer Weinbauern,Schweizer Weinbauern,MISC,,,de,1.0
+Tag“,Tag“,MISC,,,de,1.0
+Staudä…,Staudä…,MISC,,,de,1.0
+Ein letztes Mal Sommer-Feeling,Ein letztes Mal Sommer-Feeling,MISC,,,de,1.0
+Birnen,Birnen,MISC,,,de,1.0
+Wolfsburg-Star,Wolfsburg-Star,MISC,,,de,1.0
+amerikanische,amerikanische,MISC,,,de,1.0
+Shutdown“,Shutdown“,MISC,,,de,1.0
+Toten“,Toten“,MISC,,,de,1.0
 Vitaminreiches,Vitaminreiches,MISC,,,de,1.0
+Fleißige Insekten“,Fleißige Insekten“,MISC,,,de,1.0
+Fährausfälle“,Fährausfälle“,MISC,,,de,1.0
+Dramatische Rettung,Dramatische Rettung,MISC,,,de,1.0
+Blick auf den Frühling,Blick auf den Frühling,MISC,,,de,1.0
+Spontan-Urlaub,Spontan-Urlaub,MISC,,,de,1.0
+off…,off…,MISC,,,de,1.0
+Witterung,Witterung,MISC,,,de,1.0
+Die Hochwasserschutzanlage,Die Hochwasserschutzanlage,MISC,,,de,1.0
+12 Mio. Euro,12 Mio. Euro,MISC,,,de,1.0
+Campingplatzes,Campingplatzes,MISC,,,de,1.0
+ostfriesischen,ostfriesischen,MISC,,,de,1.0
+Das Sturmtief,Das Sturmtief,MISC,,,de,1.0
+05.10.2025,05.10.2025,MISC,,,de,1.0
+Ungemütliches,Ungemütliches,MISC,,,de,1.0
+Everest-Region,Everest-Region,MISC,,,de,1.0
+Obe…,Obe…,MISC,,,de,1.0
+Stürmische Nacht,Stürmische Nacht,MISC,,,de,1.0
+Wie d…,Wie d…,MISC,,,de,1.0
+Wenn im Herbst das Laub,Wenn im Herbst das Laub,MISC,,,de,1.0
+Frü…,Frü…,MISC,,,de,1.0
+Oktober-Sonntag,Oktober-Sonntag,MISC,,,de,1.0
+Auto­fah…,Auto­fah…,MISC,,,de,1.0
+Spätes­tens,Spätes­tens,MISC,,,de,1.0
+ADAC-Bestenlisten,ADAC-Bestenlisten,MISC,,,de,1.0
+Bestpreis,Bestpreis,MISC,,,de,1.0
+ADAC-Winterreifen,ADAC-Winterreifen,MISC,,,de,1.0
+Schneesturm auf Mount Everest,Schneesturm auf Mount Everest,MISC,,,de,1.0
+Videos,Videos,MISC,,,de,1.0
+kommunistischen,kommunistischen,MISC,,,de,1.0
+Runway-Kombi,Runway-Kombi,MISC,,,de,1.0
+Die Völker Kopiere,Die Völker Kopiere,MISC,,,de,1.0
+Tour nieselte,Tour nieselte,MISC,,,de,1.0
+Die Schwarze Elster,Die Schwarze Elster,MISC,,,de,1.0
+Gelsenkirchen - Mann,Gelsenkirchen - Mann,MISC,,,de,1.0
+Deutsche Weinbauern,Deutsche Weinbauern,MISC,,,de,1.0
+Australische,Australische,MISC,,,de,1.0
+WM in Saudi-Arabien,WM in Saudi-Arabien,MISC,,,de,1.0
+WOW,WOW,MISC,,,de,1.0
+Der Zeuge,Der Zeuge,MISC,,,de,1.0
+Eiskeller-Prozess,Eiskeller-Prozess,MISC,,,de,1.0
+Britische Lehman-Insolvenz,Britische Lehman-Insolvenz,MISC,,,de,1.0
+Endzeit-Texte,Endzeit-Texte,MISC,,,de,1.0
+Herbst-Suchbild,Herbst-Suchbild,MISC,0.0,0.0,de,1.0
+Meister der Apokalypse“,Meister der Apokalypse“,MISC,,,de,1.0
+Bürgergeld wir…,Bürgergeld wir…,MISC,,,de,1.0
+Halloween-Kürbisse,Halloween-Kürbisse,MISC,,,de,1.0
+Kürbis-König,Kürbis-König,MISC,,,de,1.0
+Kino-Programm,Kino-Programm,MISC,,,de,1.0
+Wen,Wen,MISC,,,de,1.0
+Außenwelt,Außenwelt,MISC,,,de,1.0
+Schnee und eisiger Sturm,Schnee und eisiger Sturm,MISC,,,de,1.0
+Arabellion im Jahr 2011,Arabellion im Jahr 2011,MISC,,,de,1.0
+Generation Z,Generation Z,MISC,,,de,1.0
+Du siehst manchmal den Wald,Du siehst manchmal den Wald,MISC,,,de,1.0
+Wechselhaftes Herbstwet,Wechselhaftes Herbstwet,MISC,,,de,1.0
+Holocaust,Holocaust,MISC,,,de,1.0
 Radmode für Männer,Radmode für Männer,MISC,,,de,1.0
 Dead of Winter – Eisige Stille,Dead of Winter – Eisige Stille,MISC,,,de,1.0
+Das deutsche Gewichtheben,Das deutsche Gewichtheben,MISC,,,de,1.0
 Null Starter,Null Starter,MISC,,,de,1.0
 Olympischen Spielen in Paris,Olympischen Spielen in Paris,MISC,,,de,1.0
 Wassertouren unternehme…,Wassertouren unternehme…,MISC,,,de,1.0
@@ -1889,7 +1947,7 @@ Gletsc…,Gletsc…,MISC,,,de,1.0
 ve…,ve…,MISC,,,de,1.0
 Eisige Stille,Eisige Stille,MISC,,,de,1.0
 Sommer-Bilanz“,Sommer-Bilanz“,MISC,,,de,1.0
-Wechsel im Winter,Wechsel im Winter,MISC,,,de,1.0
+Jahr für Landwirte,Jahr für Landwirte,MISC,,,de,1.0
 Notfälle“,Notfälle“,MISC,,,de,1.0
 Tagessieg,Tagessieg,MISC,,,de,1.0
 Zugvögel am Himmel,Zugvögel am Himmel,MISC,,,de,1.0
@@ -1900,4 +1958,33 @@ Willkommen an der Westküste,Willkommen an der Westküste,MISC,,,de,1.0
 Urlaub in Fort Myers - Beach-Life,Urlaub in Fort Myers - Beach-Life,MISC,,,de,1.0
 ehemal…,ehemal…,MISC,,,de,1.0
 Wende,Wende,MISC,,,de,1.0
-Abfa…,Abfa…,MISC,,,de,1.0
+Wechsel im Winter,Wechsel im Winter,MISC,,,de,1.0
+Erntedank in Bayern“,Erntedank in Bayern“,MISC,,,de,1.0
+Hopfenpflanzer“,Hopfenpflanzer“,MISC,,,de,1.0
+Tschechischer,Tschechischer,MISC,,,de,1.0
+Gru…,Gru…,MISC,,,de,1.0
+Oktober-Wochenende,Oktober-Wochenende,MISC,,,de,1.0
+Ör… Ahoi Pirates!,Ör… Ahoi Pirates!,MISC,,,de,1.0
+Herbst lieben,Herbst lieben,MISC,,,de,1.0
+Tag der Kopiere,Tag der Kopiere,MISC,,,de,1.0
+Das freundliche Herbstwetter,Das freundliche Herbstwetter,MISC,,,de,1.0
+Die Schwestern Grimm,Die Schwestern Grimm,MISC,,,de,1.0
+Die Grimm,Die Grimm,MISC,,,de,1.0
+Fantasy-Abenteuerserie,Fantasy-Abenteuerserie,MISC,,,de,1.0
+Die Schwestern Grimm“,Die Schwestern Grimm“,MISC,,,de,1.0
+Apple TV+,Apple TV+,MISC,,,de,1.0
+jed…,jed…,MISC,,,de,1.0
+Nutria-Invasion,Nutria-Invasion,MISC,,,de,1.0
+Getreidebauern,Getreidebauern,MISC,,,de,1.0
+Tag der Deutschen Einheit,Tag der Deutschen Einheit,MISC,,,de,1.0
+Landeserntedankfest,Landeserntedankfest,MISC,-1.0,0.0,de,1.0
+Nager-Reviere,Nager-Reviere,MISC,,,de,1.0
+Die invasive Art,Die invasive Art,MISC,,,de,1.0
+Invasive Nutrias“,Invasive Nutrias“,MISC,,,de,1.0
+T46,T46,MISC,,,de,1.0
+deutschen Teams,deutschen Teams,MISC,,,de,1.0
+WM-Bronze,WM-Bronze,MISC,,,de,1.0
+IPO-Pläne,IPO-Pläne,MISC,,,de,1.0
+DeepL,DeepL,MISC,,,de,1.0
+Tag für Tag mi…,Tag für Tag mi…,MISC,,,de,1.0
+Pinguin-Gang,Pinguin-Gang,MISC,,,de,1.0
