@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.3110250557864868
 'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.285433944311136
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2168078392504045
-'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.2033748563670862
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.15564514779919217
+'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.19094374791202326
+'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1556451477991921
 'Gewitter',de,Sommer,#a89216,#c4b03b,2,0.1396083929919015
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1381208542701631
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1229507506176641
