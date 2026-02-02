@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.4143213722110369
 'Winter',de,Winter,#4287f5,#315fa8,3,0.3468507526564309
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.3326429863057367
-'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.285433944311136
+'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.2898695726644656
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2168078392504045
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1781638865384042
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.1532046076164367
@@ -29,4 +29,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.00168573954113
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.000607846672913
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0002793401133841
-'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.00024647696606130997
+'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0002464769660613
