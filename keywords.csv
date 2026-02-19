@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.4009758754577943
 'Winter',de,Winter,#4287f5,#315fa8,3,0.3752783254376354
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.3132977389558769
+'Hochwasser',de,Winter,#4287f5,#022f78,3,0.25365603773833145
 'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.2516774140455309
-'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2300259524194274
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.2295473947865744
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.140514476409797
 'Gewitter',de,Sommer,#a89216,#c4b03b,1,0.1396083929919015
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0870069477115403
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.0833117319399039
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0828204932334779
-'Hasel',de,Winter,#4287f5,#537ee4,1,0.08156566309408496
+'Hasel',de,Winter,#4287f5,#537ee4,1,0.0815656630940849
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0804267019584831
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0683798581302036
 'Erle',de,Winter,#4287f5,#537ef4,1,0.064899926036469
