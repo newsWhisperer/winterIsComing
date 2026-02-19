@@ -14,12 +14,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blüte',de,Frühling,#679e2c,#61b00c,1,0.1152718832416747
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.1129213023389161
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1109881723104256
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.09979231721019281
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0997923172101928
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0870069477115403
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.0833117319399039
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0828204932334779
+'Hasel',de,Winter,#4287f5,#537ee4,1,0.08156566309408496
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0804267019584831
-'Hasel',de,Winter,#4287f5,#537ee4,1,0.0721358095224529
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0683798581302036
 'Erle',de,Winter,#4287f5,#537ef4,1,0.064899926036469
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.0586890549207069
