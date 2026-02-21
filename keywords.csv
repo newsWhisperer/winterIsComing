@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1211606759023077
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1207587507128044
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1198891883196044
-'Blüte',de,Frühling,#679e2c,#61b00c,1,0.1152718832416747
+'Blüte',de,Frühling,#679e2c,#61b00c,2,0.11520508802815077
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.1129213023389161
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1033607364638617
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0997923172101928
