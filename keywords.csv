@@ -18,10 +18,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0959831069880786
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0870069477115403
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0853975692484562
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0848234696286638
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0815656630940849
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0804267019584831
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.077454957499072
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.07209994918436423
 'Erle',de,Winter,#4287f5,#537ef4,1,0.064899926036469
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0032328167138515
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0028568394823187
