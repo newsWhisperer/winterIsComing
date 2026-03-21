@@ -5,17 +5,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.2479614033322278
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.2226355699895024
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1850894470030805
-'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1696835311628051
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.16926157359568
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.1613375349974973
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1583802424172525
+'Hochwasser',de,Winter,#4287f5,#022f78,3,0.15736512967020252
 'Frühblüher',de,Winter,#5287e5,#638ed4,2,0.1441386833424419
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1356031575512008
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1273117355262092
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1197912178413652
 'Hasel',de,Winter,#4287f5,#537ee4,2,0.1121007936299721
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1075380538611877
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.10354502810588374
+'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1035450281058837
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1017059805548092
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1009904541761006
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0804267019584831
