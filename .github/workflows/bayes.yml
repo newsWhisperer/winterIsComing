@@ -30,9 +30,9 @@ jobs:
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: Install HanTa textblob_de
-        run: (pip3 install HanTa textblob==0.15.3 textblob_de==0.4.3 scikit-learn) 
+        run: (uv pip install HanTa textblob==0.15.3 textblob_de==0.4.3 scikit-learn) 
       - name: Run bayes
-        run: (python3 bayes.py)
+        run: (uv run python bayes.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:
