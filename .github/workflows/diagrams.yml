@@ -33,9 +33,9 @@ jobs:
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: Install nltk
-        run: (pip3 install nltk scikit-learn)
+        run: (uv pip install nltk scikit-learn)
       - name: Run diagrams
-        run: (python3 diagrams.py)
+        run: (uv run python diagrams.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:

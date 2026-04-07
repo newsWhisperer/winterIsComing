@@ -30,11 +30,11 @@ jobs:
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: Install shapely cartopy
-        run: (pip3 install shapely cartopy --no-binary shapely --no-binary cartopy)
+        run: (uv pip install shapely cartopy --no-binary shapely --no-binary cartopy)
       - name: Install folium pillow
-        run: (pip3 install folium pillow)
+        run: (uv pip install folium pillow)
       - name: Run diagrams
-        run: (python3 heatmap.py)
+        run: (uv run python heatmap.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:

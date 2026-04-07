@@ -31,7 +31,7 @@ jobs:
             NEWSAPI_KEY:  ${{ secrets.NEWSAPI_KEY }}
             RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
             GEONAMES_KEY: ${{ secrets.GEONAMES_KEY }}            
-        run: (python3 check_api.py)
+        run: (uv run python check_api.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:

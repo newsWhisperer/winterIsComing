@@ -32,11 +32,11 @@ jobs:
 #        with:
 #          ref: master
       - name: install aiohttp
-        run: (pip3 install aiohttp)
+        run: (uv pip install aiohttp)
       - name: install asyncio
-        run: (pip3 install asyncio)
+        run: (uv pip install asyncio)
       - name: install deep-translator
-        run: (pip3 install deep-translator)
+        run: (uv pip install deep-translator)
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: cp mysecrets.py
@@ -44,7 +44,7 @@ jobs:
       - name: Run newsapi
         env:
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-        run: (python3 newsapi.py)
+        run: (uv run python newsapi.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:
