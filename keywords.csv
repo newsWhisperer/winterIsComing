@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1009904541761006
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.077454957499072
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0683626966647106
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0615849868067095
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0595173715293462
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.052647268785703076
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0505818232915706
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0021650507965802
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0021473411637669
