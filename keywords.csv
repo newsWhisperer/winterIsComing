@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2679181285829139
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2472615100270179
 'Sommer',de,Sommer,#a89216,#a89216,3,0.2447883743158448
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1957453439366829
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1885981036956061
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1726394204090715
+'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.17133798234618045
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.1461784138387818
 'Frühblüher',de,Winter,#5287e5,#638ed4,2,0.1441386833424419
 'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.1426631914087373
