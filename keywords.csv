@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.2846556075724127
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2175551736728001
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.2139543112126071
-'Winter',de,Winter,#4287f5,#315fa8,3,0.2118374703672084
+'Winter',de,Winter,#4287f5,#315fa8,3,0.2095797443575817
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1701060847690868
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1697357699186444
 'Spätfrost',de,Frühling,#679e2c,#477515,2,0.1618984014986967
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#9e3215,#802d16,1,0.1273117355262092
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1272668306197058
 'Hasel',de,Winter,#4287f5,#537ee4,2,0.1261515029005065
-'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.12425178676296453
+'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1242517867629645
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1212640426974267
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1118552636650017
 'Erle',de,Winter,#4287f5,#537ef4,2,0.1092063562219077
