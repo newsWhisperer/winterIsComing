@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.3047578664492715
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2389695567127892
-'Winter',de,Winter,#4287f5,#315fa8,3,0.19947722406758078
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1909061386216251
+'Winter',de,Winter,#4287f5,#315fa8,3,0.19089033682107995
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1697357699186444
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1427406248372245
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1376140162738922
