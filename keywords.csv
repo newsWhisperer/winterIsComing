@@ -4,18 +4,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1909061386216251
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1908903368210799
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1697357699186444
-'Sommer',de,Sommer,#a89216,#a89216,3,0.14682104656618628
+'Sommer',de,Sommer,#a89216,#a89216,3,0.1468210465661862
 'Spätfrost',de,Frühling,#679e2c,#477515,2,0.1460223188328083
 'Ernte',de,Herbst,#9e3215,#d64118,2,0.1370524260496855
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1356031575512008
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1295285423903863
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1294490136522914
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1288435572845903
 'Laub',de,Herbst,#9e3215,#802d16,1,0.1273117355262092
 'Hasel',de,Winter,#4287f5,#537ee4,2,0.1261515029005065
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1242517867629645
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.1225181208410756
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1212640426974267
+'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.11273193160444768
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1118552636650017
 'Erle',de,Winter,#4287f5,#537ef4,2,0.1092063562219077
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.1083604058759676
