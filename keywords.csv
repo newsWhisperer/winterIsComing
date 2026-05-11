@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühling',de,Frühling,#679e2c,#679e2c,1,0.2885526610273353
 'Schnee',de,Winter,#4287f5,#638ed4,1,0.2285346086604162
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.22684308935827807
+'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.226843089358278
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1697357699186444
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1684904197159449
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1669548959441392
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.1083604058759676
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.077454957499072
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0637038096582221
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0450502084678475
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.03829267719767037
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0371729179654595
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0330730131539357
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0016325301845732
