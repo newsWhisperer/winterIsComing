@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erle',de,Winter,#4287f5,#537ef4,2,0.1092063562219077
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1056246912928127
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.0841526661155905
-'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.07925048924538654
+'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0792504892453865
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0545982832094887
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0371729179654595
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0326987906180197
@@ -27,6 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0017345585583541
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0011209255083684
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0005014624540516
-'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0003891954922784
+'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.00033081616843664
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0002810732574153
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,1.83011824621907e-05
