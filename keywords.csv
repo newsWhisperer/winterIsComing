@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#9e3215,#802d16,1,0.1273117355262092
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.124119391007887
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1233772010318283
-'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1118552636650017
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.109332258557677
 'Erle',de,Winter,#4287f5,#537ef4,2,0.1092063562219077
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1000165507433042
+'Eicheln',de,Herbst,#9e3215,#f64118,1,0.09702716911525144
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0955940020253167
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0924812575988908
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.0841526661155905
