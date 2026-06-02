@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1854212359870126
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1846526651991708
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1477104267088811
-'Pollen',de,Frühling,#679e2c,#61d01c,3,0.14436569879615332
-'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1424184402021432
+'Blüte',de,Frühling,#679e2c,#61b00c,3,0.14646194462636716
+'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1443656987961533
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1366669979870523
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1288435572845903
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1255466757208055
