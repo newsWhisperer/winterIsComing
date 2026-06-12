@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erle',de,Winter,#4287f5,#537ef4,1,0.1023017843703282
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0996327083079215
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0970271691152514
+'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.086301262180988
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0815549317215192
-'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0814593539590571
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.080535373612045
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0744747386135271
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0576635189797917
