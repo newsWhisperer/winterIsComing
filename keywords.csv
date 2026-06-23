@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.34291145463653677
+'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.3429114546365367
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1943381494627127
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1479063455031983
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1410568469581222
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0503208210309779
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0201679536570615
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.019404495508707
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0020960548787065
+'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.001931661646900525
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0007002842625327
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.000438285123402
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.000203162479441
