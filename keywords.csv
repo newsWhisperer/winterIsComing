@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0996327083079215
 'Laub',de,Herbst,#9e3215,#802d16,2,0.097968651014124
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0929645252185519
-'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.086301262180988
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.080535373612045
+'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.07680641785383979
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0744747386135271
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0576635189797917
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0503208210309779
