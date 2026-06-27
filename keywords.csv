@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0996327083079215
 'Laub',de,Herbst,#9e3215,#802d16,2,0.097968651014124
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0929645252185519
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.09237663878215159
+'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0923766387821515
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0878566067147789
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.080535373612045
 'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.0768064178538397
@@ -28,5 +28,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0007002842625327
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.000438285123402
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0001726881075248
-'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0001060066428891
+'Laubfärbung',de,Herbst,#9e3215,#e63128,1,9.0105646455735e-05
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,5.866939785832973e-06
