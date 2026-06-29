@@ -23,10 +23,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0576635189797917
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0503208210309779
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.019404495508707
-'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.014848874267226869
+'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0148488742672268
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0019316616469005
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0007002842625327
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.000438285123402
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0006725723548917
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0001726881075248
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,9.0105646455735e-05
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,5.866939785832973e-06
