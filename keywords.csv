@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0791202029648287
 'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.0768064178538397
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0744747386135271
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0503208210309779
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0493140211328229
-'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.01649382118240095
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.04292271287633122
+'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0164938211824009
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0148488742672268
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0019316616469005
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0008952716231527
