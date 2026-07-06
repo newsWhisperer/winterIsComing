@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1146889695491289
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1088137921773141
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1086789038165508
-'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1067825462559923
+'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.10798859659032073
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1067146743626846
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0996327083079215
-'Hasel',de,Winter,#4287f5,#537ee4,1,0.09332218333444876
+'Hasel',de,Winter,#4287f5,#537ee4,1,0.0933221833344487
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0929645252185519
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0878566067147789
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.080535373612045
