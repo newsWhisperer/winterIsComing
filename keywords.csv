@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.2018496036186331
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1731652028773845
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1710550312140826
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.1426096019647813
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1419690945454761
+'Schnee',de,Winter,#4287f5,#638ed4,3,0.1343536848518823
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1302966795390089
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1235672847853765
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1146889695491289
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.080535373612045
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0791202029648287
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0744747386135271
-'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.05754125739939915
+'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.0575412573993991
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0429227128763312
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0422169479628994
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0140197480050407
