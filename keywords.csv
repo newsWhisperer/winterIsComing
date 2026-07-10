@@ -19,13 +19,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.080535373612045
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0791202029648287
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0744747386135271
-'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.0666360851757637
+'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.05754125739939915
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0429227128763312
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0422169479628994
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0140197480050407
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0108558244080712
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0010610108796797
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.00100833945256721
+'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0010083394525672
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0008717165016579
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.000146784891396
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,5.533613012962825e-05
