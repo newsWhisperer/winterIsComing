@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.3013462539938922
 'Sommer',de,Sommer,#a89216,#a89216,3,0.2085868682623884
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1889606892639586
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.15859008666576435
+'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1585900866657643
 'Ernte',de,Herbst,#9e3215,#d64118,2,0.1470367921724981
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1301664097373031
 'Winter',de,Winter,#4287f5,#315fa8,3,0.115074813229952
@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1088137921773141
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1024199364357691
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0996327083079215
+'Erle',de,Winter,#4287f5,#537ef4,1,0.09897829570756207
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.0967410871017726
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0933221833344487
 'Laub',de,Herbst,#9e3215,#802d16,2,0.0916541876892761
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.0907074732082819
-'Erle',de,Winter,#4287f5,#537ef4,1,0.0878566067147789
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.080535373612045
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0744747386135271
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0678522325201044
