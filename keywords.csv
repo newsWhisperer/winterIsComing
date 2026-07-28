@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.099908902006131
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0933221833344487
 'Laub',de,Herbst,#9e3215,#802d16,2,0.0916541876892761
-'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.08483781706173327
+'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0848378170617332
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.0771013522270396
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0745646238987135
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0690557483982732
@@ -29,4 +29,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0004474055719072
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,7.6622630714276e-05
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,3.398330091585795e-05
-'Holunderbeere',de,Herbst,#9e3215,#e63128,1,3.062579236578473e-06
+'Holunderbeere',de,Herbst,#9e3215,#e63128,1,2.6031923510917017e-06
