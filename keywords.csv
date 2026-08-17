@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Apfelernte',de,Sommer,#a89216,#77731f,2,0.1317199245252752
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1246410419414023
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1229193001722766
-'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1226891631153714
+'Blüte',de,Frühling,#679e2c,#61b00c,3,0.11332792773897478
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1124244726420887
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1107240991167595
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.099908902006131
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.0575412573993991
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0360344207684644
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.0344878073340711
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.02225400013960399
+'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0222540001396039
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0069443609146066
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0066065502572476
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0027589875884088
