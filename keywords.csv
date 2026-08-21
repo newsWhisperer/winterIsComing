@@ -20,12 +20,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0722621595024732
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0648800803139064
 'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.0575412573993991
+'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.040252766777415606
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.0344878073340711
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0307792726531947
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0222540001396039
-'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0069443609146066
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0066065502572476
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.00324522945014748
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0032452294501474
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0001985162290971
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,3.999749212429402e-05
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,1.5078571152652282e-05
