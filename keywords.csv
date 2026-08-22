@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.3763454182508385
+'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.4247590255132127
 'Sommer',de,Sommer,#a89216,#a89216,3,0.3532293707459332
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.3398655515407305
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.2115620730620369
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1246410419414023
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1133279277389747
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1124244726420887
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.11196219084648393
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1119621908464839
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1107240991167595
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.099908902006131
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0972572159704037
