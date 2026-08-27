@@ -100,7 +100,7 @@ def inqRapidDeeplTranslator4(results=[]):
         if('message' in jsonData):
           if('You are not subscribed to this API.'==jsonData['message']):
             results.append(":no_entry: **Not** subscribed to Deepl-Translator-4")
-            addSubscribeMessageToResults(results, "Deepl-Translator-4", "https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction")
+            addSubscribeMessageToResults(results, "Deepl-Translator-4", "https://rapidapi.com/wiryaimdx/api/deepl-translator4")
             return False
         if ('text' in jsonData):
           results.append(":white_check_mark: Deepl-Translator-4 status fine")
@@ -113,7 +113,7 @@ def inqRapidDeeplTranslator4(results=[]):
             return False
         else:
           results.append(":no_entry: Deepl-Translator-4 status **failed**:")
-          addSubscribeMessageToResults(results, "Deepl-Translator-4", "https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction")
+          addSubscribeMessageToResults(results, "Deepl-Translator-4", "https://rapidapi.com/wiryaimdx/api/deepl-translator4")
           return False
     else:
       results.append(":no_entry: Deepl-Translator-4 respone **failed**") 
