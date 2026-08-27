@@ -32,8 +32,17 @@
   
 ### RapidAPI: Google-News-22  
 :white_check_mark: Google-News-22 respone fine  
-:white_check_mark: Google-News-22 status fine  
-:white_check_mark: Google-News-22 results found  
+:no_entry:  Google-News-22 status **failed**:  
+Subscribe to Google-News-22 API:  
+1. Login and 'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/google-news22  
+2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
+   
+If it doesn't help, **recheck** the registration and the key entry:  
+1. Please register at https://rapidapi.com/auth/sign-up  
+2. Copy your API key from (**X-RapidAPI-Key**) from the [same site](https://rapidapi.com/bonaipowered/api/google-news22)  
+3. Assign the API key as (new?) organization secret or edit it at https://github.com/organizations/newsWhisperer/settings/secrets/actions  
+   * Name:  **RAPIDAPI_KEY**   
+   * Value: **Your key here**   
 
 ---
   
@@ -54,8 +63,7 @@
 ### RapidAPI: Real-Time-News-Data  
 :white_check_mark: Real-Time-News-Data respone fine  
 :white_check_mark: Real-Time-News-Data status fine  
-:no_entry: Real-Time-News-Data results **not** found  
-Maybe retry later...?  
+:white_check_mark: Real-Time-News-Data results found  
 
 ---
   
@@ -99,8 +107,8 @@ Maybe retry later...?
   
 ### RapidAPI: Deepl-Translator-4  
 :white_check_mark: Deepl-Translator-4 respone fine  
-:no_entry: Deepl-Translator-4 status **failed**:  
+:no_entry: **Not** subscribed to Deepl-Translator-4  
 Subscribe to Deepl-Translator-4 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction  
+1. Login and 'Subscribe to Test' at https://rapidapi.com/wiryaimdx/api/deepl-translator4  
 2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
    
