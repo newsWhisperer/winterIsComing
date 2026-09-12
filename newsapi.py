@@ -509,6 +509,9 @@ def inqRandomNews():
       if(randomNumber<0.4): 
         print("DF3 successors")
         rndKey = keywordsDF3.sample()
+      if(randomNumber<0.1):
+        print("DF3 first")
+        rndKey = keywordsDF3.head(1).sample() 
     #if FoundAny: newLimit = minimum(currPage+1,limitPage)
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
