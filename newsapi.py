@@ -127,11 +127,15 @@ def translateData(data):
    if('de'==data['language']):
        data['de'] = str(data['title']) + '. ' + str(data['description'])
        data['en'] = GoogleTranslator(source='de', target='en').translate(text=data['de'])
+       time.sleep(0.3)
        data['la'] = GoogleTranslator(source='de', target='la').translate(text=data['de'])
+       time.sleep(0.3)
    if('en'==data['language']):
        data['en'] = str(data['title']) + '. ' + str(data['description'])
        data['de'] = GoogleTranslator(source='en', target='de').translate(text=data['en'])
+       time.sleep(0.3)
        data['la'] = GoogleTranslator(source='en', target='la').translate(text=data['en'])
+       time.sleep(0.3)
    return(data) 
 
 
