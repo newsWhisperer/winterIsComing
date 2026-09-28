@@ -100,8 +100,8 @@ Orkan!,Orkan!,ORG,0.1891891891891892,0.0,de,3.6999999999999997
 VfB,VfB,ORG,-0.2702702702702703,0.0,de,3.6999999999999997
 Co.,Co.,ORG,0.0,0.0,de,3.6999999999999997
 Deutsche Wetterdienst …,Deutsche Wetterdienst …,ORG,0.1891891891891892,0.0,de,3.6999999999999997
-FIFA,FIFA,ORG,0.0,0.0,de,3.6999999999999997
 Deutsche Wetterdi…,Deutsche Wetterdi…,ORG,0.2702702702702703,0.0,de,3.6999999999999997
+FIFA,FIFA,ORG,0.0,0.0,de,3.6999999999999997
 bb,bb,ORG,0.5405405405405406,0.0,de,3.6999999999999997
 WHO,WHO,ORG,0.0,0.0,de,3.6999999999999997
 RKI,RKI,ORG,-0.2702702702702703,0.0,de,3.6999999999999997
@@ -238,8 +238,8 @@ Deutsche …,Deutsche …,ORG,0.0,0.0,de,1.9
 SC Freiburg,SC Freiburg,ORG,1.0526315789473684,0.0,de,1.9
 Hertha BSC,Hertha BSC,ORG,0.0,0.0,de,1.9
 die Grünen,die Grünen,ORG,0.5263157894736842,0.0,de,1.9
-DWD-Unwetterwarnung,DWD-Unwetterwarnung,ORG,0.0,0.0,de,1.9
 UN-Flüchtlingshilfswerk,UN-Flüchtlingshilfswerk,ORG,-0.18421052631578946,0.0,de,1.9
+DWD-Unwetterwarnung,DWD-Unwetterwarnung,ORG,0.0,0.0,de,1.9
 Deutsche Wetterdienst erw…,Deutsche Wetterdienst erw…,ORG,0.0,0.0,de,1.9
 Forschungsanstalt für Wald,Forschungsanstalt für Wald,ORG,0.0,0.0,de,1.9
 Straßenverkehrsbehörde Hessen Mobil,Straßenverkehrsbehörde Hessen Mobil,ORG,0.0,0.0,de,1.9
@@ -398,9 +398,9 @@ Steam Sales,Steam Sales,ORG,0.7368421052631579,0.0,de,1.9
 Europäischen Union,Europäischen Union,ORG,0.0,0.0,de,1.9
 Fashion Week,Fashion Week,ORG,0.0,0.0,de,1.9
 Deutsche Rote Kreuz,Deutsche Rote Kreuz,ORG,-0.7368421052631579,0.0,de,1.9
-Havelland,Havelland,ORG,-1.0526315789473684,0.0,de,1.9
-Heidenheim,Heidenheim,ORG,0.0,0.0,de,1.9
 esoc/ES…,esoc/ES…,ORG,0.0,0.0,de,1.9
+Heidenheim,Heidenheim,ORG,0.0,0.0,de,1.9
+Havelland,Havelland,ORG,-1.0526315789473684,0.0,de,1.9
 Sprintmodus!,Sprintmodus!,ORG,0.0,0.0,de,1.9
 Fußball-Bundesligist Borussia Dortmund,Fußball-Bundesligist Borussia Dortmund,ORG,0.0,0.0,de,1.9
 FC Liverpool,FC Liverpool,ORG,-0.3684210526315789,0.0,de,1.9
@@ -458,11 +458,11 @@ FITUR,FITUR,ORG,0.4473684210526316,0.0,de,1.9
 Commerzbank,Commerzbank,ORG,0.7368421052631579,0.0,de,1.9
 WM-Halbfinale,WM-Halbfinale,ORG,0.0,0.0,de,1.9
 BRIGITTE-Angebot,BRIGITTE-Angebot,ORG,1.5789473684210527,0.0,de,1.9
+KOMMENTAR,KOMMENTAR,ORG,-0.3684210526315789,0.0,de,1.9
 Wassertank,Wassertank,ORG,0.3684210526315789,0.0,de,1.9
 C…,C…,ORG,0.3684210526315789,0.0,de,1.9
 CORE One+,CORE One+,ORG,0.2631578947368421,0.0,de,1.9
 Polizei Berlin,Polizei Berlin,ORG,0.15789473684210528,0.0,de,1.9
-KOMMENTAR,KOMMENTAR,ORG,-0.3684210526315789,0.0,de,1.9
 Ragweed,Ragweed,ORG,-0.2631578947368421,0.0,de,1.9
 Promi Tischtennis-WM,Promi Tischtennis-WM,ORG,0.6447368421052632,0.13157894736842105,de,1.9
 Bodenfrost,Bodenfrost,ORG,-0.5263157894736842,0.0,de,1.9
@@ -474,8 +474,8 @@ Siri AI,Siri AI,ORG,0.0,0.5263157894736842,de,1.9
 Ahoi Kreuzfahrt-Piraten!,Ahoi Kreuzfahrt-Piraten!,ORG,0.0,0.0,de,1.9
 DWI,DWI,ORG,0.0,0.0,de,1.9
 Meteoro…,Meteoro…,ORG,0.0,0.0,de,1.9
-Herbst!,Herbst!,ORG,0.0,0.0,de,1.9
 Gewerkschaft,Gewerkschaft,ORG,-0.7368421052631579,0.0,de,1.9
+Herbst!,Herbst!,ORG,0.0,0.0,de,1.9
 Deutschen Fussball-Bundes,Deutschen Fussball-Bundes,ORG,0.7368421052631579,0.0,de,1.9
 Ramona Pop,Ramona Pop,ORG,0.15789473684210528,0.0,de,1.9
 Jusos,Jusos,ORG,-0.3684210526315789,0.0,de,1.9
@@ -504,7 +504,7 @@ Electric Love Urlaub,Electric Love Urlaub,ORG,0.0,0.0,de,1.9
 k…,k…,ORG,0.0,0.0,de,1.9
 Smart Water Europe,Smart Water Europe,ORG,0.7368421052631579,0.0,de,1.9
 Teile Süddeutschlands,Teile Süddeutschlands,ORG,0.0,0.0,de,1.9
-Ver.di,Ver.di,ORG,0.0,0.0,de,1.9
+Deutsche We…,Deutsche We…,ORG,-0.3684210526315789,0.0,de,1.9
 Schwarz-Rot,Schwarz-Rot,ORG,0.8947368421052632,0.0,de,1.9
 Swiss,Swiss,ORG,0.0,0.0,de,1.9
 Dertour,Dertour,ORG,0.0,0.0,de,1.9
@@ -513,16 +513,15 @@ Deutschen We…,Deutschen We…,ORG,0.3684210526315789,0.0,de,1.9
 NINA,NINA,ORG,-0.3684210526315789,0.0,de,1.9
 Tempe…,Tempe…,ORG,0.0,0.0,de,1.9
 Ferrari,Ferrari,ORG,0.0,0.0,de,1.9
-vzbv,vzbv,ORG,0.15789473684210528,0.0,de,1.9
-Deutsche We…,Deutsche We…,ORG,-0.3684210526315789,0.0,de,1.9
+Ver.di,Ver.di,ORG,0.0,0.0,de,1.9
 WhatsApp,WhatsApp,ORG,-0.5263157894736842,0.0,de,1.9
+jüngeren deutschen Geschichte,jüngeren deutschen Geschichte,ORG,0.0,0.0,de,1.9
 Bayer,Bayer,ORG,0.0,0.0,de,1.9
 Somme…,Somme…,ORG,0.0,0.0,de,1.9
 Red Bull,Red Bull,ORG,0.0,0.0,de,1.9
 si…,si…,ORG,0.0,0.0,de,1.9
 Bund für Umwelt und Naturschutz Deutschland,Bund für Umwelt und Naturschutz Deutschland,ORG,-0.18421052631578946,0.0,de,1.9
 Hamas,Hamas,ORG,0.28947368421052627,0.0,de,1.9
-jüngeren deutschen Geschichte,jüngeren deutschen Geschichte,ORG,0.0,0.0,de,1.9
 Deutschen Bank,Deutschen Bank,ORG,-0.15789473684210528,0.0,de,1.9
 DBV,DBV,ORG,-0.7368421052631579,0.0,de,1.9
 Weizenland Hessen,Weizenland Hessen,ORG,0.0,0.0,de,1.9
@@ -530,9 +529,10 @@ Voigt,Voigt,ORG,0.0,0.0,de,1.9
 WELT-Chefreporter Wissenschaft,WELT-Chefreporter Wissenschaft,ORG,-1.0526315789473684,0.0,de,1.9
 Kirche,Kirche,ORG,0.0,0.0,de,1.9
 Internationale Olympische Komitee,Internationale Olympische Komitee,ORG,0.0,0.0,de,1.9
+vzbv,vzbv,ORG,0.15789473684210528,0.0,de,1.9
+russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.9090909090909091,de,1.1
 Versicherer Allianz Trade,Versicherer Allianz Trade,ORG,0.0,0.0,de,1.1
 gle…,gle…,ORG,0.3181818181818181,0.45454545454545453,de,1.1
-russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.0,de,1.1
 Landwir…,Landwir…,ORG,0.0,0.0,de,1.1
 BBK,BBK,ORG,-1.2727272727272725,0.0,de,1.1
 Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,ORG,-1.2727272727272725,0.0,de,1.1
@@ -605,8 +605,8 @@ Volksbundes Deutsche Kriegsgräberfürsorge,Volksbundes Deutsche Kriegsgräberf�
 Deutschland Hitzerekorde,Deutschland Hitzerekorde,ORG,0.0,0.0,de,1.0
 Feldberg!,Feldberg!,ORG,0.0,0.0,de,1.0
 Jubelwetter,Jubelwetter,ORG,0.0,0.0,de,1.0
-Bolivien,Bolivien,ORG,1.0,0.0,de,1.0
 Garten-Tipps,Garten-Tipps,ORG,1.0,0.0,de,1.0
+Bolivien,Bolivien,ORG,1.0,0.0,de,1.0
 EPI.Chris,EPI.Chris,ORG,0.0,0.0,de,1.0
 EPI Company,EPI Company,ORG,0.0,0.0,de,1.0
 SPONSORED CONTENT,SPONSORED CONTENT,ORG,0.0,0.0,de,1.0
@@ -662,7 +662,7 @@ Landesamts für Umwelt Brandenburg,Landesamts für Umwelt Brandenburg,ORG,0.0,0.
 San José Earthquakes,San José Earthquakes,ORG,0.7,0.0,de,1.0
 Borussia Mönchengladbach,Borussia Mönchengladbach,ORG,0.0,0.0,de,1.0
 Airlines Ticketpreise,Airlines Ticketpreise,ORG,0.7,0.0,de,1.0
-soga…,soga…,ORG,0.0,0.0,de,1.0
+Winterquartie…,Winterquartie…,ORG,0.0,0.0,de,1.0
 Ex-Nationa…,Ex-Nationa…,ORG,0.0,0.0,de,1.0
 TSV Dachau,TSV Dachau,ORG,0.0,0.0,de,1.0
 Tischtennis-Coup,Tischtennis-Coup,ORG,0.0,0.0,de,1.0
@@ -674,12 +674,12 @@ EAWS,EAWS,ORG,0.0,0.0,de,1.0
 Bundesanstalt für Gewässerkunde,Bundesanstalt für Gewässerkunde,ORG,0.0,0.0,de,1.0
 +++Stuttgart,+++Stuttgart,ORG,0.0,0.0,de,1.0
 Waschbox!,Waschbox!,ORG,0.0,0.0,de,1.0
-Winterquartie…,Winterquartie…,ORG,0.0,0.0,de,1.0
+soga…,soga…,ORG,0.0,0.0,de,1.0
+Dresdner Christstollen,Dresdner Christstollen,ORG,0.0,0.0,de,1.0
+Gewit…,Gewit…,ORG,0.0,0.0,de,1.0
 Vogelgrippe‑Fälle,Vogelgrippe‑Fälle,ORG,0.0,0.0,de,1.0
 App,App,ORG,0.7,0.0,de,1.0
 Pixel Watch 4,Pixel Watch 4,ORG,0.0,0.0,de,1.0
-Dresdner Christstollen,Dresdner Christstollen,ORG,0.0,0.0,de,1.0
-Gewit…,Gewit…,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdienst mit…,Deutsche Wetterdienst mit…,ORG,0.0,0.0,de,1.0
 Pixel Buds,Pixel Buds,ORG,0.0,0.0,de,1.0
 Club,Club,ORG,0.0,0.0,de,1.0
@@ -715,7 +715,7 @@ Sonne sc,Sonne sc,ORG,0.0,0.0,de,1.0
 Kammer fasse,Kammer fasse,ORG,0.0,0.0,de,1.0
 Heidelberg,Heidelberg,ORG,0.0,0.0,de,1.0
 Frankfurter Palästina-Vereins,Frankfurter Palästina-Vereins,ORG,0.0,0.0,de,1.0
-Vegetationsphasen,Vegetationsphasen,ORG,0.0,0.0,de,1.0
+Zeit für Frühlingsgefühle!,Zeit für Frühlingsgefühle!,ORG,0.0,0.0,de,1.0
 Kainz,Kainz,ORG,0.0,0.0,de,1.0
 Militär,Militär,ORG,0.0,0.0,de,1.0
 Fuck!,Fuck!,ORG,0.0,0.0,de,1.0
@@ -738,7 +738,7 @@ BVR,BVR,ORG,1.0,0.0,de,1.0
 Nasenspray,Nasenspray,ORG,0.0,0.0,de,1.0
 Pollens…,Pollens…,ORG,0.0,0.0,de,1.0
 Mit…,Mit…,ORG,0.0,0.0,de,1.0
-Zeit für Frühlingsgefühle!,Zeit für Frühlingsgefühle!,ORG,0.0,0.0,de,1.0
+Vegetationsphasen,Vegetationsphasen,ORG,0.0,0.0,de,1.0
 SV Wehen,SV Wehen,ORG,0.0,0.0,de,1.0
 Hilfen fü…,Hilfen fü…,ORG,0.0,0.0,de,1.0
 kl…,kl…,ORG,1.0,0.0,de,1.0
@@ -766,8 +766,8 @@ Pollenservice Wien,Pollenservice Wien,ORG,0.85,0.0,de,1.0
 Drohnenspezialist DJI,Drohnenspezialist DJI,ORG,0.9,0.0,de,1.0
 Ostti…,Ostti…,ORG,0.0,0.0,de,1.0
 Premium-Actioncam,Premium-Actioncam,ORG,0.7,0.0,de,1.0
-DJI Osmo Action 4,DJI Osmo Action 4,ORG,0.7,0.0,de,1.0
 Blas­geschwin­di…,Blas­geschwin­di…,ORG,0.0,0.0,de,1.0
+DJI Osmo Action 4,DJI Osmo Action 4,ORG,0.7,0.0,de,1.0
 TU,TU,ORG,1.0,0.0,de,1.0
 Technischen Universität,Technischen Universität,ORG,1.0,0.0,de,1.0
 Release Preview Channel,Release Preview Channel,ORG,0.0,0.0,de,1.0
@@ -923,9 +923,9 @@ Baby Scrat,Baby Scrat,ORG,0.7,0.0,de,1.0
 Skistars,Skistars,ORG,0.0,0.0,de,1.0
 Bauernverbandes Sachsen-Anhalt,Bauernverbandes Sachsen-Anhalt,ORG,-0.7,0.0,de,1.0
 Vorsicht!,Vorsicht!,ORG,0.0,0.0,de,1.0
-Viertelfinal träumen +++ Baby Erle,Viertelfinal träumen +++ Baby Erle,ORG,0.0,0.0,de,1.0
 Terrorfall Winterthur,Terrorfall Winterthur,ORG,0.0,0.0,de,1.0
 get…,get…,ORG,0.0,0.0,de,1.0
+Viertelfinal träumen +++ Baby Erle,Viertelfinal träumen +++ Baby Erle,ORG,0.0,0.0,de,1.0
 Wegbier,Wegbier,ORG,0.7,0.0,de,1.0
 erklä…,erklä…,ORG,0.0,0.0,de,1.0
 klitsc…,klitsc…,ORG,0.0,0.0,de,1.0
@@ -995,10 +995,10 @@ XXL-Kader,XXL-Kader,ORG,0.0,0.0,de,1.0
 Ferti…,Ferti…,ORG,0.0,0.0,de,1.0
 ETH-Forscher,ETH-Forscher,ORG,0.7,0.0,de,1.0
 Gen-Z-Sozialismus,Gen-Z-Sozialismus,ORG,0.0,0.0,de,1.0
-Waldspaziergang,Waldspaziergang,ORG,0.85,0.0,de,1.0
 Economist,Economist,ORG,0.0,0.0,de,1.0
+Waldspaziergang,Waldspaziergang,ORG,0.85,0.0,de,1.0
 vertroc…,vertroc…,ORG,-1.0,0.0,de,1.0
-Deutsche Badegewässer,Deutsche Badegewässer,ORG,1.0,0.0,de,1.0
+Sommer-Abkühlung,Sommer-Abkühlung,ORG,0.7,0.0,de,1.0
 SciLogs,SciLogs,ORG,0.0,0.0,de,1.0
 Berliner S-Bahnverkehr,Berliner S-Bahnverkehr,ORG,0.0,0.0,de,1.0
 Regionalleitstelle Nordost,Regionalleitstelle Nordost,ORG,0.0,0.0,de,1.0
@@ -1022,7 +1022,7 @@ WM-Gruppenspiel,WM-Gruppenspiel,ORG,0.0,0.0,de,1.0
 Grand Theft Auto,Grand Theft Auto,ORG,0.0,0.0,de,1.0
 BOKU,BOKU,ORG,0.7,0.0,de,1.0
 Universität für Bodenkultur,Universität für Bodenkultur,ORG,0.7,0.0,de,1.0
-Sommer-Abkühlung,Sommer-Abkühlung,ORG,0.7,0.0,de,1.0
+Deutsche Badegewässer,Deutsche Badegewässer,ORG,1.0,0.0,de,1.0
 Jahreshoch,Jahreshoch,ORG,0.0,0.0,de,1.0
 HBO,HBO,ORG,0.0,0.0,de,1.0
 Verkehrsverbundes Mittelsachsen,Verkehrsverbundes Mittelsachsen,ORG,0.0,0.0,de,1.0
@@ -1381,12 +1381,12 @@ for Geopolitics","Cambridge Centre
 for Geopolitics",ORG,0.0,0.0,de,1.0
 Universität Cambridge,Universität Cambridge,ORG,0.0,0.0,de,1.0
 Hessen Wiesbaden,Hessen Wiesbaden,ORG,-0.7,0.0,de,1.0
-Deepstate sc,Deepstate sc,ORG,0.0,0.0,de,1.0
 Nato,Nato,ORG,0.0,0.0,de,1.0
-+++,+++,ORG,0.0,0.0,de,1.0
 Tages +++,Tages +++,ORG,0.0,0.0,de,1.0
-russischen Streitkräfte,russischen Streitkräfte,ORG,0.0,0.0,de,1.0
-Cherson +++,Cherson +++,ORG,0.0,0.0,de,1.0
+ukrainische Luftwaffe,ukrainische Luftwaffe,ORG,0.7,0.0,de,1.0
+Angriffskri…,Angriffskri…,ORG,0.0,0.0,de,1.0
+HUR,HUR,ORG,0.7,0.0,de,1.0
+Moskau +++,Moskau +++,ORG,0.7,0.0,de,1.0
 Rathaus-Chef,Rathaus-Chef,ORG,0.0,0.0,de,1.0
 ICE-Zugführer,ICE-Zugführer,ORG,0.15000000000000002,0.0,de,1.0
 Startup Teens,Startup Teens,ORG,0.0,0.0,de,1.0
@@ -1406,9 +1406,9 @@ Rote Kreuz rech…,Rote Kreuz rech…,ORG,0.0,0.0,de,1.0
 Weltorganisation für Meteorologie,Weltorganisation für Meteorologie,ORG,0.0,0.0,de,1.0
 Ministerpräs…,Ministerpräs…,ORG,0.0,0.0,de,1.0
 Ministerium für Infrastruktur und Digitales,Ministerium für Infrastruktur und Digitales,ORG,0.0,0.0,de,1.0
-ukrainische Luftwaffe,ukrainische Luftwaffe,ORG,0.7,0.0,de,1.0
-Moskau +++,Moskau +++,ORG,0.7,0.0,de,1.0
-HUR,HUR,ORG,0.7,0.0,de,1.0
+Deepstate sc,Deepstate sc,ORG,0.0,0.0,de,1.0
+EU-Vertretern,EU-Vertretern,ORG,0.0,0.0,de,1.0
+Russland +++,Russland +++,ORG,0.0,0.0,de,1.0
 trü… Bad König,trü… Bad König,ORG,0.425,0.0,de,1.0
 grüne,grüne,ORG,0.0,0.0,de,1.0
 Institut für transakustische Forschung und Mitb…,Institut für transakustische Forschung und Mitb…,ORG,0.0,0.0,de,1.0
@@ -1422,7 +1422,7 @@ Geländegewi…,Geländegewi…,ORG,0.0,0.0,de,1.0
 Dreamers Destination,Dreamers Destination,ORG,0.7,0.0,de,1.0
 Smart Home-Setup,Smart Home-Setup,ORG,1.4,0.0,de,1.0
 Butzbach +++ Sonne,Butzbach +++ Sonne,ORG,0.425,0.0,de,1.0
-Angriffskri…,Angriffskri…,ORG,0.0,0.0,de,1.0
+EU-Beamten,EU-Beamten,ORG,0.0,0.0,de,1.0
 Kinder +++ Katholische,Kinder +++ Katholische,ORG,0.425,0.0,de,1.0
 Wiesbaden +++ Hessische Ärzte,Wiesbaden +++ Hessische Ärzte,ORG,0.425,0.0,de,1.0
 Bayerischer Landtag,Bayerischer Landtag,ORG,0.0,0.0,de,1.0
@@ -1430,10 +1430,10 @@ PS Vita,PS Vita,ORG,0.0,0.0,de,1.0
 Katar,Katar,ORG,2.0,0.0,de,1.0
 Zu…,Zu…,ORG,1.0,0.0,de,1.0
 Autoba…,Autoba…,ORG,0.0,0.0,de,1.0
++++,+++,ORG,0.0,0.0,de,1.0
+Cherson +++,Cherson +++,ORG,0.0,0.0,de,1.0
+russischen Streitkräfte,russischen Streitkräfte,ORG,0.0,0.0,de,1.0
 SkyNews,SkyNews,ORG,0.0,0.0,de,1.0
-EU-Beamten,EU-Beamten,ORG,0.0,0.0,de,1.0
-Russland +++,Russland +++,ORG,0.0,0.0,de,1.0
-EU-Vertretern,EU-Vertretern,ORG,0.0,0.0,de,1.0
 Schnee +++ Einbrecher,Schnee +++ Einbrecher,ORG,0.0,0.0,de,1.0
 Frankfurt-Marathon +++ Liveblog,Frankfurt-Marathon +++ Liveblog,ORG,-0.7,0.0,de,1.0
 GPS-Geräte,GPS-Geräte,ORG,0.0,0.0,de,1.0
@@ -1780,9 +1780,9 @@ spor…,spor…,ORG,0.0,0.0,de,1.0
 The…,The…,ORG,0.0,0.0,de,1.0
 Notsituation,Notsituation,ORG,0.7,0.0,de,1.0
 Öffi-Verkehr,Öffi-Verkehr,ORG,0.7,0.0,de,1.0
-Nota…,Nota…,ORG,0.0,0.0,de,1.0
-Universitätsmedizin Greifswald,Universitätsmedizin Greifswald,ORG,-1.0,0.0,de,1.0
 Universitätsmedizin…,Universitätsmedizin…,ORG,0.0,0.0,de,1.0
+Die Universitätsmedizin Greifswald,Die Universitätsmedizin Greifswald,ORG,-1.0,0.0,de,1.0
+Rostock/Greifswald,Rostock/Greifswald,ORG,-1.0,0.0,de,1.0
 Polizei Goslar,Polizei Goslar,ORG,0.0,0.0,de,1.0
 Bay…,Bay…,ORG,-0.7,0.0,de,1.0
 Hamburger Winterdienst,Hamburger Winterdienst,ORG,0.0,0.0,de,1.0
@@ -1812,8 +1812,8 @@ Deutsche Wetterdienst für Bayern,Deutsche Wetterdienst für Bayern,ORG,0.0,0.0,
 wäh…,wäh…,ORG,0.0,0.0,de,1.0
 Deutschen Gesellschaft für Allgemeinmedizin und Familienmedizin,Deutschen Gesellschaft für Allgemeinmedizin und Familienmedizin,ORG,0.0,0.0,de,1.0
 Vorpommern-K…,Vorpommern-K…,ORG,0.0,0.0,de,1.0
-Die Universitätsmedizin Greifswald,Die Universitätsmedizin Greifswald,ORG,-1.0,0.0,de,1.0
-Rostock/Greifswald,Rostock/Greifswald,ORG,-1.0,0.0,de,1.0
+Nota…,Nota…,ORG,0.0,0.0,de,1.0
+Universitätsmedizin Greifswald,Universitätsmedizin Greifswald,ORG,-1.0,0.0,de,1.0
 Glatteis-Gefahr!,Glatteis-Gefahr!,ORG,0.0,0.0,de,1.0
 Vorwoche…,Vorwoche…,ORG,0.0,0.0,de,1.0
 Klimaleugner,Klimaleugner,ORG,0.5,0.0,de,1.0
